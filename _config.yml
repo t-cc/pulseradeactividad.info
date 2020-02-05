@@ -7,7 +7,7 @@
 
 # Site settings
 title: Pulsera de Actividad
-email: web@fulseradeactividad.info
+email: web@pulseradeactividad.info
 description: >
   Awesome site description here
 logo: "/assets/images/logo-2.png"
@@ -30,7 +30,7 @@ exclude:
   - 'vendor'
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-157826372-1"
 
 # Build settings
 markdown: kramdown
