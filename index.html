@@ -4,10 +4,12 @@ layout: default
 
 <main class="content" role="main">
 
+  {% comment %}
   <header class="blog-header">
       <h1 class="blog-title">{{ site.title }}</h1>
       <h2 class="blog-description">{{ site.description }}</h2>
   </header>
+  {% endcomment %}
 
   <div class="cf frame">
     {% for post in paginator.posts %}
@@ -29,19 +31,21 @@ layout: default
 
   <nav class="pagination" role="navigation">
     {% if paginator.next_page %}
-      <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; Older posts</a>
+      <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; Entradas Anteriores</a>
     {% else %}
-      <a class="newer-posts disabled">&larr; Older posts</a>
+      <a class="newer-posts disabled">&larr; Entradas Anteriores</a>
     {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% comment %}
+    <span class="page-number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
+    {% endcomment %}
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
-        <a class="older-posts" href="{{ site.baseurl }}/">Newer posts &rarr;</a>
+        <a class="older-posts" href="{{ site.baseurl }}/">Entradas Recientes &rarr;</a>
       {% else %}
-        <a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer posts &rarr;</a>
+        <a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Entradas Recientes &rarr;</a>
       {% endif %}
     {% else %}
-      <a class="older-posts disabled">Newer posts &rarr;</a>
+      <a class="older-posts disabled">Entradas Recientes &rarr;</a>
     {% endif %}
   </nav>
 

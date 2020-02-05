@@ -9,13 +9,13 @@
 title: Pulsera de Actividad
 email: web@pulseradeactividad.info
 description: >
-  Awesome site description here
+  Reviews y análisis sinceros de las mejores pulseras de actividad y pulsómetros deportivos.
 logo: "/assets/images/logo-2.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pulseradeactividad.info" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'pulseradeactividad.info'
 bio: >
   Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
   Ne solet nostrum complectitur pri, vis ut inani populo.

@@ -1,20 +1,23 @@
 ---
 layout: post
 title: Pulsera Xiaomi Mi Band 4
+published: true
 ---
+
+
+Es ella. La reina de las **pulseras de actividad baratas**. La pulsera de actividad más vendida en amazon y con una 
+media en sus reseñas de 4.5 estrellas (sobre 5). Voy a explicar su éxito aunque muchos me vais a odiar después de esto.
 
 
 <amp-img alt="Colores de la Xiaomi Mi Band 4" 
     width="700" height="415" layout="responsive"
-    src="/assets/images/2019/12/14/mi-band-4-hdeader.webp">        
+    src="/assets/images/2019/12/14/mi-band-4-header.webp">        
     <amp-img fallback alt="Colores de la Xiaomi Mi Band 4" 
         width="700" height="415" layout="responsive"
-        src="/assets/images/2019/12/14/mi-band-4-hdeader.jpg">
+        src="/assets/images/2019/12/14/mi-band-4-header.jpg">
     </amp-img>
 </amp-img>
 
-Es ella. La reina de las **pulseras de actividad baratas**. La pulsera de actividad más vendida en amazon y con una 
-media en sus reseñas de 4.5 estrellas (sobre 5). Voy a explicar su éxito aunque muchos me vais a odiar después de esto.
 
 ### ¿Cuál es la clave de su éxito?
 

@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
+// Listado de post en portada
 article {
   padding: rem(20px) 0;
   border-bottom: 1px solid $color-gris-claro;
@@ -353,6 +353,63 @@ article {
     }
   }
 }
+
+
+
+.index-headline {
+  border-top: 1px solid #dededc;
+  margin: 0;
+  padding: 16px 0;
+  span {
+    color: #b3b3b1;
+    font-size: $rs / 8 * 5;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+}
+
+.pagination {
+  text-align: center;
+  padding: $rs * 1 0 0;
+  font-size: $rs / 4 * 3;
+  a {
+    color: #999999;
+    text-decoration: none;
+    &:hover {
+      color: #333333;
+    }
+  }
+}
+
+
+
+.site-footer {
+  margin: 0 auto;
+  padding: $rs * 3 0;
+  width: 100%;
+  max-width: $blog-width;
+  font-size: $rs / 4 * 3;
+  text-align: center;
+  color: #999999;
+  line-height: $rs * 1.1;
+  a {
+    color: #666666;
+    text-decoration: none;
+    &:hover {
+      color: #333333;
+    }
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .subscribe {
+    line-height: rem(18px);
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+}
+
 /*
 
 

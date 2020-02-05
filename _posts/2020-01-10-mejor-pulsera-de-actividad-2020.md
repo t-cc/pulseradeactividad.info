@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mejor pulsera de actividad del 2020.
+published: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit!
