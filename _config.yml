@@ -28,6 +28,7 @@ exclude:
   - 'Gemfile*'
   - 'LICENSE'
   - 'vendor'
+  - '*.orig'
 
 # Google Analytics
 analytics_id: "UA-157826372-1"

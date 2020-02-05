@@ -17,7 +17,11 @@ emite una luz sobre tu muñeca y a partir de la luz reflejada puede saber si el 
 
 <amp-img width="700" height="204" layout="responsive"
 alt="Lectura de pulso con un sensor óptico" 
-src="/assets/images/2019/05/lectura-de-pulso-con-sensor-optico.png"></amp-img>
+src="/assets/images/2019/05/lectura-de-pulso-con-sensor-optico.webp">
+    <amp-img fallback width="700" height="204" layout="responsive"
+        alt="Lectura de pulso con un sensor óptico" 
+        src="/assets/images/2019/05/lectura-de-pulso-con-sensor-optico.jpg"></amp-img>
+</amp-img>
 
 La mayoría de los **pulsómetros de muñeca** utilizan también el **acelerómetro integrado** como ayuda para saber si
 el pulso se está leyendo bien. Incluso algunos utilizan la información del acelerómetro para *interpretar* mejor los
@@ -29,9 +33,14 @@ Lo primero es la correcta colocación de la pulsera. Bien sujeta y un par de cen
 muñeca. Es necesario que la pulsera no se mueva mucho y no capte luz del exterior que pudiese falsear las lecturas.
 
 
-<amp-img width="700" height="510" layout="responsive"
-alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
-src="/assets/images/2019/05/como-colocar-la-pulsera-en-la-muneca.png"></amp-img>
+<amp-img alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
+    width="700" height="510" layout="responsive"
+    src="/assets/images/2019/05/como-colocar-la-pulsera-en-la-muneca.webp">
+    <amp-img fallback alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
+        width="700" height="510" layout="responsive"
+        src="/assets/images/2019/05/como-colocar-la-pulsera-en-la-muneca.jpg">
+    </amp-img>
+</amp-img>
 
 
 Otros factores que influyen en la lectura son:
@@ -62,6 +71,11 @@ empeora muchísimo cuando comienzas a sudar.
 
 
 
-<amp-img width="700" height="525" layout="responsive"
-alt="Sensor de pulso cardíaco de un Apple Watch I." 
-src="/assets/images/2019/05/apple-watch-1-sensor-de-ritmo-cardiaco.jpg"></amp-img>
+<amp-img alt="Sensor de pulso cardíaco de un Apple Watch I." 
+    width="700" height="525" layout="responsive"
+    src="/assets/images/2019/05/apple-watch-1-sensor-de-ritmo-cardiaco.webp">
+    <amp-img fallback alt="Sensor de pulso cardíaco de un Apple Watch I." 
+        width="700" height="525" layout="responsive"
+        src="/assets/images/2019/05/apple-watch-1-sensor-de-ritmo-cardiaco.jpg">
+    </amp-img>
+</amp-img>
