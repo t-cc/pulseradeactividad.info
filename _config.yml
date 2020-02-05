@@ -23,6 +23,12 @@ author_image: "/assets/images/author.jpg"
 twitter_username: jekyllrb
 github_username:  jekyll
 
+exclude:
+  - 'README*.md'
+  - 'Gemfile*'
+  - 'LICENSE'
+  - 'vendor'
+
 # Google Analytics
 analytics_id: ""
 
