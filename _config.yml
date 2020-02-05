@@ -41,3 +41,6 @@ kramdown:
 
 gems:
   - jekyll-paginate
+
+sass:
+  style: compressed
