@@ -29,6 +29,7 @@ exclude:
   - 'LICENSE'
   - 'vendor'
   - '*.orig'
+  - 'feed.xml'
 
 # Google Analytics
 analytics_id: "UA-157826372-1"
