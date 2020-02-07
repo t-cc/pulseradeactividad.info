@@ -2,7 +2,7 @@
 layout: post
 title: ¿Como funciona un pulsómetro óptico de muñeca?
 published: true
-
+image: /assets/images/2019/05/lectura-de-pulso-con-sensor-optico.jpg
 # @see: https://www.google.com/search?q=optical+pulse+sensor+technology+how+it+works
 # @see: https://valencell.com/blog/2015/10/optical-heart-rate-monitoring-what-you-need-to-know/
 # @see: https://valencell.com/blog/2017/03/webinar-building-wearable-heart-rate-monitoring/

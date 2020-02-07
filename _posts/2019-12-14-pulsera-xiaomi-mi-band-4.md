@@ -2,6 +2,7 @@
 layout: post
 title: Pulsera Xiaomi Mi Band 4
 published: true
+image: /assets/images/2019/12/14/mi-band-4-header.jpg
 ---
 
 
