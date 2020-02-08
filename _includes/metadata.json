@@ -16,9 +16,9 @@
     "name": "{{ site.title }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ site.logo | prepend: site.baseurl | prepend: site.url }}",
-      "width": "600",
-      "height": "600"
+      "url": "{{ site.logo_amp | prepend: site.baseurl | prepend: site.url }}",
+      "width": "{{ site.logo_amp__width }}",
+      "height": "{{ site.logo_amp__height }}"
     }
   },
   "image": {
