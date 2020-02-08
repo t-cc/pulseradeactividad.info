@@ -17,14 +17,14 @@
     "logo": {
       "@type": "ImageObject",
       "url": "{{ site.logo | prepend: site.baseurl | prepend: site.url }}",
-      "width": "60",
-      "height": "60"
+      "width": "600",
+      "height": "600"
     }
   },
   "image": {
     "@type": "ImageObject",
     "url": "{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}",
-    "height": "60",
-    "width": "60"
+    "height": "{% if page.image_height %}{{ page.image_height }}{% else %}600{% endif %}",
+    "width": "{% if page.image_width %}{{ page.image_width }}{% else %}600{% endif %}"
   }
 }
