@@ -55,6 +55,20 @@ amp-img {
   }
 }
 
+figure {
+  margin: 0;
+  padding: 0;
+
+  @include respond-to(800) {
+    margin: 0 (-1 * $rs);
+  }
+
+  figcaption {
+    margin: 0 $rs;
+    margin-top: -1 * $rs;
+  }
+}
+
 .cf {
   @include clearfix;
 }
@@ -239,9 +253,9 @@ h1, h2, h3, h4, h5, h6 {
     font-style: normal;
     margin-top: 30px;
     margin-bottom: 0;
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    hyphens: auto;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    hyphens: none;
   }
   a {
     color: #333333;
@@ -251,8 +265,8 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 30px;
   }
   figure {
-    margin: 0;
-    padding: 0 0 30px;
+    // margin: 0;
+    // padding: 0 0 30px;
   }
   figcaption {
     font-weight: 400;

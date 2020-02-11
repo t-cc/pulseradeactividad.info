@@ -19,6 +19,7 @@ Seguro que os habéis preguntado más de una vez como funciona un **pulsómetro 
 Parece sencillo ¿no? El pulsómetro emite una luz sobre tu muñeca y a partir de la luz reflejada 
 puede saber si el corazón está bombeando en ese momento o no.
 
+<figure>
 <amp-img width="700" height="204" layout="responsive"
 alt="Lectura de pulso con un sensor óptico" 
 src="/assets/images/2019/05/lectura-de-pulso-con-sensor-optico.webp">
@@ -26,6 +27,11 @@ src="/assets/images/2019/05/lectura-de-pulso-con-sensor-optico.webp">
         alt="Lectura de pulso con un sensor óptico" 
         src="/assets/images/2019/05/lectura-de-pulso-con-sensor-optico.jpg"></amp-img>
 </amp-img>
+<figcaption>
+Funcionamiento de un sensor óptico de pulso.
+</figcaption>
+</figure>
+
 
 La mayoría de los **pulsómetros de muñeca** utilizan también el **acelerómetro integrado** como ayuda para saber si
 el pulso se está leyendo bien. Incluso algunos utilizan la información del acelerómetro para *interpretar* mejor los
@@ -36,7 +42,7 @@ datos recogidos por el sensor óptico, maquillando en cierta medida los datos de
 Lo primero es la correcta colocación de la pulsera. Bien sujeta y **un par de centímetros por encima del hueso de la
 muñeca**. Es necesario que la pulsera no se mueva mucho para no captar luz del exterior que pudiese falsear las lecturas.
 
-
+<figure>
 <amp-img alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
     width="700" height="510" layout="responsive"
     src="/assets/images/2019/05/como-colocar-la-pulsera-en-la-muneca.webp">
@@ -45,6 +51,10 @@ muñeca**. Es necesario que la pulsera no se mueva mucho para no captar luz del 
         src="/assets/images/2019/05/como-colocar-la-pulsera-en-la-muneca.jpg">
     </amp-img>
 </amp-img>
+<figcaption>
+Como ponerse la pulsera de actividad.
+</figcaption>
+</figure>
 
 
 Otros factores que influyen en la lectura son:
@@ -79,6 +89,7 @@ de los que puede medir los impulsos eléctricos del corazón. Con esto incluso p
 
 
 
+<figure>
 <amp-img alt="Sensor de pulso cardíaco de un Apple Watch I." 
     width="700" height="525" layout="responsive"
     src="/assets/images/2019/05/apple-watch-1-sensor-de-ritmo-cardiaco.webp">
@@ -87,3 +98,7 @@ de los que puede medir los impulsos eléctricos del corazón. Con esto incluso p
         src="/assets/images/2019/05/apple-watch-1-sensor-de-ritmo-cardiaco.jpg">
     </amp-img>
 </amp-img>
+<figcaption>
+Sensor de pulso cardíaco de un Apple Watch I. Fuente: ifixit.com
+</figcaption>
+</figure>
