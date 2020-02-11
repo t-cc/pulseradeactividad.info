@@ -11,13 +11,13 @@ image_height: 204
 # @see: https://www.quora.com/How-do-optical-heart-rate-sensors-work
 ---
 
-Seguro que os habéis preguntado más de una vez como funciona un pulsómetro de muñeca. ¿Como podrá este aparatito 
-medir mi pulso? La respuesta, por lo menos a groso modo es muy sencilla:
+Seguro que os habéis preguntado más de una vez como funciona un **pulsómetro de muñeca**. ¿Como podrá este aparatito 
+**medir mi pulso**? La respuesta es muy sencilla:
 
 > Un pulsómetro óptico mide tu pulso simplemente *mirando* y *contando* cuantas veces pasa la sangre por tus arterias.
 
-Parece sencillo ¿no? Bien, realmente no es tan sencillo, pero ese es el principio básico. Así de simple, el pulsómetro 
-emite una luz sobre tu muñeca y a partir de la luz reflejada puede saber si el corazón está bombeando en ese momento o no.
+Parece sencillo ¿no? El pulsómetro emite una luz sobre tu muñeca y a partir de la luz reflejada 
+puede saber si el corazón está bombeando en ese momento o no.
 
 <amp-img width="700" height="204" layout="responsive"
 alt="Lectura de pulso con un sensor óptico" 
@@ -33,8 +33,8 @@ datos recogidos por el sensor óptico, maquillando en cierta medida los datos de
 
 ### ¿Que factores externos influyen en la correcta lectura del pulso?
 
-Lo primero es la correcta colocación de la pulsera. Bien sujeta y un par de centímetros por encima del hueso de la
-muñeca. Es necesario que la pulsera no se mueva mucho y no capte luz del exterior que pudiese falsear las lecturas.
+Lo primero es la correcta colocación de la pulsera. Bien sujeta y **un par de centímetros por encima del hueso de la
+muñeca**. Es necesario que la pulsera no se mueva mucho para no captar luz del exterior que pudiese falsear las lecturas.
 
 
 <amp-img alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
@@ -51,7 +51,7 @@ Otros factores que influyen en la lectura son:
 
 * El color de la piel. Cuanto más clara es la piel mas precisas serán las lecturas. Incluso la presencia de mucho vello
 puede afectar negativamente a las lecturas.
-* La temperatura, que influye en la perfusión tisular de la sangre. A más frio hace peores lecturas.
+* La temperatura, que influye en la perfusión tisular de la sangre. A más frio peores lecturas.
 
 
 ### ¿Que factores de fabricación influyen en la correcta lectura del pulso?
@@ -59,19 +59,23 @@ puede afectar negativamente a las lecturas.
 Indudablemente lo primero es la calidad del sensor, pero la precisión de la lectura puede mejorarse mediante algoritmos
 y la incorporación de datos de otros sensores.
 
-Realizando un pequeño examen visual a una **pulsera de actividad** no vamos a saber nada acerca de los algoritmos que
-usa internamente, pero podemos saber mucho del **sensor de ritmo cardíaco** si nos fijamos en:
+Realizando un pequeño examen visual a una **pulsera de actividad** pero podemos saber mucho 
+del **sensor de ritmo cardíaco** si nos fijamos en:
 
-1.  El tamaño del sensor. Desgraciadamente el tamaño importa, pero hasta cierto límite. 
-Cuanta mas área pueda "ver" el sensor mejor.
-2.  La potencia de la luz. Cuanta más potencia más fiables serán las lecturas y menos interferencias de la luz ambiente.
-3.  Las longitudes de onda empleadas. Usar luces de más colores mejora mucho la calidad de las lecturas. Muchos tienen 
-sólo luz verde, mientras que los más modernos cuentan con más colores.
-4.  La distancia entre la luz y el sensor. Si la luz está muy cerca del sensor, esta puede transmitirse horizontalmente 
+1.  **El tamaño del sensor**. Desgraciadamente el tamaño importa, pero hasta cierto límite. 
+Cuanta mas área pueda "ver" el sensor mejor, pero siempre que la luz de los emisores led pueda reflejarse en el a través
+de la piel. En un sensor muy grande algunas zonas pueden quedar a la *sombra* y no servir para nada.
+2.  **La potencia de la luz**. Cuanta más potencia más fiables serán las lecturas y menos interferencias de la luz ambiente.
+3.  **Las longitudes de onda empleadas**. Usar luces de más colores mejora mucho la calidad de las lecturas. Muchos tienen 
+sólo luz verde, mientras que los más modernos cuentan LEDs infrarrojos y/o azules.
+4.  **La distancia entre la luz y el sensor**. Si la luz está muy cerca del sensor, esta puede transmitirse horizontalmente 
 a través de la capa superior de la piel (en vez de reflejarse en la sangre) dando lugar a falsas lecturas. El sensor 
-recibirá demasiada luz y estará "cegado". Esto pasa mucho con sensores pequeñitos de pulseras baratas (xiaomi, etc) y
+recibirá demasiada luz y estará "cegado". Esto pasa mucho con sensores pequeñitos de pulseras baratas y
 empeora muchísimo cuando comienzas a sudar.
-5.  La cantidad de sensores, pero sólo si estos son lo suficientemente grandes.
+5.  **La cantidad de sensores**. Actualmente pocas **pulseras de actividad** cuentan con sólo un sensor. Sin embargo, 
+si hay más de uno deben cumplir los puntos previos para obtener buenas lecturas.
+6. **Los sensores adicionales**. Por ejemplo, un Apple Watch 4 o posterior incluye unos electrodos de cristal a través
+de los que puede medir los impulsos eléctricos del corazón. Con esto incluso podrás realizarte un elctrocardiograma.
 
 
 
