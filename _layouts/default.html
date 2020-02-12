@@ -6,8 +6,35 @@
 
     {{ content }}
 
-    {% comment %}
-        {% include analytics.html %}
-    {% endcomment %}
+
+
+    <amp-analytics type="googleanalytics" id="amp-analytics">
+      <script type="application/json">
+        {
+          "vars": {
+            "account": "{{ site.analytics_id }}"
+          },
+          "triggers": {
+            "trackPageview": {
+              "on": "visible",
+              "request": "pageview"
+            }
+          }
+        }
+      </script>
+    </amp-analytics>
+
+    <amp-user-notification id="notification-cookies"
+                           class="notification"
+                           layout="nodisplay">
+      Estamos utilizando cookies de terceros para estadísticas.
+      No se mandará información personal.
+      <a href="cookies.html">Más Información</a>
+      <button on="tap:notification-cookies.dismiss">Aceptar</button>
+    </amp-user-notification>
+
+
+    {% include footer.html %}
+
   </body>
 </html>

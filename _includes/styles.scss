@@ -873,3 +873,16 @@ pre {
 }
 */
 
+
+.notification {
+  position: fixed;
+  background: rgba(0, 0, 0, .8);
+  color: white;
+  font-family: $font-sans;
+  padding: $rs;
+  font-size: rem(16px);
+
+  a {
+    color: white;
+  }
+}
