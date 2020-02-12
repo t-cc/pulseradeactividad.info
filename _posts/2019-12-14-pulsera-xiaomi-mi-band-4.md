@@ -12,6 +12,7 @@ Es ella. La reina de las **pulseras de actividad baratas**. La pulsera de activi
 media en sus reseñas de 4.5 estrellas (sobre 5). Voy a explicar su éxito aunque muchos me vais a odiar después de esto.
 
 
+<figure>
 <amp-img alt="Colores de la Xiaomi Mi Band 4" 
     width="700" height="415" layout="responsive"
     src="/assets/images/2019/12/14/mi-band-4-header.webp">        
@@ -20,19 +21,20 @@ media en sus reseñas de 4.5 estrellas (sobre 5). Voy a explicar su éxito aunqu
         src="/assets/images/2019/12/14/mi-band-4-header.jpg">
     </amp-img>
 </amp-img>
+<figcaption>
+Xiaomi Mi Band 4 en múltiples colores. Fuente mi.com.
+</figcaption>
+</figure>
 
 
 ### ¿Cuál es la clave de su éxito?
 
-Es muy sencillo. Es barata, bonita y parece que hace cosas como las de verdad. Pero no lo hace. Es simplemente un 
-accesorio de moda. Sus usuarios valoran más que tenga muchas funciones y poder *fardar* de que hace esto o aquello
-a que lo haga bien. **Su precisión es penosa**. **Su milagrosa duración de batería es engañosa**. Y su app, bueno
-por lo menos es más bonita que la de Amazfit, pero no mejor.
+Es muy sencillo. Es barata, bonita y parece que incluye muchas funciones. Pero no lo hace. Es simplemente un 
+accesorio de moda. 
 
 Realmente estos de Xiaomi son unos cracks del marketing. Invierten inteligentemente en *influencers*, *youtubers* y *reviews* 
 compradas, y saben muy bien que es lo que va a demandar el público antes de lanzar el producto.
 
-Bien, vamos al meollo:
 
 
 ### La no-detección de sueño.

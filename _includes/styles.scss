@@ -289,7 +289,8 @@ h1, h2, h3, h4, h5, h6 {
   }
   blockquote {
     margin: 0 0 rem(30px) rem(-26px);
-    border-left: 3px solid #57ad68;
+    // border-left: 3px solid #57ad68;
+    border-left: 3px solid $color-verde;
     padding-left: rem(20px);
 
     @include respond-to(800) {
@@ -347,6 +348,7 @@ article {
     font-size: rem(36px);
     line-height: 1.15;
     margin: 0 0;
+    color: $color-texto;
     a {
       text-decoration: none;
       color: $color-texto;

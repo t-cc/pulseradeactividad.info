@@ -85,7 +85,8 @@ empeora muchísimo cuando comienzas a sudar.
 5.  **La cantidad de sensores**. Actualmente pocas **pulseras de actividad** cuentan con sólo un sensor. Sin embargo, 
 si hay más de uno deben cumplir los puntos previos para obtener buenas lecturas.
 6. **Los sensores adicionales**. Por ejemplo, un Apple Watch 4 o posterior incluye unos electrodos de cristal a través
-de los que puede medir los impulsos eléctricos del corazón. Con esto incluso podrás realizarte un elctrocardiograma.
+de los que puede medir los impulsos eléctricos del corazón. Las **pulseras de actividad** y **relojes deportivos**
+equipados con este sensor incluso podrán realizarte un electrocardiograma básico.
 
 
 
