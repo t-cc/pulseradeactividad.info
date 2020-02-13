@@ -27,7 +27,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 collections:
-  pages:
+  paginas:
     output: true
     permalink: /:path
 

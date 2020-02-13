@@ -12,7 +12,8 @@ layout: default
   {% endcomment %}
 
   <div class="cf frame">
-    {% for post in paginator.pages %}
+    {% assign paginas = site.paginas | sort: 'date' | reverse %}
+    {% for post in paginas %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
         <div class="article-item">
           <header class="post-header">
