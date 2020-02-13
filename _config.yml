@@ -35,7 +35,7 @@ exclude:
   - 'feed.xml'
 
 # Google Analytics
-analytics_id: "UA-157826372-1"
+analytics_id: "UA-158375791-1"
 
 # Build settings
 markdown: kramdown
