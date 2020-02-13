@@ -2,7 +2,9 @@
 layout: post
 title: ¿Como funciona un pulsómetro óptico de muñeca?
 published: true
-image: /assets/images/2019/05/lectura-de-pulso-con-sensor-optico.jpg
+image: /assets/images/2019/05/lectura-de-pulso-con-sensor-optico.webp
+image_fallback: /assets/images/2019/05/lectura-de-pulso-con-sensor-optico.jpg
+image_alt: Funcionamiento de un sensor óptico de pulso.
 image_width: 700
 image_height: 204
 # @see: https://www.google.com/search?q=optical+pulse+sensor+technology+how+it+works
@@ -19,19 +21,23 @@ Seguro que os habéis preguntado más de una vez como funciona un **pulsómetro 
 Parece sencillo ¿no? El pulsómetro emite una luz sobre tu muñeca y a partir de la luz reflejada 
 puede saber si el corazón está bombeando en ese momento o no.
 
+{% if page.image %}
 <figure>
-<amp-img width="700" height="204" layout="responsive"
-alt="Lectura de pulso con un sensor óptico" 
-src="/assets/images/2019/05/lectura-de-pulso-con-sensor-optico.webp">
-    <amp-img fallback width="700" height="204" layout="responsive"
-        alt="Lectura de pulso con un sensor óptico" 
-        src="/assets/images/2019/05/lectura-de-pulso-con-sensor-optico.jpg"></amp-img>
-</amp-img>
+  <amp-img alt="{{ page.image_alt | default: page.title }}" layout="responsive"
+           width="{{ page.image_width }}" height="{{ page.image_height }}" src="{{ page.image }}">
+  {% if page.image_fallback %}
+  <amp-img fallback alt="{{ page.img_alt | default: page.title }}" layout="responsive"
+           width="{{ page.image_width }}" height="{{ page.image_height }}" src="{{ page.image_fallback }}">
+  </amp-img>
+  {% endif %}
+  </amp-img>
+{% if page.image_alt %}
 <figcaption>
-Funcionamiento de un sensor óptico de pulso.
+  {{ page.image_alt }}
 </figcaption>
 </figure>
-
+{% endif %}
+{% endif %}
 
 La mayoría de los **pulsómetros de muñeca** utilizan también el **acelerómetro integrado** como ayuda para saber si
 el pulso se está leyendo bien. Incluso algunos utilizan la información del acelerómetro para *interpretar* mejor los

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pulsera Xiaomi Mi Band 4
-published: false
+published: true
 image: /assets/images/2019/12/14/mi-band-4-header.webp
 image_fallback: /assets/images/2019/12/14/mi-band-4-header.jpg
 image_alt: Xiaomi Mi Band 4 en múltiples colores. Fuente mi.com.

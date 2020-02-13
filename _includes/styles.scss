@@ -69,9 +69,27 @@ figure {
   }
 }
 
+/* UTILIDADES */
 .cf {
   @include clearfix;
 }
+.row {
+  width: 100%;
+  max-width: $blog-width;
+  margin: 0 auto;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
+}
+
+/* END UTILIDADES */
+
 
 // Only needed for syntax highlighting
 %vertical-rhythm {

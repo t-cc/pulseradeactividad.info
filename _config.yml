@@ -26,6 +26,11 @@ author_image: "/assets/images/author.jpg"
 twitter_username: jekyllrb
 github_username:  jekyll
 
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
 exclude:
   - 'README*.md'
   - 'Gemfile*'
@@ -33,6 +38,7 @@ exclude:
   - 'vendor'
   - '*.orig'
   - 'feed.xml'
+  - 'resources'
 
 # Google Analytics
 analytics_id: "UA-158375791-1"

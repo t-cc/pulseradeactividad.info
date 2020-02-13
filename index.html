@@ -5,48 +5,70 @@ layout: default
 <main class="content" role="main">
 
   {% comment %}
-  <header class="blog-header">
+    <header class="blog-header">
       <h1 class="blog-title">{{ site.title }}</h1>
       <h2 class="blog-description">{{ site.description }}</h2>
-  </header>
+    </header>
   {% endcomment %}
 
   <div class="cf frame">
-    {% for post in paginator.posts %}
+    {% for post in paginator.pages %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
         <div class="article-item">
           <header class="post-header">
-            <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+            <h2 class="post-title" itemprop="name">
+              <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+                {{ post.title }}
+              </a>
+            </h2>
           </header>
           <section class="post-excerpt" itemprop="description">
             <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
           </section>
-          <div class="post-meta">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
-          </div>
+          {% comment %}
+            <div class="post-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
+            </div>
+          {% endcomment %}
+          {% if post.image %}
+            <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+              <amp-img alt="{{ post.image_alt | default: post.title }}" layout="responsive"
+                       width="{{ post.image_width }}" height="{{ post.image_height }}" src="{{ post.image }}">
+                {% if post.image_fallback %}
+                <amp-img fallback alt="{{ post.img_alt | default: post.title }}" layout="responsive"
+                         width="{{ post.image_width }}" height="{{ post.image_height }}" src="{{ post.image_fallback }}">
+                </amp-img>
+                {% endif %}
+              </amp-img>
+            </a>
+          {% endif %}
         </div>
       </article>
     {% endfor %}
   </div>
 
-  <nav class="pagination" role="navigation">
-    {% if paginator.next_page %}
-      <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; Entradas Anteriores</a>
-    {% else %}
-      <a class="newer-posts disabled">&larr; Entradas Anteriores</a>
-    {% endif %}
-    {% comment %}
-    <span class="page-number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
-    {% endcomment %}
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-        <a class="older-posts" href="{{ site.baseurl }}/">Entradas Recientes &rarr;</a>
+  {% if paginator.next_page and paginator.previous_page %}
+    <nav class="pagination" role="navigation">
+      {% if paginator.next_page %}
+        <a class="newer-posts" href="{{ site.baseurl }}/page{{ paginator.next_page }}">&larr; Entradas
+          Anteriores</a>
       {% else %}
-        <a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Entradas Recientes &rarr;</a>
+        <a class="newer-posts disabled">&larr; Entradas Anteriores</a>
       {% endif %}
-    {% else %}
-      <a class="older-posts disabled">Entradas Recientes &rarr;</a>
-    {% endif %}
-  </nav>
+      {% comment %}
+        <span class="page-number">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
+      {% endcomment %}
+      {% if paginator.previous_page %}
+        {% if paginator.page == 2 %}
+          <a class="older-posts" href="{{ site.baseurl }}/">Entradas Recientes &rarr;</a>
+        {% else %}
+          <a class="older-posts" href="{{ site.baseurl }}/page{{ paginator.previous_page }}">Entradas Recientes
+            &rarr;</a>
+        {% endif %}
+      {% else %}
+        <a class="older-posts disabled">Entradas Recientes &rarr;</a>
+      {% endif %}
+    </nav>
+  {% endif %}
 
 </main>
