@@ -101,12 +101,30 @@ equipados con este sensor incluso podrán realizarte un electrocardiograma bási
 <amp-img alt="Sensor de pulso cardíaco de un Apple Watch I." 
     width="700" height="525" layout="responsive"
     src="/assets/images/2019/05/apple-watch-1-sensor-de-ritmo-cardiaco.webp">
-    <amp-img fallback alt="Sensor de pulso cardíaco de un Apple Watch I." 
-        width="700" height="525" layout="responsive"
-        src="/assets/images/2019/05/apple-watch-1-sensor-de-ritmo-cardiaco.jpg">
-    </amp-img>
+<amp-img fallback alt="Sensor de pulso cardíaco de un Apple Watch I." 
+  width="700" height="525" layout="responsive"
+  src="/assets/images/2019/05/apple-watch-1-sensor-de-ritmo-cardiaco.jpg">
+</amp-img>
 </amp-img>
 <figcaption>
 Sensor de pulso cardíaco de un Apple Watch I. Fuente: ifixit.com
 </figcaption>
 </figure>
+
+
+### ¿Qué pulseras de actividad cuentan con un buen pulsómetro?
+
+<div class="amz_cuadro">
+<h4>Fitbit Charge 3</h4>
+<amp-img alt="Fitbit Charge 3" 
+    width="355" height="355" layout="responsive"
+    src="/assets/como-funciona-pulsometro-optico-de-muneca/fitbit-charge-3.webp">
+<amp-img fallback alt="Fitbit Charge 3" 
+  width="355" height="355" layout="responsive"
+  src="/assets/como-funciona-pulsometro-optico-de-muneca/fitbit-charge-3.jpg">
+</amp-img>
+</amp-img>
+<a href="https://amzn.to/2HkF0A7" target="_blank">
+  Ver precio en Amazon
+</a>
+</div>

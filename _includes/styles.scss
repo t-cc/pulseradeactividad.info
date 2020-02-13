@@ -904,3 +904,35 @@ pre {
     color: white;
   }
 }
+
+.amz_cuadro {
+  max-width: rem(355px);
+  width: 100%;
+  margin: 0 auto;
+  border: 2px solid $color-naranja;
+  text-align: center;
+  padding-bottom: rem(15px);
+
+  h4 {
+    margin-top: 0;
+    background: $color-naranja;
+    color: white;
+    padding: rem(15px) rem(5px);
+  }
+
+  amp-img {
+
+    margin: 0 auto;
+    @include respond-to(800) {
+      margin: 0 auto;
+    }
+  }
+
+  a {
+    background: $color-verde;
+    color: white;
+    text-decoration: none;
+    font-family: $font-sans;
+    padding: rem(8px) rem(15px);
+  }
+}
