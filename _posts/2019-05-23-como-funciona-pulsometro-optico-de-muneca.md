@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019/05/10
+date: 2019/05/23
 title: ¿Como funciona un pulsómetro óptico de muñeca?
 published: true
 image: /assets/images/2019/05/lectura-de-pulso-con-sensor-optico.webp
@@ -112,20 +112,3 @@ Sensor de pulso cardíaco de un Apple Watch I. Fuente: ifixit.com
 </figcaption>
 </figure>
 
-
-### ¿Qué pulseras de actividad cuentan con un buen pulsómetro?
-
-<div class="amz_cuadro">
-<h4>Fitbit Charge 3</h4>
-<amp-img alt="Fitbit Charge 3" 
-    width="355" height="355" layout="responsive"
-    src="/assets/como-funciona-pulsometro-optico-de-muneca/fitbit-charge-3.webp">
-<amp-img fallback alt="Fitbit Charge 3" 
-  width="355" height="355" layout="responsive"
-  src="/assets/como-funciona-pulsometro-optico-de-muneca/fitbit-charge-3.jpg">
-</amp-img>
-</amp-img>
-<a href="https://amzn.to/2HkF0A7" target="_blank">
-  Ver precio en Amazon
-</a>
-</div>
