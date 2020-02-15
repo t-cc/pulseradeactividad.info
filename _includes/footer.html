@@ -18,41 +18,37 @@
 <amp-user-notification
     id="notification-cookies" class="notification" layout="nodisplay">
     <div class="row">
-        Estamos utilizando cookies de terceros para estadísticas.
-        No almacenamos ninguna información personal.
+        <p>
+            Estamos utilizando cookies de terceros con fines estadísticos.
+            No almacenamos ninguna información personal.
+        </p>
         <a href="cookies.html">Más Información</a>
-        <div class="text-center">
-            <button on="tap:notification-cookies.dismiss">Aceptar</button>
+        <div class="right">
+            <button  class="btn" on="tap:notification-cookies.dismiss">Aceptar</button>
         </div>
     </div>
 </amp-user-notification>
 
 
 <footer class="site-footer">
-    {% comment %}
-    <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}">
-    <span class="tooltip">
-        {% include icons/rss.svg %}
-        Suscríbete!
-    </span>
-    </a>
-    {% endcomment %}
-    <div class="inner">
+    <div class="inner inner--bottom-row ">
+      <p>
+        <strong>Pulseradeactividad.info</strong> no recopila ni almacena 
+        ninguna información personal.
+      </p>
+      <p>
+        <strong>Pulseradeactividad.info</strong> participa en el Programa de Afiliados de 
+        Amazon EU, un programa de publicidad para afiliados diseñado para 
+        ofrecer a sitios web un modo de obtener comisiones por publicidad, 
+        publicitando e incluyendo enlaces a amazon.co.uk amazon.de
+        de.buyvip.com amazon.fr amazon.it it.buyvip.com Amazon.es es.buyvip.com.
+      </p>
+    </div>
+    <div class="inner text-center">
         <section class="copyright">
             All content copyright
             <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy;
             {{ site.time | date: '%Y' }} &bull; All rights reserved.
         </section>
-    </div>
-    <br>
-    <div class="inner">
-      <p>
-        Pulseradeactividad.info no recopila ni almacena ninguna información personal.
-      </p>
-      <p>
-        Pulseradeactividad.info participa en el Programa de Afiliados de Amazon EU, un programa de publicidad para
-        afiliados diseñado para ofrecer a sitios web un modo de obtener comisiones por publicidad, publicitando
-        e incluyendo enlaces a Amazon.co.uk/ Amazon.de/ de.buyvip.com/Amazon.fr/Amazon.it/it.buyvip.com/ Amazon.es/es.buyvip.com.
-      </p>
     </div>
 </footer>

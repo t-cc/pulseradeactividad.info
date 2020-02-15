@@ -2,6 +2,7 @@
 .*
 _site
 vendor
+*.sublime*
 
 !.gitignore
 !.editorconfig

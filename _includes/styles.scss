@@ -16,6 +16,8 @@ $color-verde:       #81BD07;
 $color-amarillo:    #DDF707;
 $color-naranja:     #FF5F07;
 
+$color-negro-pie:   #191919;
+
 
 
 $rs: rem(16px);
@@ -65,7 +67,7 @@ figure {
 
   figcaption {
     margin: 0 $rs;
-    margin-top: -1 * $rs;
+    // margin-top: -1 * $rs;
   }
 }
 
@@ -88,8 +90,40 @@ figure {
   text-align: left;
 }
 
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+
 /* END UTILIDADES */
 
+
+/* BOTÓNS */
+// https://1stwebdesigner.com/free-code-snippets-css-buttons/
+// https://codepen.io/timwagner/pen/pAecq
+.btn {
+  padding: rem(5px) rem(10px);
+  border-radius: 2px;
+  font-weight: bold;
+  font-size: rem(14px);
+  outline: none;
+  color: #444444;
+  background: #F3F3F3;
+  border: 1px #DADADA solid;
+
+  &::hover {
+    border: 1px #C6C6C6 solid;
+    box-shadow: 1px 1px 1px #EAEAEA;
+    color: #333333;
+    background: #F7F7F7;
+  }
+
+  &:active {
+    box-shadow: inset 1px 1px 1px #DFDFDF;   
+  }
+}
 
 // Only needed for syntax highlighting
 %vertical-rhythm {
@@ -179,15 +213,17 @@ h1, h2, h3, h4, h5, h6 {
   &__title--l1 {
     color: $color-naranja;
     display: block;
+    white-space: nowrap;
   }
   &__title--l2 {
     color: $color-verde;
     display: block;
+    white-space: nowrap;
   }
 
   &__nav {
     flex: 1 1 auto;
-    padding: 0 30px;
+    // padding: 0 30px;
     text-align: right;
     /*
     display: block;
@@ -197,8 +233,9 @@ h1, h2, h3, h4, h5, h6 {
     */
     font-weight: 200;
     font-style: normal;
-    font-size: 18px;
-    line-height: 30px;
+    font-size: rem(14px);
+    line-height: 1;
+    // line-height: 30px;
 
     a {
       text-decoration: none;
@@ -206,6 +243,9 @@ h1, h2, h3, h4, h5, h6 {
       &:hover {
         color: #333333;
       }
+    }
+    .page-link {
+      font-size: rem(14px);
     }
   }
 }
@@ -295,6 +335,11 @@ h1, h2, h3, h4, h5, h6 {
     outline: 0;
     z-index: 300;
     text-align: center;
+
+    &>p {
+      margin: 0;
+      padding: 0;
+    }
   }
   hr {
     border: 0;
@@ -427,6 +472,34 @@ article {
 
 
 .site-footer {
+  background: #191919;
+  color: rgba(255, 255, 255, 0.8);
+  font-family: $font-sans;
+  font-size: rem(14px);
+
+  padding: (2 * $rs) $rs;
+
+  strong {
+    color: rgba(255, 255, 255, 0.9);
+  }
+
+  a {
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+  .inner {    
+    margin: 0 auto;
+    padding: $rs 0;
+    width: 100%;
+    max-width: $blog-width;
+  }
+
+  .inner--bottom-row {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.54);
+    margin-bottom: $rs;
+  }
+
+  /*
   margin: 0 auto;
   padding: $rs * 3 0;
   width: 100%;
@@ -435,6 +508,7 @@ article {
   text-align: center;
   color: #999999;
   line-height: $rs * 1.1;
+
   a {
     color: #666666;
     text-decoration: none;
@@ -450,7 +524,7 @@ article {
     display: inline-block;
     vertical-align: middle;
   }
-
+  */
 }
 
 /*
