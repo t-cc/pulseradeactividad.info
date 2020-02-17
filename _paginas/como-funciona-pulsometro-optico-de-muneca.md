@@ -3,8 +3,8 @@ layout: post
 date: 2019/05/10
 title: ¿Como funciona un pulsómetro óptico de muñeca?
 published: true
-image: /assets/images/2019/05/lectura-de-pulso-con-sensor-optico.webp
-image_fallback: /assets/images/2019/05/lectura-de-pulso-con-sensor-optico.jpg
+image: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico.webp
+image_fallback: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico.png
 image_alt: Funcionamiento de un sensor óptico de pulso.
 image_width: 700
 image_height: 204
@@ -58,10 +58,10 @@ que pudiese falsear las lecturas.
 <figure markdown="0">
   <amp-img alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
       width="700" height="510" layout="responsive"
-      src="/assets/images/2019/05/como-colocar-la-pulsera-en-la-muneca.webp">
+      src="/assets/images/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.webp">
       <amp-img fallback alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
           width="700" height="510" layout="responsive"
-          src="/assets/images/2019/05/como-colocar-la-pulsera-en-la-muneca.jpg">
+          src="/assets/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.jpg">
       </amp-img>
   </amp-img>
   <figcaption>
@@ -113,10 +113,10 @@ equipados con este sensor incluso podrán realizarte un electrocardiograma bási
 <figure markdown="0">
   <amp-img alt="Sensor de pulso cardíaco de un Apple Watch I." 
       width="700" height="525" layout="responsive"
-      src="/assets/images/2019/05/apple-watch-1-sensor-de-ritmo-cardiaco.webp">
+      src="/assets/como-funciona-pulsometro-optico-de-muneca/apple-watch-1-sensor-de-ritmo-cardiaco.webp">
     <amp-img fallback alt="Sensor de pulso cardíaco de un Apple Watch I." 
       width="700" height="525" layout="responsive"
-      src="/assets/images/2019/05/apple-watch-1-sensor-de-ritmo-cardiaco.jpg">
+      src="/assets/como-funciona-pulsometro-optico-de-muneca/apple-watch-1-sensor-de-ritmo-cardiaco.jpg">
     </amp-img>  
   </amp-img>
   <figcaption>

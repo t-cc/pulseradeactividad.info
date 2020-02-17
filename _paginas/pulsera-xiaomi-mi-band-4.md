@@ -3,8 +3,8 @@ layout: post
 date: 2019/12/10
 title: Pulsera Xiaomi Mi Band 4
 published: true
-image: /assets/images/2019/12/14/mi-band-4-header.webp
-image_fallback: /assets/images/2019/12/14/mi-band-4-header.jpg
+image: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.webp
+image_fallback: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.jpg
 image_alt: Xiaomi Mi Band 4 en múltiples colores. Fuente mi.com.
 image_width: 700
 image_height: 415
@@ -16,22 +16,23 @@ media en sus reseñas de 4.5 estrellas (sobre 5). Voy a explicar su éxito aunqu
 
 
 {% if page.image %}
-<figure>
+<figure markdown="0">
   <amp-img alt="{{ page.image_alt | default: page.title }}" layout="responsive"
            width="{{ page.image_width }}" height="{{ page.image_height }}" src="{{ page.image }}">
-  {% if page.image_fallback %}
-  <amp-img fallback alt="{{ page.img_alt | default: page.title }}" layout="responsive"
-           width="{{ page.image_width }}" height="{{ page.image_height }}" src="{{ page.image_fallback }}">
+    {% if page.image_fallback %}
+    <amp-img fallback alt="{{ page.img_alt | default: page.title }}" layout="responsive"
+             width="{{ page.image_width }}" height="{{ page.image_height }}" src="{{ page.image_fallback }}">
+    </amp-img>
+    {% endif %}
   </amp-img>
+  {% if page.image_alt %}
+    <figcaption>
+      {{ page.image_alt }}
+    </figcaption>
   {% endif %}
-  </amp-img>
-{% if page.image_alt %}
-<figcaption>
-  {{ page.image_alt }}
-</figcaption>
-</figure>
+  </figure>
 {% endif %}
-{% endif %}
+
 
 
 ### ¿Cuál es la clave de su éxito?
