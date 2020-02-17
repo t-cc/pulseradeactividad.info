@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019/05/10
+date: 2019/05/23
 title: ¿Como funciona un pulsómetro óptico de muñeca?
 published: true
 image: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico.webp
