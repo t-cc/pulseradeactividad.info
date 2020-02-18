@@ -104,16 +104,20 @@ figure {
 // https://1stwebdesigner.com/free-code-snippets-css-buttons/
 // https://codepen.io/timwagner/pen/pAecq
 .btn {
-  padding: rem(5px) rem(10px);
+  padding: rem(8px) rem(16px);
   border-radius: 2px;
   font-weight: bold;
   font-size: rem(14px);
+  line-height: 1.5;
   outline: none;
   color: #444444;
   background: #F3F3F3;
   border: 1px #DADADA solid;
+  text-decoration: none;
+  font-family: $font-sans;
+  display: inline-block;
 
-  &::hover {
+  &:hover {
     border: 1px #C6C6C6 solid;
     box-shadow: 1px 1px 1px #EAEAEA;
     color: #333333;
@@ -122,6 +126,10 @@ figure {
 
   &:active {
     box-shadow: inset 1px 1px 1px #DFDFDF;   
+  }
+
+  &--verde {
+    // background: $color-verde;
   }
 }
 
