@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019/12/10
+date: 2020/02/18
 title: Pulsera Xiaomi Mi Band 4
 published: true
 image: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.webp
@@ -11,8 +11,9 @@ image_height: 415
 ---
 
 
-Es ella. La reina de las **pulseras de actividad baratas**. La pulsera de actividad más vendida en amazon y con una 
-media en sus reseñas de 4.5 estrellas (sobre 5). Voy a explicar su éxito aunque muchos me vais a odiar después de esto.
+La reina de las **pulseras de actividad baratas**. La pulsera de actividad 
+más vendida en amazon y con una media en sus reseñas de 4.5 estrellas (sobre 5). 
+Voy a contaros la verdad sobre ella.
 
 
 {% if page.image %}
@@ -33,78 +34,214 @@ media en sus reseñas de 4.5 estrellas (sobre 5). Voy a explicar su éxito aunqu
   </figure>
 {% endif %}
 
-
+<div class="cuadro-comparar" markdown="0">
+  <ul class="cuadro-comparar__ok">
+    <li>Precio bajo.</li>
+    <li>Larga duración de la batería (teorica).</li>
+    <li>GPS conectado.</li>
+    <li>Muchas funciones de personalización.</li>
+    <li>Resistente al agua.</li>
+    <li>Pantalla en color.</li>
+  </ul>
+  <ul class="cuadro-comparar__ko">
+    <li>Aplicación mediocre (Mi Fit).</li>
+    <li>El sensor de pulso no es adecuado para ejercicios de intensidad.</li>
+    <li>Mala monitorización de sueño.</li>
+    <li>No muestra las fases REM de sueño.</li>
+    <li>No da estimaciones de VO2 Max.</li>
+  </ul>
+</div>
 
 ### ¿Cuál es la clave de su éxito?
 
-Es muy sencillo. Es barata, bonita y parece que incluye muchas funciones. Pero no lo hace. Es simplemente un 
-accesorio de moda. 
+Es muy sencillo. La **Xiaomi Mi Band** es barata, bonita e incluye muchas funciones (otra cosa es que
+todas marchen correctamente).
 
-Realmente estos de Xiaomi son unos cracks del marketing. Invierten inteligentemente en *influencers*, *youtubers* y *reviews* 
-compradas, y saben muy bien que es lo que va a demandar el público antes de lanzar el producto.
-
-
-
-### La no-detección de sueño.
-
-Cualquier pulsera buena va a detectar el sueño automáticamente. Una siesta en el sofá, etc. Sin embargo a esta hay que
-especificarle en la app a que hora te vas a la cama y a cual te levantas. ¿No tiene detección de sueño? El primer 
-problema de esto es que no va a detectar el sueño fuera de ese horario. El segundo es que ¿como va a pretender 
-detectar las fases del sueño un *wereable* al que tienes que decirle a que hora te vas a la cama?
-
-Me imagino a los ingenieros de Amazfit y Xiaomi partiéndose de risa: *Que más da! Si total van a estar durmiendo! No se 
-van a enterar de nada!*
-
-¿Pensáis que no puede ser peor? Lo es: Algunos usuarios reportan que sigue contando como sueño momentos en los que 
-se han levantado de noche (del sofá a la cama).
-
-Impresionante. Y luego me va a decir cuanto he dormido en REM. 
+Realmente, en Xiaomi son muy buenos e temas de marketing y diseño. 
+Invierten inteligentemente en *influencers*, *youtubers* y *reviews* y saben 
+muy bien que es lo que va a demandar el público antes de lanzar el producto. 
+Todo esto conduce a una cierta exageración que rodea a todos los productos 
+Xiaomi, vistos como *los salvadores de los consumistas pobres*.
 
 
-### La falsa-espectacular autonomía.
+### ¿Quién fabrica la Mi Band 4?
 
-La batería que dura 20 días. Si, pero sin tener registro contínuo de ritmo cardíaco, con la pantalla apagada...
+**Huami** es la propietaria de **Amazfit**, que a su vez fabrica para **Xiaomi**.
+Estos últimos se encargan del diseño y el marketing, pero la mayoría de los componentes
+son comunes. Por ejemplo, si observáis un Amazfit Pace 2 o un Stratos y una Mi Band 2 veréis
+que el sensor de pulso cardíaco es exactamente el mismo (pequeñito y malo).
 
-Con una medición contínua de ritmo cardíaco la duración está en torno a los 5 días, lo normal con cualquier pulsera mediana
-(una Fitbit Charge 3 durará 7 días).
+**Esto es importante**: Todos los productos que lleven cualquiera de estas marcas
+presentan un nivel de calidad similar y un precio económico. Ninguno es recomendable
+para practicar deporte a un nivel *"pro"* pero pueden ser una buena opción de 
+iniciación.
+
+<div class="amz-row" markdown="0">
+  <div></div>
+  <div class="amz-row__img">
+    <amp-img alt="Xiaomi Mi Band 4" data-amp-auto-lightbox-disable
+        width="100" height="120" layout="responsive"
+        src="/assets/amz/mi-band-4-xs.webp">
+      <amp-img fallback alt="Xiaomi Mi Band 4" data-amp-auto-lightbox-disable
+        width="100" height="120" layout="responsive"
+        src="/assets/amz/mi-band-4-xs.jpg">
+      </amp-img>
+    </amp-img>
+  </div>
+  <div class="amz-row__btn ">
+    <a class="btn" target="blank"
+       href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=pulseradeac06-21&keywords=xiaomi mi band 4&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=1930581100cd76d1db8a34e2e92c1cc3">
+      Ver mejor precio en Amazon
+    </a>
+  </div>
+  <div></div>
+</div>
+
+### Primeras impresiones.
+
+La **Xiaomi Mi Band 4** mejora notablemente su pantalla respecto a la versión
+anterior. Ahora cuenta con una AMOLED de 0.95 pulgadas, con una resolución de
+240x120 y un buen brillo que permite distinguir el contenido bajo luz solar directa.
+
+Otra de las cosas que mejora es el sensor de ritmo cardíaco, pero sin llegar a
+ser algo espectacular. Esto no era muy difícil, ya que el de la versión anterior
+era realmente malo.
+
+La pulsera de silicona sigue siendo la misma, así que podrás utilizar pulseras
+de la Mi Band 3 con esta.
+
+> Es idónea como *wereable* **para dejar una vida sedentaria y salir
+  a caminar todos los días**, para **personas mayores**, para **tener notificaciones** 
+  en la muñeca y poco más. Quizá sea más un **accesorio de moda**
+  que una pulsera de actividad como tal.
+
+### Funciones.
+
+Con esta **pulsera de actividad* tendréis lo básico de cualquier pulsera o smartwatch:
+alarmas, cronómetro y cuenta atrás, además de pasos, distancia y calorías.
+
+En esta versión han añadido seguimiento de más ejercicios. En esta versión tendréis:
+* Running.
+* Carrera en cinta.
+* Bici.
+* Natación en piscina.
+* Caminar.
+* Actividad libre.
+
+Como extras tendréis alertas de inactividad, control de música,
+la función de "encuentra mi móvil" y por supuesto las notificaciones.
 
 
-### Nefasto sensor de ritmo cardíaco.
+### Batería.
 
-El sensor mide el pulso. Eso sí, estate quietecito y no sudes. 
+Aunque se anuncia con una duración de batería de 20 días, 
+si activáis la monitorización de ritmo cardíaco os durará en torno a una semana.
 
-Con el sudor la pulsera tiende a mostrar pulsos extremadamente altos, algo similar a lo que ocurre con los productos 
-de Amazfit. Puede de repente mostrarte un pulso de 180 o 190 ppm. A mi me ha pasado varias veces, creedme. Y mi pulso 
-real en esos momentos rondaba las 130 pulsaciones. Es un error abismal.  
+Esta sigue siendo una buena autonomía, similar a una pulsera **Fitbit** o **Garmin**
+con la misma monitorización de ritmo cardíaco.
 
-Ningún pulsómetro óptico de muñeca es preciso. Sin embargo, este ni siquiera te servirá para echar
-un vistazo a posteriori y ver en que zonas de ritmo cardíaco has estado. No hablemos de intentar mantener tu
-trabajo cardíaco dentro de un rango determinado.
+### Monitorización de ejercicios.
+
+Dada la calidad del sensor de pulso, **no recomendaría esta pulsera para ejercicios intensos**.
+Las lecturas van a ser erróneas, sobre todo si comienzas a sudar. Empezará a darte
+alertas de pulso alto sin sentido y no podrás ajustar la intensidad del ejercicio
+al rango de pulsaciones que necesitas trabajar.
+
+Tampoco cuenta demasiado bien las brazadas al nadar, y la pantalla táctil se
+vuelve un poco loca bajo el agua, interpretando que la hemos tocado al golpearse con el agua. 
 
 
-### El podómetro.
+### Detección del sueño.
 
-Ni siquiera contar los pasos. Si. Había un cierto *run-run* de que las anteriores versiones contaban pasos de más. 
-Pero esta cuenta pasos hasta en el sofá. 
+Como tienes que configurar a que horas te vas a dormir no te detectará sueño fuera de ese horario,
+y tampoco detectará correctamente cuando estés despierto (en ese horario). 
+Por lo tanto no te servirá si trabajas a turnos o si, por cualquier motivo,
+no mantienes siempre el mismo horario.
 
-Ya no tengo fuerzas. Os dejo esta opinión real. En xataka:
-
-> o necesitaba que me avisaste de llamadas, ni mensajes, etc. No le veo sentido, para llevar igualmente el móvil y
- si quiero contestar tener que usar el móvil, no necesito autorizar acceso a mis datos. Lo que quería era una medición 
- de mi actividad, pulsómetro y medición del sueño. Resulta que tras una hora de elíptica dice que he dado 600 pasos,
- en una tarde sedentaria de series sube unos 6500 pasos. El pulso dos días seguidos en 83 pulsaciones 
- independientemente de si hago deporte o estoy sentado. Tras una noche de no dormir por el calor, 
- afirma que he tenido dos ratos sin dormir, que suman 20 minutos (habiendo estado leyendo casi toda la noche). 
- Al final no sirve más que de reloj.
+Tampoco de dará ninguna información sobre las fases REM o si duermes *inquieto*.
  
-  
+ 
 ### Conclusión.
 
-Normalmente el uso las **pulseras de actividad** y algunos relojes con pulsómetro sencillos es monitorizar una
-actividad física moderada. Esto es, un trabajo físico moderado que incluya cosas como nadar, elíptica, correr, pesas, etc.
-Para eso, cualquier pulsera debería:
+Normalmente el uso las **pulseras de actividad** y algunos relojes con 
+pulsómetro sencillos es monitorizar una actividad física moderada.
+Esto es, un trabajo físico moderado que incluya cosas como nadar, elíptica, correr, pesas, etc.
+
+Esta pulsera no te servirá para eso. Está enfocada a cosas como caminar o algún
+ejercicio suave. Es idónea como *wereable* **para dejar una vida sedentaria y salir
+a caminar todos los días**, para **personas mayores**, para **tener notificaciones** en la muñeca 
+(nunca entenderé la necesidad de esto) y poco más. **Quizá sea más un accesorio de moda
+que una pulsera de actividad como tal**.
 
 
-* Contar con un sensor de ritmo cardíaco cuando menos mediocre.
-* Contar con un software que detecte automáticamente los ejercicios más comunes.
-* Ser resistente al agua.
+Si quereis otro tipo de pulsera, a continuación os dejo una lista de las **mejores pulseras**,
+a mi entender, para **monitorizar la actividad física**:
+
+<br>
+<div class="amz_wrapper amz_wrapper--2cols" markdown="0">
+
+  <div class="amz_cuadro">
+    <h4 class="amz_cuadro__title">Fitbit Charge 3</h4>
+      <amp-img alt="Fitbit Charge 3" 
+          width="355" height="355" layout="responsive"
+          src="/assets/amz/fitbit-charge-3.webp">
+        <amp-img fallback alt="Fitbit Charge 3" 
+          width="355" height="355" layout="responsive"
+          src="/assets/amz/fitbit-charge-3.jpg">
+        </amp-img>
+      </amp-img>
+    <a class="btn amz_cuadro__btn" href="https://amzn.to/2HkF0A7" target="_blank">
+      Ver precio en Amazon
+    </a>
+  </div>
+
+  <div class="amz_cuadro">
+    <h4 class="amz_cuadro__title">Garmin Vivosmart 4</h4>
+      <amp-img alt="Garmin Vivosmart 4" 
+          width="355" height="355" layout="responsive"
+          src="/assets/amz/garmin-vivosmart-4.webp">
+        <amp-img fallback alt="Garmin Vivosmart 4" 
+          width="355" height="355" layout="responsive"
+          src="/assets/amz/garmin-vivosmart-4.jpg">
+        </amp-img>
+      </amp-img>
+    <a class="btn amz_cuadro__btn" target="_blank"
+      href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=pulseradeac06-21&keywords=garmin vivosmart 4&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=7ea9cef5f6db2fee8ed1995bb036c4b9">
+      Ver precio en Amazon
+    </a>
+  </div>
+
+  <div class="amz_cuadro">
+    <h4 class="amz_cuadro__title">Polar A370</h4>
+      <amp-img alt="Fitbit Charge 3" 
+          width="355" height="355" layout="responsive"
+          src="/assets/amz/polar-a370.webp">
+        <amp-img fallback alt="Polar A370" 
+          width="355" height="355" layout="responsive"
+          src="/assets/amz/polar-a370.jpg">
+        </amp-img>
+      </amp-img>
+    <a class="btn amz_cuadro__btn" href="https://amzn.to/38vmgK1" target="_blank">
+      Ver precio en Amazon
+    </a>
+  </div>
+
+  <div class="amz_cuadro">
+    <h4 class="amz_cuadro__title">Fitbit Inspire HR</h4>
+      <amp-img alt="Fitbit Inspire HR" 
+          width="355" height="355" layout="responsive"
+          src="/assets/amz/fitbit-inspire-hr.webp">
+        <amp-img fallback alt="Fitbit Inspire HR" 
+          width="355" height="355" layout="responsive"
+          src="/assets/amz/fitbit-inspire-hr.jpg">
+        </amp-img>
+      </amp-img>
+    <a class="btn amz_cuadro__btn" href="https://amzn.to/2tZd1CX" target="_blank">
+      Ver precio en Amazon
+    </a>
+  </div>
+
+</div>
+
+<br>
+<br>

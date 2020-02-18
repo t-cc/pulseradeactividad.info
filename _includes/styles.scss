@@ -68,6 +68,7 @@ figure {
   figcaption {
     margin: 0 $rs;
     // margin-top: -1 * $rs;
+    // font-size: rem(14px);
   }
 }
 
@@ -103,7 +104,7 @@ figure {
 /* BOTÓNS */
 // https://1stwebdesigner.com/free-code-snippets-css-buttons/
 // https://codepen.io/timwagner/pen/pAecq
-.btn {
+.btn, .post-content .btn {
   padding: rem(8px) rem(16px);
   border-radius: 2px;
   font-weight: bold;
@@ -132,6 +133,7 @@ figure {
     // background: $color-verde;
   }
 }
+
 
 // Only needed for syntax highlighting
 %vertical-rhythm {
@@ -302,7 +304,7 @@ h1, h2, h3, h4, h5, h6 {
   */
   h2, h1, h3, h4, h5, h6 {
     line-height: 1.2;
-    margin-top: rem(50px);
+    margin-top: 3 * $rs;
     margin-bottom: 0;
   }
 
@@ -317,7 +319,7 @@ h1, h2, h3, h4, h5, h6 {
   p {
     font-weight: 400;
     font-style: normal;
-    margin-top: 30px;
+    // margin-top: 30px;
     margin-bottom: 0;
     -webkit-hyphens: none;
     -moz-hyphens: none;
@@ -337,7 +339,7 @@ h1, h2, h3, h4, h5, h6 {
   figcaption {
     font-weight: 400;
     font-style: italic;
-    font-size: 16px;
+    font-size: rem(14);
     line-height: 1.3;
     color: #666665;
     outline: 0;
@@ -379,11 +381,15 @@ h1, h2, h3, h4, h5, h6 {
     }
   }
   ul, ol {
-    padding: rem(30px) 0 rem(30px) 0;
+    padding: $rs 0 $rs 0;
     margin: 0;
+  }
+  ul+p {
+    margin-top: 0;
   }
   li {
     padding: 0 rem(2px) 0 0;
+
     /*
     font-weight: 400;
     font-style: normal;
@@ -391,7 +397,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 30px;
     */
     margin-left: rem(30px);
-    margin-bottom: rem(12px);
+    // margin-bottom: rem(12px);
 
     p {
       padding: 0 0 golden-ratio(1rem, 1);
@@ -1021,6 +1027,11 @@ pre {
     background: $color-naranja;
     color: white;
     padding: rem(15px) rem(5px);
+    white-space: nowrap;
+
+    @include respond-to(700) {
+      font-size: rem(16);
+    }
   }
 
   amp-img {
@@ -1037,5 +1048,97 @@ pre {
     text-decoration: none;
     font-family: $font-sans;
     padding: rem(8px) rem(15px);
+
+    @include respond-to(700) {
+      font-size: rem(12);
+    }
+  }
+}
+
+
+.amz-row {
+  display: grid;
+  // grid-template-columns: 50% 50%;
+  grid-template-columns: 1fr rem(100) 1fr 1fr;
+  grid-template-rows: auto;
+  grid-gap: 2 * $rs;
+  margin-top: 2 * $rs;
+  align-items:center;
+
+  @include respond-to(500) {
+    grid-template-columns: 0 rem(80) 1fr 0;
+    grid-gap: $rs;
+  }
+
+  &__img {
+    // overflow: hidden;
+    // max-width: rem(100);
+
+    amp-img {
+      margin-top: 0;
+    }
+  }
+  &__btn {
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+}
+
+.post-content {
+  .cuadro-comparar {
+    display: grid;
+    // grid-template-columns: 50% 50%;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-gap: $rs;
+    padding: $rs;
+    background: $color-gris-claro;
+    margin-top: 2 * $rs;
+    @include respond-to(800) {
+      margin: (2 * $rs) (-1 * $rs) $rs;
+    }
+
+    &__ok {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        margin: 0;
+        padding: 0 0 $rs/2 0;
+        font-size: rem(15);
+        font-family: $font-sans;
+        line-height: 1.2;
+      }
+
+      li:before {
+        content: '\2713';
+        margin-right: $rs / 2;
+        color: $color-verde;
+        font-weight: bold;
+      }
+    }
+
+    &__ko {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        margin: 0;
+        padding: 0 0 $rs/2 0;
+        font-size: rem(15);
+        font-family: $font-sans;
+        line-height: 1.2;
+      }
+
+      li:before {
+        content: '\2717';
+        margin-right: $rs / 2;
+        color: $color-naranja;
+        font-weight: bold;
+      }
+    }
   }
 }
