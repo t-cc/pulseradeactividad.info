@@ -57,6 +57,7 @@ amp-img {
   }
 }
 
+
 figure {
   margin: 0;
   padding: 0;
@@ -104,7 +105,7 @@ figure {
 /* BOTÓNS */
 // https://1stwebdesigner.com/free-code-snippets-css-buttons/
 // https://codepen.io/timwagner/pen/pAecq
-.btn, .post-content .btn {
+.btn {
   padding: rem(8px) rem(16px);
   border-radius: 2px;
   font-weight: bold;
@@ -267,11 +268,11 @@ h1, h2, h3, h4, h5, h6 {
   margin: rem(25px) auto 0 auto;
 
   @include respond-to(800) {
-    padding: 0 $rs * 1;
+    padding: 0 $rs;
   }
 }
 
-.post-content {
+// .post-content {
   /*
   width: 100%;
   font-family: $font-serif;
@@ -406,7 +407,7 @@ h1, h2, h3, h4, h5, h6 {
   ol li {
     list-style-type: decimal;
   }
-}
+// }
 
 
 // Listado de post en portada
@@ -1019,7 +1020,22 @@ pre {
   }
   
   &__btn {
+    background: $color-verde;
+    border: none;
+    color: white;
+    text-decoration: none;
+    font-family: $font-sans;
+    padding: rem(8px) rem(15px);
 
+    @include respond-to(500) {
+      font-size: rem(12);
+    }
+
+    &:hover {
+      background: $color-verde;
+      border: none;
+      color: white;
+    }
   }
 
   h4 {
@@ -1032,6 +1048,9 @@ pre {
     @include respond-to(700) {
       font-size: rem(16);
     }
+    @include respond-to(500) {
+      font-size: rem(14);
+    }
   }
 
   amp-img {
@@ -1043,15 +1062,6 @@ pre {
   }
 
   a {
-    background: $color-verde;
-    color: white;
-    text-decoration: none;
-    font-family: $font-sans;
-    padding: rem(8px) rem(15px);
-
-    @include respond-to(700) {
-      font-size: rem(12);
-    }
   }
 }
 
@@ -1071,21 +1081,36 @@ pre {
   }
 
   &__img {
-    // overflow: hidden;
-    // max-width: rem(100);
+    overflow: hidden;
 
     amp-img {
-      margin-top: 0;
+      margin: 0;
     }
   }
   &__btn {
     text-align: center;
+    display: table-cell;
     vertical-align: middle;
-    white-space: nowrap;
+
+    &> h4 {
+      color: $color-naranja;
+      white-space: nowrap;
+      margin-top: 0;
+      margin-bottom: $rs;
+    }
+    &> .btn {
+      background: $color-verde;
+      white-space: nowrap;
+      color: white;
+      border: none;
+      @include respond-to(500) {
+        font-size: rem(12);
+      }
+    }
   }
 }
 
-.post-content {
+// .post-content {
   .cuadro-comparar {
     display: grid;
     // grid-template-columns: 50% 50%;
@@ -1141,4 +1166,4 @@ pre {
       }
     }
   }
-}
+// }
