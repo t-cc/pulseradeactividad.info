@@ -456,7 +456,15 @@ article {
     }
   }
   .btn {
-    color: $color-naranja;
+    background: $color-naranja;
+    color: white;
+    border: 1px solid darken($color-naranja, 10%);
+
+    &:hover {
+      background: lighten($color-naranja, 10%);
+      border: 1px solid $color-naranja;
+      color: white;
+    }
   }
 }
 
