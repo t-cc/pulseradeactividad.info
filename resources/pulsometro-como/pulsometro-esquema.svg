@@ -215,19 +215,6 @@
          style="fill-rule:evenodd;stroke:#ffd5d5;stroke-width:1pt;stroke-opacity:1;fill:#ffd5d5;fill-opacity:1"
          transform="scale(0.8) translate(12.5,0)" />
     </marker>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1258"
-       x="-0.071901641"
-       width="1.1438033"
-       y="-0.18274999"
-       height="1.3655">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.34537557"
-         id="feGaussianBlur1260" />
-    </filter>
     <meshgradient
        inkscape:collect="always"
        id="meshgradient3435"
@@ -273,6 +260,45 @@
          style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="scale(0.2)" />
     </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9064"
+       x="-0.066885247"
+       width="1.1337705"
+       y="-0.16999999"
+       height="1.34">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.3212796"
+         id="feGaussianBlur9066" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9290"
+       x="-0.031365903"
+       width="1.0627318"
+       y="-0.019435749"
+       height="1.0388715">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.16848025"
+         id="feGaussianBlur9292" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9316"
+       x="-0.029795024"
+       width="1.05959"
+       y="-0.02009215"
+       height="1.0401843">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.14568163"
+         id="feGaussianBlur9318" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -281,9 +307,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="294.15083"
-     inkscape:cy="598.0252"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="126.38969"
+     inkscape:cy="785.36839"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -313,21 +339,27 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:url(#meshgradient3435);fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#meshgradient3435);fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="rect815"
        width="120.19643"
        height="41.577381"
        x="37.230648"
-       y="96.094185" />
+       y="96.094185"
+       inkscape:export-filename="/home/tonio/g2765.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
-       style="opacity:0.99999999;fill:#e9afaf;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#e9afaf;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="rect817"
        width="120.19644"
        height="5.7641373"
        x="37.230648"
-       y="90.330048" />
+       y="90.330048"
+       inkscape:export-filename="/home/tonio/g2765.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
-       style="opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.69700003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.69700003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        id="rect819"
        width="55.5625"
        height="12.095239"
@@ -337,7 +369,7 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <rect
-       style="opacity:0.92000002;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:2.69700003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1258)"
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:2.69700003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter9064)"
        id="rect821"
        width="11.528268"
        height="4.5357122"
@@ -352,28 +384,36 @@
        height="2.8348193"
        width="12.473207"
        id="rect823"
-       style="opacity:0.92000002;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:2.21782851;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:2.21782851;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
        inkscape:export-filename="/home/tonio/g2765.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <g
        id="g1119" />
-    <path
-       sodipodi:nodetypes="csccccccscc"
-       inkscape:connector-curvature="0"
-       id="path1127"
-       d="m 162.38279,120.78256 c 0,0 -29.37082,-1.89655 -46.84354,0.16885 -5.05843,0.59794 -9.05383,3.02266 -19.210759,2.74728 -9.752977,-0.0699 -12.427155,-2.30884 -18.071695,-3.68551 -11.717263,-2.92931 -52.648921,1.56726 -72.2091856,0.14985 v -3.64666 c 19.5602646,-1.41741 60.4919226,2.13422 72.2091856,-0.79509 7.014704,-1.56566 8.413212,-3.42664 18.071695,-3.68551 10.393169,0.008 14.152329,2.14934 19.210759,2.74728 17.47272,2.0654 46.84354,0.70339 46.84354,0.70339 z"
-       style="fill:#ff0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
-       style="opacity:1;fill:#ffd5d5;fill-opacity:1;fill-rule:evenodd;stroke:#ffd5d5;stroke-width:0.59809726;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM)"
-       d="m 89.031699,117.71152 16.032631,-0.0236"
-       id="path1134"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
+    <g
+       id="g7992"
+       transform="translate(30.201456)"
        inkscape:export-filename="/home/tonio/g2765.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+       inkscape:export-ydpi="300"
+       style="opacity:1">
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.76499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 162.38279,120.78256 c 0,0 -29.37082,-1.89655 -46.84354,0.16885 -5.05843,0.59794 -9.05383,3.02266 -19.210759,2.74728 -9.752977,-0.0699 -12.427155,-2.30884 -18.071695,-3.68551 -11.717263,-2.92931 -52.648921,1.56726 -72.2091856,0.14985 v -3.64666 c 19.5602646,-1.41741 60.4919226,2.13422 72.2091856,-0.79509 7.014704,-1.56566 8.413212,-3.42664 18.071695,-3.68551 10.393169,0.008 14.152329,2.14934 19.210759,2.74728 17.47272,2.0654 46.84354,0.70339 46.84354,0.70339 z"
+         id="path1127"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccccccscc" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/tonio/g2765.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path1134"
+         d="m 89.031699,117.71152 16.032631,-0.0236"
+         style="opacity:1;fill:#ffd5d5;fill-opacity:1;fill-rule:evenodd;stroke:#ffd5d5;stroke-width:0.59809726;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM)" />
+    </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 75.784225,166.40923 v 0"
@@ -403,13 +443,19 @@
        sodipodi:nodetypes="cssaaaaaaascc"
        inkscape:connector-curvature="0"
        id="path5071"
-       d="m 81.411361,92.709977 c 0,0 0.607042,0.950488 1.141423,1.702081 0.453878,0.638393 2.679247,0.05215 2.878638,0.484735 0.630494,1.368072 -3.191977,2.739101 -2.342643,3.985164 0.849331,1.246063 3.772308,-1.887687 4.621641,-0.641625 0.849336,1.246037 -3.191974,2.739098 -2.342641,3.985158 0.849333,1.24606 3.772311,-1.88769 4.621642,-0.64163 0.84933,1.24608 -3.191974,2.7391 -2.342641,3.98515 0.849331,1.24608 3.772306,-1.88765 4.621642,-0.64162 0.849334,1.24606 -3.191974,2.7391 -2.342641,3.98516 0.424667,0.62303 1.886117,-0.94381 2.31082,-0.32081 0.227923,0.33433 0.717152,0.98089 1.05256,1.50972 0.31484,0.4964 0.656689,0.99794 0.656689,0.99794"
-       style="fill:none;stroke:#00ff00;stroke-width:1.13862264;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5075)" />
+       d="m 80.990497,90.15909 c 0,0 0.62433,1.07532 1.17393,1.925623 0.466805,0.722236 2.755552,0.059 2.960622,0.548397 0.64845,1.547747 -3.282885,3.098839 -2.409362,4.508553 0.87352,1.409714 3.879743,-2.135605 4.753265,-0.725893 0.873525,1.409685 -3.282881,3.098836 -2.409359,4.50855 0.873522,1.40971 3.879746,-2.135612 4.753266,-0.7259 0.873519,1.40973 -3.282881,3.09884 -2.409359,4.50854 0.87352,1.40973 3.879741,-2.13557 4.753266,-0.72589 0.873523,1.40971 -3.282882,3.09884 -2.40936,4.50855 0.436762,0.70485 1.939834,-1.06777 2.376632,-0.36295 0.234415,0.37824 0.737577,1.10972 1.082537,1.708 0.323807,0.5616 0.675392,1.129 0.675392,1.129"
+       style="opacity:1;fill:none;stroke:#00ff00;stroke-width:1.22821164;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5075);filter:url(#filter9290)"
+       inkscape:export-filename="/home/tonio/g2765.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
-       style="fill:none;stroke:#00ff00;stroke-width:1.06108582;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutS-3)"
+       style="fill:none;stroke:#00ff00;stroke-width:1.06108582;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutS-3);opacity:1;filter:url(#filter9316)"
        d="m 98.467132,110.32374 c 0,0 0.62105,-0.86541 1.092799,-1.59503 0.400707,-0.61972 -0.907347,-2.25238 -0.597305,-2.58219 0.980446,-1.04292 3.547864,1.62376 4.342994,0.44463 0.79514,-1.17913 -3.00455,-2.42944 -2.20942,-3.60856 0.79514,-1.17913 3.54787,1.62376 4.343,0.44463 0.79513,-1.17913 -3.00456,-2.42943 -2.20941,-3.608564 0.79513,-1.179129 3.54785,1.623754 4.34299,0.444634 0.79514,-1.179136 -3.00455,-2.429439 -2.20942,-3.608568 0.79514,-1.179128 3.54786,1.623756 4.34301,0.444626 0.39756,-0.589558 -1.50225,-1.214698 -1.10472,-1.804272 0.21334,-0.316406 0.60865,-0.968672 0.95502,-1.448218 0.32514,-0.45015 0.64517,-0.924736 0.64517,-0.924736"
        id="path3455-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssaaaaaaascc" />
+       sodipodi:nodetypes="cssaaaaaaascc"
+       inkscape:export-filename="/home/tonio/g2765.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
 </svg>

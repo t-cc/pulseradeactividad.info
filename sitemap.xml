@@ -15,7 +15,7 @@ exclude: 'yes'
         {% elsif paginas.date %}
         <lastmod>{{ paginas.date | date_to_xmlschema }}</lastmod>
         {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ paginas.updated | date_to_xmlschema }}</lastmod>
         {% endif %}
         {% if paginas.sitemap.changefreq %}
         <changefreq>{{ paginas.sitemap.changefreq }}</changefreq>

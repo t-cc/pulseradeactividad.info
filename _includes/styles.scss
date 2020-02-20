@@ -1,5 +1,7 @@
-@import 'bourbon/bourbon';
+// @import 'bourbon/bourbon';
 // @import 'syntax-highlighting';
+@import "normalize";
+@import "utils";
 
 $grey-color:    #828282;
 
@@ -132,6 +134,17 @@ figure {
 
   &--verde {
     // background: $color-verde;
+  }
+  &--naranja {
+    background: $color-naranja;
+    color: white;
+    border: 1px solid darken($color-naranja, 10%);
+
+    &:hover {
+      background: lighten($color-naranja, 10%);
+      border: 1px solid $color-naranja;
+      color: white;
+    }
   }
 }
 
@@ -453,17 +466,6 @@ article {
       &:hover {
         text-decoration: underline;
       }
-    }
-  }
-  .btn {
-    background: $color-naranja;
-    color: white;
-    border: 1px solid darken($color-naranja, 10%);
-
-    &:hover {
-      background: lighten($color-naranja, 10%);
-      border: 1px solid $color-naranja;
-      color: white;
     }
   }
 }

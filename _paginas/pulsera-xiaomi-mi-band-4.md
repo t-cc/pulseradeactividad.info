@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020/02/18
+updated: 2020/02/20
 title: Pulsera Xiaomi Mi Band 4
 published: true
 image: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.webp
@@ -54,17 +55,17 @@ Voy a contaros la verdad sobre ella.
 
 ### ¿Cuál es la clave de su éxito?
 
-Es muy sencillo. La **Xiaomi Mi Band** es barata, bonita e incluye muchas funciones (otra cosa es que
+Es muy sencillo. La **Xiaomi Mi Band 4** es barata, bonita e incluye muchas funciones (otra cosa es que
 todas marchen correctamente).
 
 Realmente, en Xiaomi son muy buenos e temas de marketing y diseño. 
 Invierten inteligentemente en *influencers*, *youtubers* y *reviews* y saben 
 muy bien que es lo que va a demandar el público antes de lanzar el producto. 
 Todo esto conduce a una cierta exageración que rodea a todos los productos 
-Xiaomi, vistos como *los salvadores de los consumistas pobres*.
+Xiaomi.
 
 
-### ¿Quién fabrica la Mi Band 4?
+### ¿Quién fabrica la Xiaomi Mi Band 4?
 
 **Huami** es la propietaria de **Amazfit**, que a su vez fabrica para **Xiaomi**.
 Estos últimos se encargan del diseño y el marketing, pero la mayoría de los componentes
@@ -109,7 +110,7 @@ ser algo espectacular. Esto no era muy difícil, ya que el de la versión anteri
 era realmente malo.
 
 La pulsera de silicona sigue siendo la misma, así que podrás utilizar pulseras
-de la Mi Band 3 con esta.
+de la Xiaomi Mi Band 3 con esta.
 
 > Es idónea como *wereable* **para dejar una vida sedentaria y salir
   a caminar todos los días**, para **personas mayores**, para **tener notificaciones** 
@@ -118,7 +119,7 @@ de la Mi Band 3 con esta.
 
 ### Funciones.
 
-Con esta **pulsera de actividad* tendréis lo básico de cualquier pulsera o smartwatch:
+Con esta **pulsera de actividad barata** tendréis lo básico de cualquier pulsera o smartwatch:
 alarmas, cronómetro y cuenta atrás, además de pasos, distancia y calorías.
 
 En esta versión han añadido seguimiento de más ejercicios. En esta versión tendréis:
@@ -143,12 +144,13 @@ con la misma monitorización de ritmo cardíaco.
 
 ### Monitorización de ejercicios.
 
-Dada la calidad del sensor de pulso, **no recomendaría esta pulsera para ejercicios intensos**.
+Dada la calidad del sensor de pulso, **no recomiendo esta pulsera para ejercicios intensos**.
 Las lecturas van a ser erróneas, sobre todo si comienzas a sudar. Empezará a darte
 alertas de pulso alto sin sentido y no podrás ajustar la intensidad del ejercicio
 al rango de pulsaciones que necesitas trabajar.
 
-Tampoco cuenta demasiado bien las brazadas al nadar, y la pantalla táctil se
+**Tampoco recomiendo la Xiaomi Mi Band 4 para natación**. Aunque es sumergible a
+50 metros no cuenta demasiado bien las brazadas al nadar, y la pantalla táctil se
 vuelve un poco loca bajo el agua, interpretando que la hemos tocado al golpearse con el agua. 
 
 
@@ -171,11 +173,11 @@ Esto es, un trabajo físico moderado que incluya cosas como nadar, elíptica, co
 Esta pulsera no te servirá para eso. Está enfocada a cosas como caminar o algún
 ejercicio suave. Es idónea como *wereable* **para dejar una vida sedentaria y salir
 a caminar todos los días**, para **personas mayores**, para **tener notificaciones** en la muñeca 
-(nunca entenderé la necesidad de esto) y poco más. **Quizá sea más un accesorio de moda
-que una pulsera de actividad como tal**.
+(nunca entenderé la necesidad de esto) y poco más. Quizá sea más un accesorio de moda
+que una pulsera de actividad como tal. Recordad que **tampoco es recomendable para nadar**.
 
 
-Si quereis otro tipo de pulsera, a continuación os dejo una lista de las **mejores pulseras**,
+Si queréis otro tipo de pulsera, a continuación os dejo una lista de las **mejores pulseras**,
 a mi entender, para **monitorizar la actividad física**:
 
 <br>
