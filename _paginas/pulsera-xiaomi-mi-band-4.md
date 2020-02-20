@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020/02/18
-updated: 2020/02/20
+date: 2019/12/15
+updated: 2020/02/10
 title: Pulsera Xiaomi Mi Band 4
 published: true
 image: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.webp
@@ -41,7 +41,7 @@ Voy a contaros la verdad sobre ella.
     <li>Larga duración de la batería (teorica).</li>
     <li>GPS conectado.</li>
     <li>Muchas funciones de personalización.</li>
-    <li>Resistente al agua.</li>
+    <li>Resistente al agua (sumergible).</li>
     <li>Pantalla en color.</li>
   </ul>
   <ul class="cuadro-comparar__ko">

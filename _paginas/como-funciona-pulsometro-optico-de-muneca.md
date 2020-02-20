@@ -59,7 +59,7 @@ que pudiese falsear las lecturas.
 <figure markdown="0">
   <amp-img alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
       width="700" height="510" layout="responsive"
-      src="/assets/images/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.webp">
+      src="/assets/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.webp">
       <amp-img fallback alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
           width="700" height="510" layout="responsive"
           src="/assets/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.jpg">
