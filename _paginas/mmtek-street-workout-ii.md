@@ -2,7 +2,7 @@
 layout: post
 date: 2020/02/05
 updated: 2020/02/20
-title: MMTEK Street Workout II
+title: pulsera deportiva Street Workout II
 published: true
 image: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii.webp
 image_fallback: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii.jpg
@@ -66,7 +66,7 @@ una resolución de 64x128 y tecnología TFT. Como veis la resolución no es gran
 una [Huawei Band 4](/huawei-band-4-review.html) tiene 160x180 píxeles. Además
 al ser TFT no se verá bien bajo luz solar directa.
 
-En cuanto a la construcción la **MMTEK Street Workout II**, está hecha de PVC 
+En cuanto a la construcción la **pulsera deportiva Street Workout II**, está hecha de PVC 
 y la correa es de silicona... lo que le da un aspecto muy *plasticoso*.
 Actualmente lo normal es que se fabrican en policarbonato y las correas suelen 
 ser de poliuretano o similar, con lo que esta parece un paso atrás.
@@ -75,7 +75,7 @@ La duración de la batería es de unos 6 días con un uso normal, con lo que res
 
 ## Funcionalidades.
 
-La **MMTEK Street Workout II** cuenta con gran cantidad de sensores, desde
+La **pulsera deportiva Street Workout II** cuenta con gran cantidad de sensores, desde
 frecuencia cardíaca a presión arterial y frecuencia respiratoria, pero ninguno 
 ellos funciona como debería.
 
