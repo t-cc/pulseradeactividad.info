@@ -2,7 +2,7 @@
 layout: post
 date: 2020/02/05
 updated: 2020/02/20
-title: pulsera deportiva Street Workout II
+title: Pulsera deportiva Street Workout II
 published: true
 image: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii.webp
 image_fallback: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii.jpg
