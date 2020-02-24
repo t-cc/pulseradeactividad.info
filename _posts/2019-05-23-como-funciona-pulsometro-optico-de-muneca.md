@@ -1,18 +1,25 @@
 ---
 layout: post
-date: 2019/05/10
+date: 2019/05/23
 updated: 2020/02/20
 title: ¿Como funciona un pulsómetro óptico de muñeca?
 published: true
+
+# Forzar url canonica!!
+canonical: /como-funciona-pulsometro-optico-de-muneca.html
+
+# Imagen que aparece en resumen de posts.
 image: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico.webp
 image_fallback: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico.png
 image_alt: Funcionamiento de un sensor óptico de pulso.
 image_width: 700
 image_height: 204
 
+# Imagen para metadata (Google discover, redes sociales, etc...)
 meta_image: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico_lg.png
 meta_image_width: 1200
 meta_image_height: 334
+
 
 # @see: https://www.google.com/search?q=optical+pulse+sensor+technology+how+it+works
 # @see: https://valencell.com/blog/2015/10/optical-heart-rate-monitoring-what-you-need-to-know/
