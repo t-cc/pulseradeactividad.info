@@ -15,10 +15,10 @@ image_alt: Funcionamiento de un sensor óptico de pulso.
 image_width: 700
 image_height: 204
 
-# Imagen para metadata (Google discover, redes sociales, etc...)
-meta_image: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico_lg.png
-meta_image_width: 1200
-meta_image_height: 334
+# Imagen para metadata (Google discover, redes sociales, etc; 16:9 1200x675 | 4:3 1200x900 | 1:1 1000x100)
+image_16x9: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico-16x9.png
+image_4x3: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico-4x3.png
+image_1x1: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico-1x1.png
 
 
 # @see: https://www.google.com/search?q=optical+pulse+sensor+technology+how+it+works

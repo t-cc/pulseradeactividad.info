@@ -2,8 +2,13 @@
 layout: post
 date: 2019/12/15
 updated: 2020/02/10
-title: Pulsera Xiaomi Mi Band 4
+title: Pulsera Xiaomi Mi Band 4. Opinión y características.
 published: true
+
+description: >
+  La Xiaomi Mi Band 4 llega colmada de opciones. ¿Podrá plantar cara a Fitbit,
+  Garmin, Polar y compañía? ¿Será válida para deportes intensos y natación?
+  Descubre la verdad.
 
 # Imagen que aparece en resumen de posts.
 image: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.webp
@@ -12,10 +17,10 @@ image_alt: Xiaomi Mi Band 4 en múltiples colores. Fuente mi.com.
 image_width: 700
 image_height: 415
 
-# Imagen para metadata (Google discover, redes sociales, etc...)
-meta_image: /assets/pulsera-xiaomi-mi-band-4/mi-band-4_lg.jpg
-meta_image_width: 1200
-meta_image_height: 641
+# Imagen para metadata (Google discover, redes sociales, etc; 16:9 1200x675 | 4:3 1200x900, 1100x825 | 1:1 1000x100, 900x900)
+image_16x9: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-16x9.jpg
+image_4x3: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-4x3.jpg
+image_1x1: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-1x1.jpg
 ---
 
 

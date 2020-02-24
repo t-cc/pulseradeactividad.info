@@ -2,8 +2,13 @@
 layout: post
 date: 2020/02/05
 updated: 2020/02/20
-title: Pulsera deportiva Street Workout II
+title: Pulsera deportiva Street Workout II. Opinión y características.
 published: true
+
+description: >
+  ¿Será la pulsera Street Workout II una opción a tener en cuenta?
+  El mercado está inundado de pulseras baratas de Xiaomi, Huawei, Honor...
+  ¿Tendrá esta algo distinto que ofrecer?
 
 # Imagen que aparece en resumen de posts.
 image: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii.webp
@@ -12,10 +17,10 @@ image_alt: MMTEK Street Workout II en diferentes colores.
 image_width: 700
 image_height: 280
 
-# Imagen para metadata (Google discover, redes sociales, etc...)
-meta_image: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii_lg.jpg
-meta_image_width: 1200
-meta_image_height: 480
+# Imagen para metadata (Google discover, redes sociales, etc; 16:9 1200x675 | 4:3 1200x900, 1100x825 | 1:1 1000x100, 900x900)
+image_16x9: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii-16x9.jpg
+image_4x3: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii-4x3.jpg
+image_1x1: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii-1x1.jpg
 
 # @see: https://www.amazon.es/MMTEK-Street-Actividad-Puls%C3%B3metro-Impermeable-smartwatch/dp/B07SNWM6HQ/
 # https://www.chollosok.com/pulsera-deportiva-street-workout-ii-por-17150-e/

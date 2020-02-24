@@ -5,22 +5,53 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+#
+# Iconos unicode...
+# http://www.fileformat.info/info/unicode/category/So/list.htm
+#
+# ⌚ watch:            http://www.fileformat.info/info/unicode/char/231a/index.htm
+# ⏩ flechas derecha:  http://www.fileformat.info/info/unicode/char/23e9/index.htm
+# ⏰ alarma reloj:     http://www.fileformat.info/info/unicode/char/23f0/index.htm
+# ⏱ cronometro:       http://www.fileformat.info/info/unicode/char/23f1/index.htm
+# 🔝 top:              http://www.fileformat.info/info/unicode/char/1f51d/index.htm
+# ⭐ star:             http://www.fileformat.info/info/unicode/char/2b50/index.htm
+# 🆚 VS:               http://www.fileformat.info/info/unicode/char/1f19a/index.htm
+# 🌟 glowing star:     http://www.fileformat.info/info/unicode/char/1f31f/index.htm
+# 🎖 medalla (militar):http://www.fileformat.info/info/unicode/char/1f396/index.htm
+# 🏃 runner:           http://www.fileformat.info/info/unicode/char/1f3c3/index.htm
+# 🏅 medalla:          http://www.fileformat.info/info/unicode/char/1f3c5/index.htm
+# 🏆 trofeo:           http://www.fileformat.info/info/unicode/char/1f3c6/index.htm
+# 🏊 nadar:            http://www.fileformat.info/info/unicode/char/1f3ca/index.htm
+# 🏋 pesas:            http://www.fileformat.info/info/unicode/char/1f3cb/index.htm
+# 👍 mano ok:            http://www.fileformat.info/info/unicode/char/1f44d/index.htm
+# 👎 mano ko:            http://www.fileformat.info/info/unicode/char/1f44e/index.htm
+# 👏 aplausos:           http://www.fileformat.info/info/unicode/char/1f44f/index.htm
+# corona:             http://www.fileformat.info/info/unicode/char/1f451/index.htm
+# 👓 gafas:             http://www.fileformat.info/info/unicode/char/1f453/index.htm
+# 👣 pies:               http://www.fileformat.info/info/unicode/char/1f463/index.htm
+# 💪 musculo:             http://www.fileformat.info/info/unicode/char/1f4aa/index.htm
+# 💯 100:                 http://www.fileformat.info/info/unicode/char/1f4af/index.htm
+# 👌 mano perfecto:      http://www.fileformat.info/info/unicode/char/1f44c/index.htm
+
 # Site settings
-title: Pulsera de Actividad
+title: La mejor 👌 información sobre pulseras de actividad ⌚ y fitness.
 email: web@pulseradeactividad.info
 description: >
-  Reviews y análisis veraces de las mejores pulseras de actividad y pulsómetros deportivos.
-  Las opiniones más valiosas, consejos y comparativas. Descubre como pueden
-  ayudarte a mejorar tu forma física.
-logo: "/assets/logo_lg.png"
+  Reviews y análisis veraces de las mejores 👑 pulseras de actividad, fitness, y pulsómetros deportivos.
+  Las opiniones más valiosas, consejos y comparativas. 💪 Descubre como pueden
+  ayudarte a mejorar tu forma física .
+logo: "/assets/logo.png"
 logo_amp: "/assets/logo-amp.png"
 logo_amp__width: 176
 logo_amp__height: 60
+logo_16x9: "/assets/logo-16x9.png"
+logo_4x3: "/assets/logo-4x3.png"
+logo_1x1: "/assets/logo-1x1.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pulseradeactividad.info" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'pulseradeactividad.info'
+name: 'PulseraDeActividad.info'
 bio: >
   Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
   Ne solet nostrum complectitur pri, vis ut inani populo.

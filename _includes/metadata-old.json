@@ -13,7 +13,7 @@
   },
   "publisher": {
     "@type": "Organization",
-    "name": "{{ site.name }}",
+    "name": "{{ site.title }}",
     "logo": {
       "@type": "ImageObject",
       "url": "{{ site.logo_amp | prepend: site.baseurl | prepend: site.url }}",
@@ -22,8 +22,15 @@
     }
   },
   "image": [
-    "{% if page.image_16x9 %}{{ page.image_16x9 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.image_16x9 | prepend: site.baseurl | prepend: site.url }}{% endif %}",
-    "{% if page.image_4x3 %}{{ page.image_4x3 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo_4x3 | prepend: site.baseurl | prepend: site.url }}{% endif %}",
-    "{% if page.image_1x1 %}{{ page.image_1x1 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo_1x1 | prepend: site.baseurl | prepend: site.url }}{% endif %}"
+
   ]
+{% comment %}
+  "image": {
+    "@type": "ImageObject",
+    "url": "{% if page.meta_image %}{{ page.meta_image | prepend: site.baseurl | prepend: site.url }}{% else %}{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}{% endif %}",
+
+    "height": "{% if page.meta_image %}{{ page.meta_image_height }}{% else %}{% if page.image_height %}{{ page.image_height }}{% else %}1200{% endif %}{% endif %}",
+    "width": "{% if page.meta_image %}{{ page.meta_image_width }}{% else %}{% if page.image_width %}{{ page.image_width }}{% else %}720{% endif %}{% endif %}"
+{% endcomment %}
+  }
 }

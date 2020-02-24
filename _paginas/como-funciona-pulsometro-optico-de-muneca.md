@@ -5,6 +5,10 @@ updated: 2020/02/20
 title: ¿Como funciona un pulsómetro óptico de muñeca?
 published: true
 
+description: >
+  Aprende como funciona un pulsómetro óptico para poder elegir el mejor.
+  ¿Cuales son sus puntos débiles y fuertes? ¿Dan lecturas correctas? ¿Cuales son los mejores?
+  
 # Imagen que aparece en resumen de posts.
 image: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico.webp
 image_fallback: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico.png
@@ -12,10 +16,10 @@ image_alt: Funcionamiento de un sensor óptico de pulso.
 image_width: 700
 image_height: 204
 
-# Imagen para metadata (Google discover, redes sociales, etc...)
-meta_image: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico_lg.png
-meta_image_width: 1200
-meta_image_height: 334
+# Imagen para metadata (Google discover, redes sociales, etc; 16:9 1200x675 | 4:3 1200x900 | 1:1 1000x100)
+image_16x9: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico-16x9.png
+image_4x3: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico-4x3.png
+image_1x1: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico-1x1.png
 
 # @see: https://www.google.com/search?q=optical+pulse+sensor+technology+how+it+works
 # @see: https://valencell.com/blog/2015/10/optical-heart-rate-monitoring-what-you-need-to-know/
@@ -70,7 +74,7 @@ que pudiese falsear las lecturas.
       src="/assets/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.webp">
       <amp-img fallback alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
           width="700" height="510" layout="responsive"
-          src="/assets/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.jpg">
+          src="/assets/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.png">
       </amp-img>
   </amp-img>
   <figcaption>
