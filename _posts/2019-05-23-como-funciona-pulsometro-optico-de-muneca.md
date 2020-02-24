@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2019/05/23
+date: 2019/05/10
+updated: 2020/02/20
 title: ¿Como funciona un pulsómetro óptico de muñeca?
 published: true
 image: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico.webp
@@ -8,6 +9,11 @@ image_fallback: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pul
 image_alt: Funcionamiento de un sensor óptico de pulso.
 image_width: 700
 image_height: 204
+
+meta_image: /assets/como-funciona-pulsometro-optico-de-muneca/lectura-de-pulso-con-sensor-optico_lg.png
+meta_image_width: 1200
+meta_image_height: 334
+
 # @see: https://www.google.com/search?q=optical+pulse+sensor+technology+how+it+works
 # @see: https://valencell.com/blog/2015/10/optical-heart-rate-monitoring-what-you-need-to-know/
 # @see: https://valencell.com/blog/2017/03/webinar-building-wearable-heart-rate-monitoring/
@@ -58,7 +64,7 @@ que pudiese falsear las lecturas.
 <figure markdown="0">
   <amp-img alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
       width="700" height="510" layout="responsive"
-      src="/assets/images/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.webp">
+      src="/assets/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.webp">
       <amp-img fallback alt="Como ponerse la pulsera de actividad para una correcta medición del pulso." 
           width="700" height="510" layout="responsive"
           src="/assets/como-funciona-pulsometro-optico-de-muneca/como-colocar-la-pulsera-en-la-muneca.jpg">
