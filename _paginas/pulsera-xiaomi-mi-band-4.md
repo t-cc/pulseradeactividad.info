@@ -4,11 +4,18 @@ date: 2019/12/15
 updated: 2020/02/10
 title: Pulsera Xiaomi Mi Band 4
 published: true
+
+# Imagen que aparece en resumen de posts.
 image: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.webp
 image_fallback: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.jpg
 image_alt: Xiaomi Mi Band 4 en múltiples colores. Fuente mi.com.
 image_width: 700
 image_height: 415
+
+# Imagen para metadata (Google discover, redes sociales, etc...)
+meta_image: /assets/pulsera-xiaomi-mi-band-4/mi-band-4_lg.jpg
+meta_image_width: 1200
+meta_image_height: 641
 ---
 
 

@@ -4,11 +4,19 @@ date: 2020/02/05
 updated: 2020/02/20
 title: Pulsera deportiva Street Workout II
 published: true
+
+# Imagen que aparece en resumen de posts.
 image: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii.webp
 image_fallback: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii.jpg
 image_alt: MMTEK Street Workout II en diferentes colores.
 image_width: 700
 image_height: 280
+
+# Imagen para metadata (Google discover, redes sociales, etc...)
+meta_image: /assets/mmtek-street-workout-ii/mmtek-street-workout-ii_lg.jpg
+meta_image_width: 1200
+meta_image_height: 480
+
 # @see: https://www.amazon.es/MMTEK-Street-Actividad-Puls%C3%B3metro-Impermeable-smartwatch/dp/B07SNWM6HQ/
 # https://www.chollosok.com/pulsera-deportiva-street-workout-ii-por-17150-e/
 ---

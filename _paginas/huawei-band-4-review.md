@@ -4,11 +4,19 @@ date: 2020/01/10
 updated: 2020/02/18
 title: Huawei Band 4
 published: true
+
+# Imagen que aparece en resumen de posts.
 image: /assets/huawei-band-4/huawei-band-4-colores.webp
 image_fallback: /assets/huawei-band-4/huawei-band-4-colores.jpg
 image_alt: Huawei Band 4 en diferentes colores.
 image_width: 700
 image_height: 287
+
+# Imagen para metadata (Google discover, redes sociales, etc...)
+image_fallback: /assets/huawei-band-4/huawei-band-4-colores_lg.jpg
+meta_image_width: 1200
+meta_image_height: 492
+
 # @see: https://root-nation.com/gadgets-en/wearables-en/en-huawei-band-4-fitness-tracker-review/
 # @see: https://www.techradar.com/news/huawei-band-4-unveiled-but-havent-we-seen-this-before
 ---
