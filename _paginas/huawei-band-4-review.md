@@ -97,7 +97,7 @@ Es completamente resistente al agua, aunque no registra ejercicios de natación.
   </div>
   <div class="amz-row__btn ">
     <h4>Huawei Band 4</h4>
-    <a class="btn" target="blank"
+    <a class="btn" target="_blank"
        href="https://amzn.to/2HMnXXL">
       Ver mejor precio en Amazon
     </a>
