@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Política de Cookies
+sitemap:
+  priority: 0.1
+  changefreq: 'never'
 ---
 
 Cookie es un fichero que se descarga en su ordenador al acceder a determinadas páginas web. 

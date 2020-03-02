@@ -1,7 +1,7 @@
 ---
 layout: null
 sitemap:
-exclude: 'yes'
+    exclude: 'yes'
 # http://www.independent-software.com/generating-a-sitemap-xml-with-jekyll-without-a-plugin.html
 ---
 <?xml version="1.0" encoding="UTF-8"?>
@@ -12,10 +12,10 @@ exclude: 'yes'
         <loc>{{ site.url }}{{ paginas.url }}</loc>
         {% if paginas.sitemap.lastmod %}
         <lastmod>{{ paginas.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-        {% elsif paginas.date %}
-        <lastmod>{{ paginas.date | date_to_xmlschema }}</lastmod>
-        {% else %}
+        {% elsif paginas.updated %}
         <lastmod>{{ paginas.updated | date_to_xmlschema }}</lastmod>
+        {% else %}
+        <lastmod>{{ paginas.date | date_to_xmlschema }}</lastmod>
         {% endif %}
         {% if paginas.sitemap.changefreq %}
         <changefreq>{{ paginas.sitemap.changefreq }}</changefreq>
