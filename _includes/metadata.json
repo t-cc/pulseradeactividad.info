@@ -22,8 +22,8 @@
     }
   },
   "image": [
-    "{% if page.image_16x9 %}{{ page.image_16x9 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.image_16x9 | prepend: site.baseurl | prepend: site.url }}{% endif %}",
-    "{% if page.image_4x3 %}{{ page.image_4x3 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo_4x3 | prepend: site.baseurl | prepend: site.url }}{% endif %}",
-    "{% if page.image_1x1 %}{{ page.image_1x1 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo_1x1 | prepend: site.baseurl | prepend: site.url }}{% endif %}"
+    "{% if page.image.16x9 %}{{ page.image.16x9 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.image.16x9 | prepend: site.baseurl | prepend: site.url }}{% endif %}",
+    "{% if page.image.4x3 %}{{ page.image.4x3 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo_4x3 | prepend: site.baseurl | prepend: site.url }}{% endif %}",
+    "{% if page.image.1x1 %}{{ page.image.1x1 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo_1x1 | prepend: site.baseurl | prepend: site.url }}{% endif %}"
   ]
 }

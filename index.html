@@ -36,11 +36,11 @@ sitemap:
           {% endcomment %}
           {% if post.image %}
             <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
-              <amp-img alt="{{ post.image_alt | default: post.title }}" layout="responsive"
-                       width="{{ post.image_width }}" height="{{ post.image_height }}" src="{{ post.image }}">
-                {% if post.image_fallback %}
-                <amp-img fallback alt="{{ post.img_alt | default: post.title }}" layout="responsive"
-                         width="{{ post.image_width }}" height="{{ post.image_height }}" src="{{ post.image_fallback }}">
+              <amp-img alt="{{ post.image.alt | default: post.title }}" layout="responsive"
+                       width="{{ post.image.width }}" height="{{ post.image.height }}" src="{{ post.image.file }}">
+                {% if post.image.fallback %}
+                <amp-img fallback alt="{{ post.img.alt | default: post.title }}" layout="responsive"
+                         width="{{ post.image.width }}" height="{{ post.image.height }}" src="{{ post.image.fallback }}">
                 </amp-img>
                 {% endif %}
               </amp-img>

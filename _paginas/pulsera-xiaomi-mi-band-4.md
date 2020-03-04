@@ -11,16 +11,16 @@ description: >
   Descubre la verdad.
 
 # Imagen que aparece en resumen de posts.
-image: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.webp
-image_fallback: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.jpg
-image_alt: Xiaomi Mi Band 4 en múltiples colores. Fuente mi.com.
-image_width: 700
-image_height: 415
-
-# Imagen para metadata (Google discover, redes sociales, etc; 16:9 1200x675 | 4:3 1200x900, 1100x825 | 1:1 1000x100, 900x900)
-image_16x9: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-16x9.jpg
-image_4x3: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-4x3.jpg
-image_1x1: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-1x1.jpg
+image:
+  file: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.webp
+  fallback: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-header.jpg
+  alt: Xiaomi Mi Band 4 en múltiples colores. Fuente mi.com.
+  width: 700
+  height: 415
+  # Imagen para metadata (Google discover, redes sociales, etc; 16:9 1200x675 | 4:3 1200x900, 1100x825 | 1:1 1000x100, 900x900)
+  16x9: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-16x9.jpg
+  4x3: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-4x3.jpg
+  1x1: /assets/pulsera-xiaomi-mi-band-4/mi-band-4-1x1.jpg
 ---
 
 
@@ -31,17 +31,17 @@ Voy a contaros la verdad sobre ella.
 
 {% if page.image %}
 <figure markdown="0">
-  <amp-img alt="{{ page.image_alt | default: page.title }}" layout="responsive"
-           width="{{ page.image_width }}" height="{{ page.image_height }}" src="{{ page.image }}">
-    {% if page.image_fallback %}
-    <amp-img fallback alt="{{ page.img_alt | default: page.title }}" layout="responsive"
-             width="{{ page.image_width }}" height="{{ page.image_height }}" src="{{ page.image_fallback }}">
+  <amp-img alt="{{ page.image.alt | default: page.title }}" layout="responsive"
+           width="{{ page.image.width }}" height="{{ page.image.height }}" src="{{ page.image.file }}">
+    {% if page.image.fallback %}
+    <amp-img fallback alt="{{ page.img.alt | default: page.title }}" layout="responsive"
+             width="{{ page.image.width }}" height="{{ page.image.height }}" src="{{ page.image.fallback }}">
     </amp-img>
     {% endif %}
   </amp-img>
-  {% if page.image_alt %}
+  {% if page.image.alt %}
     <figcaption>
-      {{ page.image_alt }}
+      {{ page.image.alt }}
     </figcaption>
   {% endif %}
   </figure>
@@ -70,7 +70,7 @@ Voy a contaros la verdad sobre ella.
 Es muy sencillo. La **Xiaomi Mi Band 4** es barata, bonita e incluye muchas funciones (otra cosa es que
 todas marchen correctamente).
 
-Realmente, en Xiaomi son muy buenos e temas de marketing y diseño. 
+Realmente, en Xiaomi son muy buenos en temas de marketing y diseño. 
 Invierten inteligentemente en *influencers*, *youtubers* y *reviews* y saben 
 muy bien que es lo que va a demandar el público antes de lanzar el producto. 
 Todo esto conduce a una cierta exageración que rodea a todos los productos 
