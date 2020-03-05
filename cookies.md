@@ -29,7 +29,6 @@ en el momento del registro o la compra.
 plataforma o aplicación y la utilización de las diferentes opciones o servicios que en ella existan como, 
 por ejemplo, controlar el tráfico y la comunicación de datos, identificar la sesión, 
 acceder a partes de acceso restringido, recordar los elementos que integran un pedido, realizar el proceso de compra de un pedido, realizar la solicitud de inscripción o participación en un evento, utilizar elementos de seguridad durante la navegación, almacenar contenidos para la difusión de videos o sonido o compartir contenidos a través de redes sociales.
-{% endcomment %}
 
 - **Cookies de personalización**: 
 Son aquéllas que permiten al usuario acceder al servicio 
@@ -45,8 +44,6 @@ análisis estadístico de la utilización que hacen los usuarios del servicio of
 Para ello se analiza su navegación en nuestra página web con el fin de mejorar 
 la oferta de productos o servicios que le ofrecemos.
 
-
-{% comment %}
 – Cookies publicitarias: Son aquéllas que, bien tratadas por nosotros o por terceros, nos permiten gestionar de la forma más eficaz posible la oferta de los espacios publicitarios que hay en la página web, adecuando el contenido del anuncio al contenido del servicio solicitado o al uso que realice de nuestra página web. Para ello podemos analizar sus hábitos de navegación en Internet y podemos mostrarle publicidad relacionada con su perfil de navegación.
 
 – Cookies de publicidad comportamental: Son aquéllas que permiten la gestión, de la forma más eficaz posible, de los espacios publicitarios que, en su caso, el editor haya incluido en una página web, aplicación o plataforma desde la que presta el servicio solicitado. Estas cookies almacenan información del comportamiento de los usuarios obtenida a través de la observación continuada de sus hábitos de navegación, lo que permite desarrollar un perfil específico para mostrar publicidad en función del mismo.
@@ -68,10 +65,13 @@ Incluyendo la posible transmisión de dicha información a terceros por razones
 de exigencia legal o cuando dichos terceros procesen la información por cuenta 
 de Google.
 
+
+{% comment %}
 (En este punto la AGPD sugiere incluir cada una de las cookies de terceros 
 utilizadas y los datos de dichos terceros. Por evidentes razones en este 
 modelo sólo se ha incluido la Google en el uso de Analytics por ser 
 la más extendida y común.)
+{% endcomment %}
 
 El Usuario acepta expresamente, por la utilización de este Site, el tratamiento 
 de la información recabada en la forma y con los fines anteriormente 
