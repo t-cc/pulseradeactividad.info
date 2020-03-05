@@ -3,7 +3,7 @@ layout: post
 date: 2020/03/02
 date: 2020/03/02
 title: ✅ Ideas originales para el día del padre.
-published: false
+published: true
 
 description: >
   ✨ Descubre las mejores pulseras de actividad para regalar el día del padre.
@@ -11,15 +11,15 @@ description: >
 
 # Imagen que aparece en resumen de posts.
 image: 
-  file: /assets/huawei-band-4/huawei-band-4-colores.webp
-  fallback: /assets/huawei-band-4/huawei-band-4-colores.jpg
-  alt: Huawei Band 4 en diferentes colores.
+  file: /assets/ideas-originales-para-el-dia-del-padre/ideas-originales-para-el-dia-del-padre.webp
+  fallback: /assets/ideas-originales-para-el-dia-del-padre/ideas-originales-para-el-dia-del-padre.jpg
+  alt: Ideas originales para reglar el día del padre. Fuente fitbit.com.
   width: 700
-  height: 287
+  height: 306
   # Imagen para metadata (Google discover, redes sociales, etc; 16:9 1200x675 | 4:3 1200x900, 1100x825 | 1:1 1000x100, 900x900)
-  16x9: /assets/huawei-band-4/huawei-band-4-colores-16x9.jpg
-  4x3: /assets/huawei-band-4/huawei-band-4-colores-4x3.jpg
-  1x1: /assets/huawei-band-4/huawei-band-4-colores-1x1.jpg
+  16x9: /assets/ideas-originales-para-el-dia-del-padre/ideas-originales-para-el-dia-del-padre-16x9.jpg
+  4x3: /assets/ideas-originales-para-el-dia-del-padre/ideas-originales-para-el-dia-del-padre-4x3.jpg
+  1x1: /assets/ideas-originales-para-el-dia-del-padreideas-originales-para-el-dia-del-padre-1x1.jpg
 
 ---
 
@@ -50,7 +50,7 @@ un 8% el riesgo de infarto.
 
 ## Pero, ¿que va a hacer una pulsera de actividad por su salud?
 
-La mayoría de la gente con hábitos de vida sedentarios que se propone realizar 
+La mayor parte de las personas con hábitos de vida sedentarios que se propone realizar 
 algo de ejercicio habitualmente acaba dejándolo más pronto que tarde, y **la
 gamificación ayuda mucho** más de lo que os podeis imaginar a evitar esto.
 
@@ -62,10 +62,10 @@ más saludables**. Esto las hace un **regalo original para el día del padre**.
 
 <figure markdown="0">
   <amp-img alt="Ejemplo de insignias de FitBit." 
-      width="700" height="455" layout="responsive"
+      width="700" height="323" layout="responsive"
       src="/assets/ideas-originales-para-el-dia-del-padre/ejemplo-insignias-fitbit.webp">
       <amp-img fallback alt="Como cargar la Huawei Band 4." 
-          width="700" height="455" layout="responsive"
+          width="700" height="323" layout="responsive"
           src="/assets/ideas-originales-para-el-dia-del-padre/ejemplo-insignias-fitbit.jpg">
       </amp-img>
   </amp-img>
@@ -74,22 +74,15 @@ más saludables**. Esto las hace un **regalo original para el día del padre**.
   </figcaption>
 </figure>
 
-Como ejemplo de esta gamificación podeis ver la aplicación de Fitbit. 
-Se trata de una aplicación sencilla, que *"premia"* a los usuarios mediante
-*insignias* y en la que puedes retar a otros usuarios. 
-
-* Insignias absolutas. Insignias por logros absolutos.
-* Insignias de un día. Logros de un día, por ejemplo, el día que has dado 30.000 pasos.
-* Dia del objetivo. Para compararte con otros usuarios con distintos objetivos diarios.
-* Enfrentamiento diario. Pasos en un día.
-* Guerrero de fin de semana. Pasos el fin de semana.
-* Ajetreo en 5 días. Pasos en cinco días.
-* Carreras en aventura y aventuras en solitario. Para competir simulando el 
-recorrido de una ruta famosa.
-
+Como ejemplo de esta gamificación están las insignias por logros acumulados o diarios
+con que las mayoría de aplicaciones de smartbans premian a sus usuarios para 
+mantenerlos activos. Además de esto pueden incluir una pequeña *red social* que 
+permite lanzar y participar en retos de otros usuarios, estableciendo como objetivo
+el número de pásos en un día, fin de semana o 5 días.
+ 
 Te parecerán una tontería, pero la verdad es que animan un montón! Las insignias
-te ayudan sobre todo al principio, y luego las competiciones con otra gente
-te mantienen activo.
+te ayudan sobre todo al principio, y más adelante las competiciones con otra gente
+te ayudan a mantenerte activo.
 
 
 ## ¿Y que tipos de pulseras de actividad puedo encontrar?
@@ -99,8 +92,8 @@ pero siguiendo una clara relación entre estos dos parámetros, ya que las **sma
 no van a poder registrar datos con la precisión suficiente para usarlos en unos
 buenos entrenamientos, pero servirán para un nivel de iniciación o "entrada".
 
-Además de lo anterior está la apariencia, obviamente más "plasticosa" y con 
-peores acabados en las económicas.
+Además de lo anterior está la apariencia, obviamente más "plasticosa", con 
+peores acabados y materiales en las económicas.
 
 
 ### Smartbans de actividad económicas para regalar el día del padre:
@@ -177,10 +170,10 @@ castellano o no sincronice como debiera).
     </amp-img>
   </div>
   <div class="amz-row__btn ">
-    <h4>Xiaomi Mi Band 4</h4>
+    <h4>Honor Band 5</h4>
     <a class="btn" target="_blank"
        href="https://amzn.to/38KlGbL">
-      Honor Band 5
+      Ver mejor precio en Amazon
     </a>
   </div>
   <div></div>
@@ -282,6 +275,16 @@ ayudan mucho a **mantenerte activo y motivado**.
 </div>
 
 
+En este rango de precios podemos optar por alguno de los modelos de Fitbit,
+Garmin o Polar. Seguramente os llamará la atención que, salvo la Polar, el resto
+de modelos no tienen pantalla en color y las económicas sí. La explicación es muy
+sencilla: resulta muy difícil fabricar una pantalla en color que consuma poco
+y se vea bien en todas las condiciones (luz solar directa). Es por eso que las
+**pulseras de actividad de gama alta** optan por incluir pantallas monocromas para
+asegurar su correcta visualización en cualquier circunstancia, mientras que las
+económicas las incluyen de color por temas de marketing, o sea, para poder
+anunciar esa característica.
+
 
 {% comment %}
 <div class="amz-row" markdown="0">
@@ -308,33 +311,183 @@ ayudan mucho a **mantenerte activo y motivado**.
 {% endcomment %}
 
 
+## Conclusión.
+
+
+De entre las económicas podemos destacar la [Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html),
+y si **tu padre necesita medirse el oxígeno en sangre (SpO2)** la [Huawei Band 4](huawei-band-4-review.html),
+que es un poco peor, pero a cambio incluye un sensor de Sp02 u oxímetro.
+
+Del resto os recomiendo **algún modelo de Fitbit**, ya que son mas *"llevables"* que los modelos de 
+garmin y polar, siendo al mismo tiempo muy completas y fáciles de usar.
+
+El modelo más económico con sensor de pulso es el *Inspire* (no incluye sensor de SpO2). 
+Cuenta con batería para para 5 días con monitorización del ritmo cardíaco las 24 horas. 
+Tiene detección automática de ejercicios y es sumergible a 50 metros. Es pequeña 
+y discreta y su pantalla OLED se ve bien incluso bajo una fuerte luz solar directa.
+Su precio suele rondar los 70-80 €.
+
+
+<div class="amz-row" markdown="0">
+  <div></div>
+  <div class="amz-row__img">
+    <amp-img alt="Fitbit Inspire HR" data-amp-auto-lightbox-disable
+        width="100" height="120" layout="responsive"
+        src="/assets/amz/fitbit-inspire-hr-xs.webp">
+      <amp-img fallback alt="Fitbit Inspire HR" data-amp-auto-lightbox-disable
+        width="100" height="120" layout="responsive"
+        src="/assets/amz/fitbit-inspire-hr-xs.jpg">
+      </amp-img>
+    </amp-img>
+  </div>
+  <div class="amz-row__btn ">
+    <h4>Fitbit Inspire HR</h4>
+    <a class="btn" target="_blank"
+       href="https://amzn.to/2tZd1CX">
+      Ver mejor precio en Amazon
+    </a>
+  </div>
+  <div></div>
+</div>
+
+
+
+Sin embargo el mejor modelo para **regalar el día del padre** creo que es la
+Fitbit Charge 3. Es un modelo más elegante, con acabados metálicos, que añade
+sensor de SpO2 u oxímetro y 7 días de batería con monitorización contínua de ritmo cardíaco.
+Su precio ronda los 100€.
+
+
+<div class="amz-row" markdown="0">
+  <div></div>
+  <div class="amz-row__img">
+    <amp-img alt="Fitbit Charge 3" data-amp-auto-lightbox-disable
+        width="100" height="120" layout="responsive"
+        src="/assets/amz/fitbit-charge-3-xs.webp">
+      <amp-img fallback alt="Fitbit Charge 3" data-amp-auto-lightbox-disable
+        width="100" height="120" layout="responsive"
+        src="/assets/amz/fitbit-charge-3-xs.jpg">
+      </amp-img>
+    </amp-img>
+  </div>
+  <div class="amz-row__btn ">
+    <h4>Fitbit Charge 3</h4>
+    <a class="btn" target="_blank"
+       href="https://amzn.to/2HkF0A7">
+      Ver mejor precio en Amazon
+    </a>
+  </div>
+  <div></div>
+</div>
+
+
+Y si lo que buscas es algo con más **aspecto de smartwatch**, con pantalla en color,
+alexa, spotify, etc y hasta 5 días de batería, puedes optar por un *Versa 2*.
+Se trata de un smartwatch con toda la funcionalidad de la *Charge 3* y mucho más.
+Lo menos bueno, su precio, que ronda los 200€, pero se trata de un **regalo para el 
+dia del padre** espectacular.
+
+
+<div class="amz-row" markdown="0">
+  <div></div>
+  <div class="amz-row__img">
+    <amp-img alt="Fitbit Versa 2" data-amp-auto-lightbox-disable
+        width="100" height="120" layout="responsive"
+        src="/assets/amz/fitbit-versa-2-xs.webp">
+      <amp-img fallback alt="Fitbit Versa 2" data-amp-auto-lightbox-disable
+        width="100" height="120" layout="responsive"
+        src="/assets/amz/fitbit-versa-2-xs.jpg">
+      </amp-img>
+    </amp-img>
+  </div>
+  <div class="amz-row__btn ">
+    <h4>Fitbit Versa 2</h4>
+    <a class="btn" target="_blank"
+       href="https://amzn.to/3atDsAd">
+      Ver mejor precio en Amazon
+    </a>
+  </div>
+  <div></div>
+</div>
+
+
 ## Recomendaciones.
 
-### Fitbit Charge 3 e Inspire HR.
+Bien, para no daros más la lata, mis recomendaciones son:
 
-Son dos valores seguros. La segunda es un poco más pequeña y barata, pero por la
-pequeña diferencia de precio la Charge 3 es más completa.
+### Básica: Xiaomi Mi Band 4:
 
+Podéis ver más características en la [review de la Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html),
+pero sus características básicas son:
 
-### Garmin Vivosmart 4 y Vivosmart HR+.
+* Sumergible.
+* Pantalla en color.
+* Buena duración de la batería.
+* Monitorización del ritmo cardíaco.
+* Económica.
 
-La Vivosmart 4 es la más delgada y discreta y la HR+ cuenta con GPS integrado.
+<br />
+<div class="amz_cuadro" markdown="0">
+  <h4 class="amz_cuadro__title">Xiaomi Mi Band 4</h4>
+    <amp-img alt="Xiaomi Mi Band 4" 
+        width="355" height="355" layout="responsive"
+        src="/assets/amz/mi-band-4.webp">
+      <amp-img fallback alt="Xiaomi Mi Band 4" 
+        width="355" height="355" layout="responsive"
+        src="/assets/amz/mi-band-4.jpg">
+      </amp-img>
+    </amp-img>
+  <a class="btn amz_cuadro__btn" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=pulseradeac06-21&keywords=xiaomi mi band 4&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=1930581100cd76d1db8a34e2e92c1cc3" target="_blank">
+    Ver precio en Amazon
+  </a>
+</div>
 
+## Calidad-Precio: Fitbit Inspire HR.
 
-### Polar A370
+* Sumergible.
+* Monitorización cardíaca 24 horas.
+* Detección automática de ejercicios.
+* Ejercicios de respiración guiada.
 
+<br />
+<div class="amz_cuadro" markdown="0">
+  <h4 class="amz_cuadro__title">Fitbit Inspire HR</h4>
+    <amp-img alt="Fitbit Inspire HR" 
+        width="355" height="355" layout="responsive"
+        src="/assets/amz/fitbit-inspire-hr.webp">
+      <amp-img fallback alt="Fitbit Inspire HR" 
+        width="355" height="355" layout="responsive"
+        src="/assets/amz/fitbit-inspire-hr.jpg">
+      </amp-img>
+    </amp-img>
+  <a class="btn amz_cuadro__btn" href="https://amzn.to/2tZd1CX" target="_blank">
+    Ver precio en Amazon
+  </a>
+</div>
 
-## ¿y las más económicas?
+## La mejor: Fitbit Charge 3.
 
-Sabreis que por aquí no estamos muy a favor de estas pulseras baratas que 
-prometen una infindad de funcionalidades que al final no acaban de marchar bien.
+* Sumergible.
+* Monitorización cardíaca 24 horas.
+* Detección automática de ejercicios.
+* Ejercicios de respiración guiada.
+* Bonito acabado metalizado.
+* 7 días de batería.
 
-Sin embargo, si vuestro presupuesto es ajustado y lo que quereis es algo que
-cuente los pasos aproximadamente y de la hora os recomendamos:
+<br />
+<div class="amz_cuadro" markdown="0">
+  <h4 class="amz_cuadro__title">Fitbit Charge 3</h4>
+    <amp-img alt="Fitbit Charge 3" 
+        width="355" height="355" layout="responsive"
+        src="/assets/amz/fitbit-charge-3.webp">
+      <amp-img fallback alt="Fitbit Charge 3" 
+        width="355" height="355" layout="responsive"
+        src="/assets/amz/fitbit-charge-3.jpg">
+      </amp-img>
+    </amp-img>
+  <a class="btn amz_cuadro__btn" href="https://amzn.to/2HkF0A7" target="_blank">
+    Ver precio en Amazon
+  </a>
+</div>
 
-### Xiaomi Mi Band 4.
-
-### Huawei Honor Band.
-
-
-
+<br /><br /><br />

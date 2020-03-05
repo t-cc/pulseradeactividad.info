@@ -1018,6 +1018,27 @@ pre {
   @include respond-to(700) {
     grid-template-columns: 1fr 1fr;
   }
+
+  .amz_cuadro {
+    h4 {
+      padding: rem(15px) rem(5px);
+
+      @include respond-to(700) {
+        font-size: rem(16);
+      }
+      @include respond-to(500) {
+        font-size: rem(14);
+      }
+    }
+  }
+
+  &__btn {
+    padding: rem(8px) rem(15px);
+
+    @include respond-to(500) {
+      font-size: rem(12);
+    }
+  }
 }
 
 .amz_cuadro {
@@ -1039,9 +1060,10 @@ pre {
     text-decoration: none;
     font-family: $font-sans;
     padding: rem(8px) rem(15px);
+    font-size: rem(22);
 
     @include respond-to(500) {
-      font-size: rem(12);
+      font-size: rem(18);
     }
 
     &:hover {
@@ -1057,12 +1079,10 @@ pre {
     color: white;
     padding: rem(15px) rem(5px);
     white-space: nowrap;
+    font-size: rem(22);
 
-    @include respond-to(700) {
-      font-size: rem(16);
-    }
     @include respond-to(500) {
-      font-size: rem(14);
+      font-size: rem(18);
     }
   }
 
