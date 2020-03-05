@@ -168,9 +168,8 @@ vuelve un poco loca bajo el agua, interpretando que la hemos tocado al golpearse
 
 ### Detección del sueño.
 
-Como tienes que configurar a que horas te vas a dormir no te detectará sueño fuera de ese horario,
-y tampoco detectará correctamente cuando estés despierto (en ese horario). 
-Por lo tanto no te servirá si trabajas a turnos o si, por cualquier motivo,
+Parece que sólo detecta el sueño de noche. Esto parece lógico al principio, 
+pero no te servirá si trabajas a turnos o si, por cualquier motivo,
 no mantienes siempre el mismo horario.
 
 Tampoco de dará ninguna información sobre las fases REM o si duermes *inquieto*.
