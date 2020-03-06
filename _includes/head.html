@@ -26,13 +26,13 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   <meta property="og:description" content="{% if page.description %}{{ page.description | strip_newlines }}{% else %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}{% endif %}" />
-  <meta property="og:image" content="{% if page.image.16x9 %}{{ page.image.16x9 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.image.file | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
+  <meta property="og:image" content="{% if page.image.16x9 %}{{ page.image.16x9 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
   <meta property="og:url" content="{{ site.baseurl }}" />
   <meta property="og:site_name" content="{{ site.name }}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_newlines }}{% else %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}{% endif %}" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
-  <meta name="twitter:image" content="{% if page.image.16x9 %}{{ page.image.16x9 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.image.file | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
+  <meta name="twitter:image" content="{% if page.image.16x9 %}{{ page.image.16x9 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
 
   {% comment %}
   <script type="application/ld+json">
