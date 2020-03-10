@@ -2,13 +2,13 @@
 layout: post
 date: 2020/02/05
 updated: 2020/02/20
-title: Pulsera deportiva Street Workout II. Opinión y características.
+title: Pulsera deportiva Street Workout II 🔥. Opinión y características.
 published: true
 
 description: >
-  ¿Será la pulsera Street Workout II una opción a tener en cuenta?
-  El mercado está inundado de pulseras baratas de Xiaomi, Huawei, Honor...
-  ¿Tendrá esta algo distinto que ofrecer?
+  🙌 ¿Será la pulsera Street Workout II una opción a tener en cuenta?
+  El mercado está inundado de pulseras baratas de ✨ Xiaomi, Huawei, Honor...
+  ¿Tendrá esta ☝ algo distinto que ofrecer?
 
 # Imagen que aparece en resumen de posts.
 image:
