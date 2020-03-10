@@ -2,7 +2,7 @@
 layout: post
 date: 2020/02/05
 updated: 2020/02/20
-title: Pulsera deportiva Street Workout II 🔥. Opinión y características.
+title: Pulsera deportiva  🔥 Street Workout II. Opinión y características.
 published: true
 
 description: >
