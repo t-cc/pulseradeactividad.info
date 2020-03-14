@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020/01/10
-updated: 2020/02/18
+updated: 2020/03/14
 title: Huawei Band 4. Review y características.
 published: true
 
@@ -28,7 +28,7 @@ image:
 ---
 
 La **Huawei Band 4** es una pulsera económica bastante bonita, pero es importante
-**no confundirala** con la Huawei Band 5 Pro o la Honor Band 5. Estas dos son un
+**no confundirala** con la Huawei Band 4 Pro o la Honor Band 5. Estas dos son un
 poco mejores (y más caras). La  Honor Band 5 incluye pantalla AMOLED, y la 
 Huawei Band 5 Pro además GPS.
 
@@ -54,19 +54,26 @@ Huawei Band 5 Pro además GPS.
 <div class="cuadro-comparar" markdown="0">
   <ul class="cuadro-comparar__ok">
     <li>Precio bajo.</li>
-    <li>Larga duración de la batería.</li>
+    <li>Buena duración de la batería.</li>
     <li>GPS conectado.</li>
     <li>Resistente al agua (sumergible).</li>
     <li>Pantalla en color.</li>
     <li>Enchufe USB normal para cargar (no necesitas cable especial).</li>
     <li>Detecta el sueño REM.</li>
+    <li>Buena aplicación.</li>
   </ul>
   <ul class="cuadro-comparar__ko">
     <li>El sensor de pulso no es adecuado para ejercicios de intensidad.</li>
     <li>No da estimaciones de VO2 Max.</li>
     <li>La pantalla no es AMOLED.</li>
+    <li>Sólo tiene acelerómtro de 3 ejes.</li>
+    <li>Cuenta pasos de más.</li>
   </ul>
 </div>
+
+> En definitiva, se trata de una opción económica y básica, quizá para iniciación.
+Cuenta con un software bonito y sencillo, una buena app, un gran diseño y el
+respaldo de un gigante como Huawei.
 
 ## Características.
 
@@ -74,11 +81,13 @@ Nos encontramos ante una pulsera bastante bonita, con una buena aplicación y ba
 Hasta ahí. Tampoco le podemos pedir mucho a este precio.
 
 Cuenta con una pantalla TFT de 0.96 pulgadas en color y 160x180 píxeles de resolución y 
-*watchfaces* configurable. La pega es que no es AMOLED no se verá demasiado bien en días muy soleados. 
+*watchfaces* configurable. La pega es que no es AMOLED no se verá demasiado bien en días muy soleados,
+además de tener una resolución baja.
 
 La duración de la batería está en torno a los 7 días, con un uso normal. Puedes
-recibir en ella notificaciones, aunque no podrás ver la notificación, sólo te avisa
-de que tienes una.
+recibir en ella notificaciones y ver parte del texto de la noficación, pero
+no podrás responderla desde al propia pulsera. Es lo normal en este tipo de pulseras
+de actividad.
 
 Es completamente resistente al agua, aunque no registra ejercicios de natación. 
 
@@ -105,17 +114,20 @@ Es completamente resistente al agua, aunque no registra ejercicios de natación.
   <div></div>
 </div>
 
+Su firmware es similar de la Honor Band 5 y de la Huawei Band 4 Pro. No cuenta con 
+demasiadas funciones pero se trata de un software bonito y fácil de utilizar.
 
-## Funciones.
 
-Naturalmente cuenta con las funciones típicas en estos casos, como contar
-pasos y calorías, alarmas, cronómetro, etc.
+## Apariencia.
 
-Además, con la **Huawei Band 4** podréis monitorizar gran variedad de ejercicios como:
-elíptica, remo, carrera, caminar, bici, etc.
+Se trata de una pulsera bonita y discreta. Está fabricada en plástico con apariencia metálica,
+pantalla es 2.5D, y un buen diseño. Está disponible en varios colores: negro, rosa y rojo.
 
-Puede usarse conectada al GPS del teléfono para los corredores ocasionales, pero
-no sirve para monitorizar natación.
+Llama mucho la atención su sistema de carga, ya que no necesitarás ningún cable adicional.
+Basta con sacar una de las bandas y enchufarla directamente a un puerto USB. Como punto 
+negativo, la única forma de encenderla es enchufarla, ya que no cuenta con
+ningún botón para ese propósito.
+
 
 <figure markdown="0">
   <amp-img alt="Como cargar la Huawei Band 4." 
@@ -132,6 +144,45 @@ no sirve para monitorizar natación.
 </figure>
 
 
+## Funciones.
+
+Naturalmente cuenta con las funciones típicas en estos casos, como contar
+pasos y calorías, alarmas, cronómetro, etc.
+
+
+<figure markdown="0">
+  <amp-img alt="Monitorización de ritmo cardíaco con Huawei TruSeenTM 3.5." 
+      width="700" height="287" layout="responsive"
+      src="/assets/huawei-band-4/huawei-band-4-monitor-ritmo-cardiaco.webp">
+      <amp-img fallback alt="Monitorización de ritmo cardíaco con Huawei TruSeenTM 3.5." 
+          width="700" height="287" layout="responsive"
+          src="/assets/huawei-band-4/huawei-band-4-monitor-ritmo-cardiaco.jpg">
+      </amp-img>
+  </amp-img>
+  <figcaption>
+    Monitorización de ritmo cardíaco con Huawei TruSeenTM 3.5.
+  </figcaption>
+</figure>
+
+Además, con la **Huawei Band 4** podréis monitorizar gran variedad de ejercicios como:
+elíptica, remo, carrera, caminar, bici, etc.
+
+Puede usarse conectada al GPS del teléfono para los corredores ocasionales, pero
+**no sirve para monitorizar natación** (aunque en un principio fue anunciada con esa función).
+
+En general la monitorización de la frecuencia cardíaca y del sueño es bastante 
+buena para su precio, gracias a las tecnologías **Huawei TrueSeenTM 3.5** y 
+**Huawei TruSleepTM 2.0**. Estas tecnologías puedes encontrarlas en otras pulseras
+Huawei, como la *Band 4 Pro*, y también en las Honor, como la *Honor Band 5*.
+
+En contrapartida parece que no cuenta demasiado bien los pasos. En concreto 
+**cuenta pasos de más** (la mayoría de usuarios dicen que unos 1000). 
+Esto puede ser debido a que cuenta sólo con un acelerómetro de 3 ejes, 
+sin giroscopio adicional (de otros tantos ejes) que sí incluyen otras pulseras
+de actividad baratas como la [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html),
+la **Honor Band 5** o la propia **Huawei Band 4 Pro**.
+
+
 ## Conclusión.
 
 Se trata de una **pulsera de actividad básica a precio muy económico**. Que la fabrique
@@ -141,7 +192,13 @@ yo la recomiendo por encima de esta y otras de marcas similares sin ninguna duda
 Por construcción, materiales y la aplicación.
 
 Sin embargo, por pocos euros más puedes tener una [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html)
-o una **Honor Band 5**. Ambas tienen pantalla AMOLED y pueden monitorizar la natación (bueno, mas o menos).
+o una **Honor Band 5**. Ambas tienen pantalla AMOLED y pueden monitorizar 
+la natación (bueno, mas o menos), además de contar con giroscopio para contar
+mejor los pasos.
+
+En definitiva, se trata de una opción económica y básica, quizá para iniciación.
+Cuenta con un software bonito y sencillo, una buena app, un gran diseño y el
+respaldo de un gigante como Huawei.
 
 
 <br>
