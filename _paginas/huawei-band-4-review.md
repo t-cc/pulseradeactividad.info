@@ -28,9 +28,10 @@ image:
 ---
 
 La **Huawei Band 4** es una pulsera económica bastante bonita, pero es importante
-**no confundirala** con la Huawei Band 4 Pro o la Honor Band 5. Estas dos son un
-poco mejores (y más caras). La  Honor Band 5 incluye pantalla AMOLED, y la 
-Huawei Band 5 Pro además GPS.
+**no confundirala** con la [Huawei Band 4 Pro](/huawei-band-4-pro-review.html) 
+o la [Honor Band 5](/honor-band-5-review.html). Estas dos son un
+poco mejores (y más caras). La  [Honor Band 5](/honor-band-5-review.html) incluye pantalla AMOLED, y la 
+[Huawei Band 4 Pro](/huawei-band-4-pro-review.html) además GPS.
 
 {% if page.image %}
 <figure markdown="0">
@@ -114,7 +115,8 @@ Es completamente resistente al agua, aunque no registra ejercicios de natación.
   <div></div>
 </div>
 
-Su firmware es similar de la Honor Band 5 y de la Huawei Band 4 Pro. No cuenta con 
+Su firmware es similar de la [Honor Band 5](/honor-band-5-review.html) y de la 
+[Huawei Band 4 Pro](/huawei-band-4-pro-review.html). No cuenta con 
 demasiadas funciones pero se trata de un software bonito y fácil de utilizar.
 
 
@@ -173,14 +175,15 @@ Puede usarse conectada al GPS del teléfono para los corredores ocasionales, per
 En general la monitorización de la frecuencia cardíaca y del sueño es bastante 
 buena para su precio, gracias a las tecnologías **Huawei TrueSeenTM 3.5** y 
 **Huawei TruSleepTM 2.0**. Estas tecnologías puedes encontrarlas en otras pulseras
-Huawei, como la *Band 4 Pro*, y también en las Honor, como la *Honor Band 5*.
+Huawei, como la [Band 4 Pro](/huawei-band-4-pro-review.html), 
+y también en las Honor, como la [Honor Band 5](/honor-band-5-review.html).
 
 En contrapartida parece que no cuenta demasiado bien los pasos. En concreto 
 **cuenta pasos de más** (la mayoría de usuarios dicen que unos 1000). 
 Esto puede ser debido a que cuenta sólo con un acelerómetro de 3 ejes, 
 sin giroscopio adicional (de otros tantos ejes) que sí incluyen otras pulseras
 de actividad baratas como la [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html),
-la **Honor Band 5** o la propia **Huawei Band 4 Pro**.
+la [Honor Band 5](/honor-band-5-review.html) o la propia [Huawei Band 4 Pro](/huawei-band-4-pro-review.html).
 
 
 ## Conclusión.
@@ -191,10 +194,10 @@ pulseras baratas como la [MMTEK Street Workout II](/mmtek-streek-workout-ii.html
 yo la recomiendo por encima de esta y otras de marcas similares sin ninguna duda. 
 Por construcción, materiales y la aplicación.
 
-Sin embargo, por pocos euros más puedes tener una [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html)
-o una **Honor Band 5**. Ambas tienen pantalla AMOLED y pueden monitorizar 
-la natación (bueno, mas o menos), además de contar con giroscopio para contar
-mejor los pasos.
+Sin embargo, **por pocos euros más** puedes tener una [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html)
+o una [Honor Band 5](/honor-band-5-review.html). Ambas tienen pantalla AMOLED y pueden monitorizar 
+la natación (bueno, mas o menos), además de giroscopio para contar
+mejor los pasos y mejor duración de la batería.
 
 En definitiva, se trata de una opción económica y básica, quizá para iniciación.
 Cuenta con un software bonito y sencillo, una buena app, un gran diseño y el
