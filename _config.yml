@@ -6,16 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 
-# Iconos unicode...
+# Iconos unicode... 
 # http://www.fileformat.info/info/unicode/category/So/list.htm
 #
 # ICONOS QUE FUNCIONAN EN EL TÍTULO DE LA PÁGINA:
 # ✓ ® © ≫ ◁ ✔ ✆ → ⇨【】⊛ ( )
 # 🥇 - Medalla
-# 🙂
-# ✅ - Check fondo verde
+# 🙂 - Cara sonriente
+# ✅ - Check fondo verde (puede variar)
+# 😍 - Cara con corazones
+# ♻️ - Reciclar
+# ✂️ - Tijeras
 # 🤓 - Cara con gafas
-# 🤑 - Cara con dolar ojos
+# 🤑 - Cara con dólar ojos
 # 🔥 - Llamas
 # 💥 - Explosión
 #
@@ -30,6 +33,8 @@
 # ≫
 # ◁
 # ✅ - Check fondo verde
+# ⛔
+# ❌ - cruz roja
 # ✨ - Estrellas
 # 😂
 # 🔥 - Llamas
