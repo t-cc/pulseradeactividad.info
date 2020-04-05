@@ -27,7 +27,8 @@ sitemap:
             </h2>
           </header>
           <section class="post-excerpt" itemprop="description">
-            <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+            {% comment %}<p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>{% endcomment %}
+            <p>{{ post.description }}</p>
           </section>
           {% comment %}
             <div class="post-meta">
