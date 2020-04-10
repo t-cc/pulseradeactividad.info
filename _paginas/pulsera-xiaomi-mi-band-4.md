@@ -47,6 +47,12 @@ Voy a contaros la verdad sobre ella.
   </figure>
 {% endif %}
 
+
+> Es idónea como *wereable* **para dejar una vida sedentaria y salir
+  a caminar todos los días**, para **personas mayores**, para **tener notificaciones** 
+  en la muñeca y poco más. Quizá sea más un **accesorio de moda**
+  que una pulsera de actividad como tal.
+
 <div class="cuadro-comparar" markdown="0">
   <ul class="cuadro-comparar__ok">
     <li>Precio bajo.</li>
@@ -124,10 +130,19 @@ era realmente malo.
 La pulsera de silicona sigue siendo la misma, así que podrás utilizar pulseras
 de la Xiaomi Mi Band 3 con esta.
 
-> Es idónea como *wereable* **para dejar una vida sedentaria y salir
-  a caminar todos los días**, para **personas mayores**, para **tener notificaciones** 
-  en la muñeca y poco más. Quizá sea más un **accesorio de moda**
-  que una pulsera de actividad como tal.
+<figure markdown="0">
+  <amp-img alt="Existe bastante controversia con el uso de la Xiaomi Mi Band 4 en natación." 
+      width="700" height="370" layout="responsive"
+      src="/assets/pulsera-xiaomi-mi-band-4/mi-band-4-natacion.webp">
+      <amp-img fallback alt="Existe bastante controversia con el uso de la Xiaomi Mi Band 4 en natación." 
+          width="700" height="370" layout="responsive"
+          src="/assets/pulsera-xiaomi-mi-band-4/mi-band-4-natacion.jpg">
+      </amp-img>
+  </amp-img>
+  <figcaption>
+    Existe bastante controversia con el uso de la Xiaomi Mi Band 4 en natación.
+  </figcaption>
+</figure>
 
 ### Funciones.
 
@@ -145,14 +160,28 @@ En esta versión han añadido seguimiento de más ejercicios. En esta versión t
 Como extras tendréis alertas de inactividad, control de música,
 la función de "encuentra mi móvil" y por supuesto las notificaciones.
 
-
 ### Batería.
 
 Aunque se anuncia con una duración de batería de 20 días, 
 si activáis la monitorización de ritmo cardíaco os durará en torno a una semana.
 
 Esta sigue siendo una buena autonomía, similar a una pulsera **Fitbit** o **Garmin**
-con la misma monitorización de ritmo cardíaco.
+con la monitorización de ritmo cardíaco activada.
+
+<figure markdown="0">
+  <amp-img alt="La pulsera Xiaomi Mi Band 4 permite ver las notificaciones pero no responderlas." 
+      width="700" height="372" layout="responsive"
+      src="/assets/pulsera-xiaomi-mi-band-4/mi-band-4-notificaciones.webp">
+      <amp-img fallback alt="La pulsera Xiaomi Mi Band 4 permite ver las notificaciones pero no responderlas." 
+          width="700" height="372" layout="responsive"
+          src="/assets/pulsera-xiaomi-mi-band-4/mi-band-4-notificaciones.jpg">
+      </amp-img>
+  </amp-img>
+  <figcaption>
+    La pulsera Xiaomi Mi Band 4 permite ver las notificaciones pero no responderlas.
+  </figcaption>
+</figure>
+
 
 ### Monitorización de ejercicios.
 
@@ -161,9 +190,10 @@ Las lecturas van a ser erróneas, sobre todo si comienzas a sudar. Empezará a d
 alertas de pulso alto sin sentido y no podrás ajustar la intensidad del ejercicio
 al rango de pulsaciones que necesitas trabajar.
 
-**Tampoco recomiendo la Xiaomi Mi Band 4 para natación**. Aunque es sumergible a
+Tampoco recomiendo la **Xiaomi Mi Band 4 para natación**. Aunque es sumergible a
 50 metros no cuenta demasiado bien las brazadas al nadar, y la pantalla táctil se
 vuelve un poco loca bajo el agua, interpretando que la hemos tocado al golpearse con el agua. 
+
 
 
 ### Detección del sueño.
@@ -174,6 +204,21 @@ no mantienes siempre el mismo horario.
 
 Tampoco de dará ninguna información sobre las fases REM o si duermes *inquieto*.
  
+
+<figure markdown="0">
+  <amp-img alt="La Mi Band 4 también es mediocre en la detección del sueño." 
+      width="700" height="393" layout="responsive"
+      src="/assets/pulsera-xiaomi-mi-band-4/mi-band-4-monitorizacion-del-sueno.webp">
+      <amp-img fallback alt="La Mi Band 4 también es mediocre en la detección del sueño." 
+          width="700" height="393" layout="responsive"
+          src="/assets/pulsera-xiaomi-mi-band-4/mi-band-4-monitorizacion-del-sueno.jpg">
+      </amp-img>
+  </amp-img>
+  <figcaption>
+    La Mi Band 4 también es mediocre en la detección del sueño.
+  </figcaption>
+</figure>
+
  
 ### Conclusión.
 
@@ -184,7 +229,7 @@ Esto es, un trabajo físico moderado que incluya cosas como nadar, elíptica, co
 Esta pulsera no te servirá para eso. Está enfocada a cosas como caminar o algún
 ejercicio suave. Es idónea como *wereable* **para dejar una vida sedentaria y salir
 a caminar todos los días**, para **personas mayores**, para **tener notificaciones** en la muñeca 
-(nunca entenderé la necesidad de esto) y poco más. Quizá sea más un accesorio de moda
+y poco más. Quizá sea más un accesorio de moda
 que una pulsera de actividad como tal. Recordad que **tampoco es recomendable para nadar**.
 
 

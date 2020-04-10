@@ -70,7 +70,7 @@ figure {
 
   figcaption {
     margin: 0 $rs;
-    // margin-top: -1 * $rs;
+    margin-top: $rs;
     // font-size: rem(14px);
   }
 }

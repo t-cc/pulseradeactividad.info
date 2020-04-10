@@ -107,14 +107,14 @@ Como ventajas de la **Honor Band 5** respecto a la [Mi Band 4](/pulsera-xiaomi-m
 podemos citar:
 
 - Mas discreta y menos aparatosa.
-- La app de Huawei me parece mejor que la de Xiaomi.
-- Es mas fácil de cargar, ya que no hay que desmontarla, sólo conectarla a una base.
-- Incorpora sensor de oxígeno en sangre.
+- La **app de Huawei** me parece mejor que la de Xiaomi.
+- Es **mas fácil de cargar**, ya que no hay que desmontarla, sólo conectarla a una base.
+- Incorpora **sensor de oxígeno en sangre**, SpO2.
 
 
 Sin embargo la [Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html) supera a esta
-en un funcionamiento más fluido y mayor duración de la
-batería (aproximadamente un 20-30% más).
+en un funcionamiento más fluido y **mayor duración de la
+batería** (aproximadamente un 20-30% más).
 
 
 ## Apariencia.
@@ -123,9 +123,46 @@ La **Honor Band 5** es bonita, ligera y discreta, pero su diseño y acabados no 
 buenos como en la [Huawei Band 4](/huawei-band-4-review.html). Sin embargo ofrece
 más y mejores características a un precio similar.
 
-Está disponible en tres colores: azul, negro y rosa.
+Está disponible en tres colores: azul, negro y rosa, aunque el color del cuerpo
+es siempre negro, y lo que realmente cambia es el color de las pulseras.
 
+Cuenta con un botón táctil redondo justo bajo la pantalla, pero muchas veces
+no está claro si debes pulsar el botón o la pantalla (táctil) para realizar 
+una acción determinada, como apagar una alarma o cerrar una notificación.
+
+Cuenta con una pantalla con tecnología AMOLED, con buena resolución y colores
+vívidos. 
 
 ## Funciones.
 
+Realmente, la función estrella de la **Huawei Band 4** es una buena monitorización
+del sueño, muy superior al que puede encontrarse en otras **pulseras de actividad 
+baratas**. Usa las mismas tecnología que la [Huawei Band 4](/huawei-band-4-review.html):
+Huawei TrueSeenTM 3.5 y Huawei TruSleepTM 2.0. 
+Con esto y la **excelente app de salud** de Huawei dispondremos de una **buena
+monitorización del sueño** que diferencia con precisión incluso las fases REM.
+
+La **interfaz** de la pulsera es muy **sencilla e intuitiva**, prácticamente igual a la de los modelos
+de Huawei. Las acciones se realizan con pulsaciones y desplazamientos por la
+pantalla. Podrás ver las notificaciones, pero, como es habitual en este tipo
+de pulseras, de forma limitada. Esto quiere decir que podrás ver quien te llama,
+el remitente de un WhatsApp y una mínima parte del texto, pero no podrás
+ni leer toda la notificación ni contestarla.
+
+En cuanto a la monitorización de ejercicios, podrás registrar una gran variedad
+de entrenamientos **incluyendo la natación**. Podrás ver un resumen del ejercicio
+en pantalla al finalizar, pero no podrás acceder a información en profundidad
+hasta que sincronices con la app y lo veas en el móvil. 
+
+
 ## Conclusión.
+
+Estamos ante una pulsera de actividad con un funcionamiento acertado sin 
+grandes alardes, una buena app, y una correcta monitorización del pulso y del sueño.
+
+No es tan bonita como la [Huawei Band 4](/huawei-band-4-review.html), pero mejora
+la pantalla respecto a esta. El resto de características son idénticas, y la 
+duración de la batería con la monitorización continua de pulso y sueño es idéntica
+(incluso idéntica a la de la [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html)).
+
+Realm
