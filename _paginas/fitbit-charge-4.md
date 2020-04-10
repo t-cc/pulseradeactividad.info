@@ -2,7 +2,7 @@
 layout: post
 date: 2020/04/05
 updated: 2020/04/05
-title: Fitbit 🥇 Charge 4. La renovación ¿definitiva 😍? 
+title: Fitbit Charge 4 🥇. La renovación ¿definitiva? 
 published: true
 
 description: >
