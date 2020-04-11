@@ -18,7 +18,9 @@
       "vars": {
         "event_name": "amazon cuadro",
         "event_category": "Amazon",
-        "event_action": "click",
+        "event_action": "click cuadro",
+        "event_label": "{title}",
+        "value": "1",
         "url": "{url}",
         "title": "{title}"
       }
@@ -30,20 +32,13 @@
       "vars": {
         "event_name": "amazon row",
         "event_category": "Amazon",
-        "event_action": "click",
+        "event_action": "click row",
+        "event_label": "{title}",
+        "value": "1",
         "url": "{url}",
         "title": "{title}"
       }
     },
-
-    "button": {
-      "selector": ".amz_cuadro__btn",
-      "on": "click",
-      "vars": {
-        "event_name": "amazon",
-        "method": "Cuadro"
-      }
-    }
   }
 
 }
