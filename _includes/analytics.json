@@ -19,7 +19,7 @@
         "event_name": "amazon cuadro",
         "event_category": "Amazon",
         "event_action": "click cuadro",
-        "event_label": "{title}",
+        "event_label": "label cuadro",
         "value": "1",
         "url": "{url}",
         "title": "{title}"
@@ -33,7 +33,7 @@
         "event_name": "amazon row",
         "event_category": "Amazon",
         "event_action": "click row",
-        "event_label": "{title}",
+        "event_label": "label row",
         "value": "1",
         "url": "{url}",
         "title": "{title}"
