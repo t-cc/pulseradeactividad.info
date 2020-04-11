@@ -150,67 +150,14 @@ con un **buen pulsómetro**:
 
 
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">
+  
+  {% include amz/cuadro/fitbit-charge-3.html %}
+  
+  {% include amz/cuadro/garmin-vivosmart-4.html %}
+  
+  {% include amz/cuadro/polar-a370.html %}
 
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Fitbit Charge 3</h4>
-      <amp-img alt="Fitbit Charge 3" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/fitbit-charge-3.webp">
-        <amp-img fallback alt="Fitbit Charge 3" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/fitbit-charge-3.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/2HkF0A7" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
-
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Garmin Vivosmart 4</h4>
-      <amp-img alt="Garmin Vivosmart 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/garmin-vivosmart-4.webp">
-        <amp-img fallback alt="Garmin Vivosmart 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/garmin-vivosmart-4.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" target="_blank"
-      href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=pulseradeac06-21&keywords=garmin vivosmart 4&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=7ea9cef5f6db2fee8ed1995bb036c4b9">
-      Ver precio en Amazon
-    </a>
-  </div>
-
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Polar A370</h4>
-      <amp-img alt="Fitbit Charge 3" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/polar-a370.webp">
-        <amp-img fallback alt="Polar A370" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/polar-a370.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/38vmgK1" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
-
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Fitbit Inspire HR</h4>
-      <amp-img alt="Fitbit Inspire HR" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/fitbit-inspire-hr.webp">
-        <amp-img fallback alt="Fitbit Inspire HR" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/fitbit-inspire-hr.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/2tZd1CX" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
+  {% include amz/cuadro/fitbit-inspire-hr.html %}
 
 </div>
 

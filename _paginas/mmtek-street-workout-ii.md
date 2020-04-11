@@ -72,21 +72,33 @@ cosas a un precio irrisorio. Cuenta con incluso más características que una
 </div>
 
 
+> Parece un intento por incluir un gran número de funcionalidades
+para lograr vender un producto pésimo, con malos acabados y materiales. Parece
+algo típico de los productos MMTek.
+
+
 ## Características.
 
 Estamos ante una **pulsera de actividad** con una pantalla de 0.96 pulgadas con
-una resolución de 64x128 y tecnología TFT. Como veis la resolución no es gran cosa, 
-una [Huawei Band 4](/huawei-band-4-review.html) tiene 160x180 píxeles. Además
-al ser TFT no se verá bien bajo luz solar directa.
+una resolución de 64x128 y tecnología TFT. Como veis la resolución no es gran cosa. 
+Una [Huawei Band 4](/huawei-band-4-review.html) tiene 160x180 píxeles y no es una
+pulsera que destaque por su resolución (mas bien todo lo contrario). Además
+al ser la pantalla TFT no se verá bien bajo luz solar directa.
 
 En cuanto a la construcción la **pulsera deportiva Street Workout II**, está hecha de PVC 
 y la correa es de silicona... lo que le da un aspecto muy *plasticoso*.
 Actualmente lo normal es que se fabrican en policarbonato y las correas suelen 
 ser de poliuretano o similar, con lo que esta parece un paso atrás.
 
-La duración de la batería es de unos 6 días con un uso normal, con lo que resulta aceptable.
+La duración de la batería es de unos 6 días con un uso normal, característica
+esta que sí resulta aceptable.
 
-## Funcionalidades.
+
+{% include amz/horizontal/huawei-band-4.html %}
+
+
+
+## Funciones.
 
 La **pulsera deportiva Street Workout II** cuenta con gran cantidad de sensores, desde
 frecuencia cardíaca a presión arterial y frecuencia respiratoria, pero ninguno 
@@ -94,12 +106,15 @@ ellos funciona como debería.
 
 Luego lo básico, contar pasos, calorías, distancia y monitorizar el sueño. 
 Puedes configurar alarmas y tiene control de cámara, pero no cuenta con control
-de música. El control de cámara resulta poco interesante, ya que cualquier 
-*palo selfie* tiene un mando bluetooth.
+de música. 
 
 En cuanto a las notificaciones, te avisa de ellas, pero no podrás verlas en pantalla.
 Te avisará de las llamadas (mostrando quien te llama), pero no esperes ver el
-texto de las notificaciones en pantalla.
+texto de las notificaciones en pantalla. Esto no deja de ser normal en la mayoría
+de **pulseras de actividad baratas**, que suelen mostrar el remitente del mensaje 
+y a continuación un trocito del texto de la notificación en sí, sin dar la opción
+a leer todo el contenido.
+
 
 ## Conclusión.
 
@@ -109,8 +124,10 @@ creo que puede resultar contraproducente si no dan lecturas realistas.
 
 
 En definitiva, **en ningún caso recomendaría su compra**. En este rango de precios
-de 25 a 40€ tenéis opciones mucho mejores como la [Huawei Band 4](/huawei-band-4-review.html),
-la [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html) o incluso la **Honor 5 Band**.
+(de 25 a 40€) tenéis opciones mucho mejores como la [Huawei Band 4](/huawei-band-4-review.html),
+la [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html) o incluso la 
+[Honor 5 Band](/honor-band-5-review.html).
+
 Si queréis algo mejor siempre tendréis la **Fitbit Inspire HR**, 
 la más asequible de las *"buenas"*, por unos 80€.  
 
@@ -118,66 +135,13 @@ la más asequible de las *"buenas"*, por unos 80€.
 <br>
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">
 
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Huawei Band 4</h4>
-      <amp-img alt="Huawei Band 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/huawei-band-4.webp">
-        <amp-img fallback alt="Huawei Band 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/huawei-band-4.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/2HMnXXL" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
+  {% include amz/cuadro/huawei-band-4.html %}
   
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Xiaomi Mi Band 4</h4>
-      <amp-img alt="Xiaomi Mi Band 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/mi-band-4.webp">
-        <amp-img fallback alt="Xiaomi Mi Band 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/mi-band-4.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/38NRsVk" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
+  {% include amz/cuadro/xiaomi-mi-band-4.html %}
 
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Honor Band 5</h4>
-      <amp-img alt="Honor Band 5" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/honor-band-5.webp">
-        <amp-img fallback alt="Honor Band 5" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/honor-band-5.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" target="_blank"
-      href="https://amzn.to/38KlGbL">
-      Ver precio en Amazon
-    </a>
-  </div>
-
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Fitbit Inspire HR</h4>
-      <amp-img alt="Fitbit Inspire HR" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/fitbit-inspire-hr.webp">
-        <amp-img fallback alt="Fitbit Inspire HR" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/fitbit-inspire-hr.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/2tZd1CX" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
+  {% include amz/cuadro/honor-band-5.html %}
+  
+  {% include amz/cuadro/fitbit-inspire-hr.html %}
   
 </div>
 

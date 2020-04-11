@@ -80,28 +80,8 @@ Las principales mejoras con respecto al modelo de Huwaei son:
 Se trata de la competencia directa de la [Mi Band 4](/pulsera-xiaomi-mi-band-4.html),
 tanto en características como precio.
 
+{% include amz/horizontal/honor-band-5.html %}
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Honor Band 5" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/honor-band-5-xs.webp">
-      <amp-img fallback alt="Honor Band 5" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/honor-band-5-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Honor Band 5</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/38KlGbL">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
 
 Como ventajas de la **Honor Band 5** respecto a la [Mi Band 4](/pulsera-xiaomi-mi-band-4.html)
 podemos citar:

@@ -93,27 +93,9 @@ de actividad.
 Es completamente resistente al agua, aunque no registra ejercicios de natación. 
 
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Huawei Band 4" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/huawei-band-4-xs.webp">
-      <amp-img fallback alt="Huawei Band 4" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/huawei-band-4-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Huawei Band 4</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/2HMnXXL">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+{% include amz/horizontal/huawei-band-4.html %}
+
+
 
 Su firmware es similar de la [Honor Band 5](/honor-band-5-review.html) y de la 
 [Huawei Band 4 Pro](/huawei-band-4-pro-review.html). No cuenta con 
@@ -206,52 +188,12 @@ respaldo de un gigante como Huawei.
 
 <br>
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">
+  
+  {% include amz/cuadro/xiaomi-mi-band-4.html %}
 
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Xiaomi Mi Band 4</h4>
-      <amp-img alt="Xiaomi Mi Band 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/mi-band-4.webp">
-        <amp-img fallback alt="Xiaomi Mi Band 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/mi-band-4.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/38NRsVk" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
-
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Honor Band 5</h4>
-      <amp-img alt="Honor Band 5" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/honor-band-5.webp">
-        <amp-img fallback alt="Honor Band 5" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/honor-band-5.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" target="_blank"
-      href="https://amzn.to/38KlGbL">
-      Ver precio en Amazon
-    </a>
-  </div>
-
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Fitbit Inspire HR</h4>
-      <amp-img alt="Fitbit Inspire HR" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/fitbit-inspire-hr.webp">
-        <amp-img fallback alt="Fitbit Inspire HR" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/fitbit-inspire-hr.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/2tZd1CX" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
+  {% include amz/cuadro/honor-band-5.html %}
+  
+  {% include amz/cuadro/fitbit-inspire-hr.html %}
   
 </div>
 

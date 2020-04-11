@@ -105,79 +105,23 @@ estas **no van a funcionar como os debido** e incluso van a dar lecturas erróne
 (contar pasos dormido y esas cosas). Sin embargo, si que sirven para llevar una 
 cuenta de los pasos dados cada día y motivarte para cumplir los objetivos.  
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Huawei Band 4" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/huawei-band-4-xs.webp">
-      <amp-img fallback alt="Huawei Band 4" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/huawei-band-4-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Huawei Band 4</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/2HMnXXL">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+
+{% include amz/horizontal/huawei-band-4.html %}
+
 
 
 Yo, de las económicas, te recomendaría la [Huawei Band 4](huawei-band-4-review.html),
 la [Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html), o la *Honor Band 5*. 
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Xiaomi Mi Band 4" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/mi-band-4-xs.webp">
-      <amp-img fallback alt="Xiaomi Mi Band 4" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/mi-band-4-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Xiaomi Mi Band 4</h4>
-    <a class="btn" target="_blank"
-       href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=pulseradeac06-21&keywords=xiaomi mi band 4&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=1930581100cd76d1db8a34e2e92c1cc3">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+
+{% include amz/horizontal/xiaomi-mi-band-4.html %}
+
 
 Evita otras pulseras baratas de marcas raras o poco conocidas. A parte de su baja 
 calidad, casi seguro vas a tener problemas con la aplicación (puede que no esté en
 castellano o no sincronice como debiera).
  
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Honor Band 5" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/honor-band-5-xs.webp">
-      <amp-img fallback alt="Honor Band 5" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/honor-band-5-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Honor Band 5</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/38KlGbL">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+{% include amz/horizontal/honor-band-5.html %}
 
 Yo también evitaría Aliexpress o similares, ya que, aunque el envío sea local 
 (desde un almacén en España), la empresa del vendedor puede estar en cualquier parte
@@ -196,27 +140,9 @@ y detecte automáticamente los ejercicios. Esto último hace que **no sea necesa
 registrar desde la pulsera o la app el inicio y fin del entrenamiento**. La aplicación
 lo detectará automáticamente al sincronizar, en función de los movimientos y las pulsaciones registradas.
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Fitbit Inspire HR" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-inspire-hr-xs.webp">
-      <amp-img fallback alt="Fitbit Inspire HR" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-inspire-hr-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Fitbit Inspire HR</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/2tZd1CX">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+
+{% include amz/horizontal/fitbit-inspire-hr.html %}
+
 
 Y si, muchos diréis que la [Huawei Band 4](huawei-band-4-review.html) o la 
 [Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html)
@@ -225,54 +151,17 @@ Si, lo tienen. Pero son sensores de baja calidad y precisión. Muestran el pulso
 si le pones la pulsera a una piedra o una rama también leerán su pulso (esto es verídico), 
 así que yo no me fiaría mucho de sus lecturas.
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Fitbit Charge 3" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-charge-3-xs.webp">
-      <amp-img fallback alt="Fitbit Charge 3" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-charge-3-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Fitbit Charge 3</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/2HkF0A7">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+
+{% include amz/horizontal/fitbit-charge-3.html %}
+
+
 
 Además las **aplicaciones** de esta gama de smartbands son **más completas y fáciles
 de usar** (aquí, quizá la de Polar sea la más floja) y, como he comentado antes,
 ayudan mucho a **mantenerte activo y motivado**. 
 
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Garmin Vivosmart 4" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/garmin-vivosmart-4-xs.webp">
-      <amp-img fallback alt="Garmin Vivosmart 4" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/garmin-vivosmart-4-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Garmin Vivosmart 4</h4>
-    <a class="btn" target="_blank"
-       href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=pulseradeac06-21&keywords=garmin vivosmart 4&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=7ea9cef5f6db2fee8ed1995bb036c4b9">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+{% include amz/horizontal/garmin-vivosmart-4.html %}
 
 
 En este rango de precios podemos optar por alguno de los modelos de Fitbit,
@@ -287,27 +176,8 @@ anunciar esa característica.
 
 
 {% comment %}
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Polar A370" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/polar-a370-xs.webp">
-      <amp-img fallback alt="Polar A370" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/polar-a370-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Polar A370</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/38vmgK1">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+
+  {% include amz/cuadro/polar-a370.html %}
 {% endcomment %}
 
 
@@ -328,27 +198,8 @@ y discreta y su pantalla OLED se ve bien incluso bajo una fuerte luz solar direc
 Su precio suele rondar los 70-80 €.
 
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Fitbit Inspire HR" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-inspire-hr-xs.webp">
-      <amp-img fallback alt="Fitbit Inspire HR" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-inspire-hr-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Fitbit Inspire HR</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/2tZd1CX">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+
+{% include amz/horizontal/fitbit-inspire-hr.html %}
 
 
 
@@ -358,27 +209,7 @@ sensor de SpO2 u oxímetro y 7 días de batería con monitorización contínua d
 Su precio ronda los 100€.
 
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Fitbit Charge 3" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-charge-3-xs.webp">
-      <amp-img fallback alt="Fitbit Charge 3" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-charge-3-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Fitbit Charge 3</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/2HkF0A7">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+{% include amz/horizontal/fitbit-charge-3.html %}
 
 
 Y si lo que buscas es algo con más **aspecto de smartwatch**, con pantalla en color,
@@ -427,20 +258,7 @@ pero sus características básicas son:
 * Económica.
 
 <br />
-<div class="amz_cuadro" markdown="0">
-  <h4 class="amz_cuadro__title">Xiaomi Mi Band 4</h4>
-    <amp-img alt="Xiaomi Mi Band 4" 
-        width="355" height="355" layout="responsive"
-        src="/assets/amz/mi-band-4.webp">
-      <amp-img fallback alt="Xiaomi Mi Band 4" 
-        width="355" height="355" layout="responsive"
-        src="/assets/amz/mi-band-4.jpg">
-      </amp-img>
-    </amp-img>
-  <a class="btn amz_cuadro__btn" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=pulseradeac06-21&keywords=xiaomi mi band 4&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=1930581100cd76d1db8a34e2e92c1cc3" target="_blank">
-    Ver precio en Amazon
-  </a>
-</div>
+{% include amz/cuadro/xiaomi-mi-band-4.html %}
 
 ## Calidad-Precio: Fitbit Inspire HR.
 
@@ -450,20 +268,8 @@ pero sus características básicas son:
 * Ejercicios de respiración guiada.
 
 <br />
-<div class="amz_cuadro" markdown="0">
-  <h4 class="amz_cuadro__title">Fitbit Inspire HR</h4>
-    <amp-img alt="Fitbit Inspire HR" 
-        width="355" height="355" layout="responsive"
-        src="/assets/amz/fitbit-inspire-hr.webp">
-      <amp-img fallback alt="Fitbit Inspire HR" 
-        width="355" height="355" layout="responsive"
-        src="/assets/amz/fitbit-inspire-hr.jpg">
-      </amp-img>
-    </amp-img>
-  <a class="btn amz_cuadro__btn" href="https://amzn.to/2tZd1CX" target="_blank">
-    Ver precio en Amazon
-  </a>
-</div>
+
+{% include amz/cuadro/fitbit-inspire-hr.html %}
 
 ## La mejor: Fitbit Charge 3.
 
@@ -475,19 +281,7 @@ pero sus características básicas son:
 * 7 días de batería.
 
 <br />
-<div class="amz_cuadro" markdown="0">
-  <h4 class="amz_cuadro__title">Fitbit Charge 3</h4>
-    <amp-img alt="Fitbit Charge 3" 
-        width="355" height="355" layout="responsive"
-        src="/assets/amz/fitbit-charge-3.webp">
-      <amp-img fallback alt="Fitbit Charge 3" 
-        width="355" height="355" layout="responsive"
-        src="/assets/amz/fitbit-charge-3.jpg">
-      </amp-img>
-    </amp-img>
-  <a class="btn amz_cuadro__btn" href="https://amzn.to/2HkF0A7" target="_blank">
-    Ver precio en Amazon
-  </a>
-</div>
 
+{% include amz/cuadro/fitbit-charge-3.html %}
+  
 <br /><br /><br />

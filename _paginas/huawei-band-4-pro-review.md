@@ -2,7 +2,7 @@
 layout: post
 date: 2020/02/10
 updated: 2020/03/14
-title: Huawei Band 4【Pro】. Gama media con GPS.
+title: Huawei Band 4 【Pro】✅. Gama media con GPS.
 published: true
 
 description: >
@@ -80,28 +80,7 @@ ambos modelos.
 </div>
 
 
-
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Huawei Band 4 Pro" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/huawei-band-4-pro-xs.webp">
-      <amp-img fallback alt="Huawei Band 4 Pro" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/huawei-band-4-pro-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Huawei Band 4 Pro</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/3cVrt0F">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+{% include amz/horizontal/huawei-band-4-pro.html %}
 
 
 ## Características.
@@ -147,27 +126,8 @@ el aspecto general es bueno y el diseño bonito. No se ve ni se nota en ningún
 momento aparatosa.
 
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Fitbit Charge 3 (edición especial)" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-charge-3-ed-xs.webp">
-      <amp-img fallback alt="Fitbit Charge 3 (edición especial)" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-charge-3-ed-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Fitbit Charge 3 (ed. especial)</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/2wWhHe9">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+{% include amz/horizontal/fitbit-charge-3-ed.html %}
+
 
 
 Esta **Huawei Band 4 Pro** no cuenta con un [sistema de carga tan original como 
@@ -223,27 +183,8 @@ se trata más bien de una funcionalidad definida por la estrategia de marketing,
 y no le veo mucho sentido en una pulsera de actividad (sin el dichoso barómetro). 
 
 
-<div class="amz-row" markdown="0">
-  <div></div>
-  <div class="amz-row__img">
-    <amp-img alt="Fitbit Inspire HR" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-inspire-hr-xs.webp">
-      <amp-img fallback alt="Fitbit Inspire HR" data-amp-auto-lightbox-disable
-        width="100" height="120" layout="responsive"
-        src="/assets/amz/fitbit-inspire-hr-xs.jpg">
-      </amp-img>
-    </amp-img>
-  </div>
-  <div class="amz-row__btn ">
-    <h4>Fitbit Inspire HR</h4>
-    <a class="btn" target="_blank"
-       href="https://amzn.to/2tZd1CX">
-      Ver mejor precio en Amazon
-    </a>
-  </div>
-  <div></div>
-</div>
+{% include amz/horizontal/fitbit-inspire-hr.html %}
+
 
 Personalmente incluso cambiaría el GPS por una buena detección automática de 
 las actividades y una buena monitorización de la natación.
@@ -260,50 +201,11 @@ decidir entre la [Huawei Band 4 (normal)](/huawei-band-4-review.html) y la
 
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">
 
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Huawei Band 4</h4>
-      <amp-img alt="Huawei Band 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/huawei-band-4.webp">
-        <amp-img fallback alt="Huawei Band 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/huawei-band-4.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/2HMnXXL" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
+  {% include amz/cuadro/huawei-band-4.html %}
 
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Xiaomi Mi Band 4</h4>
-      <amp-img alt="Xiaomi Mi Band 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/mi-band-4.webp">
-        <amp-img fallback alt="Xiaomi Mi Band 4" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/mi-band-4.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/38NRsVk" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
-
-  <div class="amz_cuadro">
-    <h4 class="amz_cuadro__title">Fitbit Inspire HR</h4>
-      <amp-img alt="Fitbit Inspire HR" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/fitbit-inspire-hr.webp">
-        <amp-img fallback alt="Fitbit Inspire HR" 
-          width="355" height="355" layout="responsive"
-          src="/assets/amz/fitbit-inspire-hr.jpg">
-        </amp-img>
-      </amp-img>
-    <a class="btn amz_cuadro__btn" href="https://amzn.to/2tZd1CX" target="_blank">
-      Ver precio en Amazon
-    </a>
-  </div>
+  {% include amz/cuadro/xiaomi-mi-band-4.html %}
+  
+  {% include amz/cuadro/fitbit-inspire-hr.html %}
 
 </div>
 
