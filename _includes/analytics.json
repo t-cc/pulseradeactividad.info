@@ -16,8 +16,9 @@
       "request": "event",
       "selector": ".ga-amz-click-cuadro",
       "vars": {
-        "eventCategory": "Amazon",
-        "eventAction": "click",
+        "event_name": "amazon cuadro",
+        "event_category": "Amazon",
+        "event_action": "click",
         "url": "{url}",
         "title": "{title}"
       }
@@ -27,8 +28,9 @@
       "request": "event",
       "selector": ".ga-amz-click-row",
       "vars": {
-        "eventCategory": "Amazon",
-        "eventAction": "click",
+        "event_name": "amazon row",
+        "event_category": "Amazon",
+        "event_action": "click",
         "url": "{url}",
         "title": "{title}"
       }
