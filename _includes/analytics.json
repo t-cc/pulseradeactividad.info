@@ -11,10 +11,10 @@
       "on": "visible",
       "request": "pageview"
     },
-    "amazon out cuadro": {
+    "amazonOutCuadro": {
       "on": "click",
       "request": "event",
-      "selector": ". ga-amz-click-cuadro",
+      "selector": ".ga-amz-click-cuadro",
       "vars": {
         "eventCategory": "Amazon",
         "eventAction": "click",
@@ -22,7 +22,7 @@
         "title": "{title}"
       }
     },
-    "amazon out row": {
+    "amazonOutRow": {
       "on": "click",
       "request": "event",
       "selector": ".ga-amz-click-row",
