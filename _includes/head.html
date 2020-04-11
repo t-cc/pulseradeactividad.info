@@ -13,12 +13,26 @@
           }
         },
         "triggers": {
-          "button": {
-            "selector": ".amz_cuadro__btn",
+          "trackPageview": {
+            "on": "visible",
+            "request": "pageview"
+          },
+          "click amz cuadro": {
             "on": "click",
+            "selector": ".amz_cuadro__btn",
+            "request": "event",
             "vars": {
-              "event_name": "amazon",
-              "method": "Cuadro"
+              "eventCategory": "amazon",
+              "eventAction": "click-cuadro"
+            }
+          },
+          "click amz row": {
+            "on": "click",
+            "selector": ".amz-row__btn > .btn",
+            "request": "event",
+            "vars": {
+              "eventCategory": "amazon",
+              "eventAction": "click-row"
             }
           }
         }
