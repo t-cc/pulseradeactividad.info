@@ -32,6 +32,15 @@
         "url": "{url}",
         "title": "{title}"
       }
+    },
+
+    "button": {
+      "selector": ".amz_cuadro__btn",
+      "on": "click",
+      "vars": {
+        "event_name": "amazon",
+        "method": "Cuadro"
+      }
     }
   }
 
