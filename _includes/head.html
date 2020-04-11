@@ -17,22 +17,26 @@
             "on": "visible",
             "request": "pageview"
           },
-          "click amz cuadro": {
-            "on": "click",
+          "amazon out cuadro": {
             "selector": ".amz_cuadro__btn",
-            "request": "event",
+            "on": "click",
             "vars": {
-              "eventCategory": "amazon",
-              "eventAction": "click-cuadro"
+              "method": "click-method",
+              "event_name": "click",
+              "event_category": "click-category",
+              "event_label": "click-label",
+              "value": "click-value"
             }
           },
-          "click amz row": {
+          "amazon out row": {
+            "selector": ".amz-row__btn>.btn",
             "on": "click",
-            "selector": ".amz-row__btn > .btn",
-            "request": "event",
             "vars": {
-              "eventCategory": "amazon",
-              "eventAction": "click-row"
+              "method": "click2-method",
+              "event_name": "click2",
+              "event_category": "click2-category",
+              "event_label": "click2-label",
+              "value": "click2-value"
             }
           }
         }
