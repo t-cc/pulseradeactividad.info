@@ -3,46 +3,9 @@
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
   <amp-analytics type="gtag" data-credentials="include">
-    <script type="application/json">
-      {
-        "vars" : {
-          "gtag_id": "{{ site.analytics_id }}",
-          "config" : {
-            "{{ site.analytics_id }}": { "groups": "default" },
-            "site_speed_sample_rate": 100
-          }
-        },
-        "triggers": {
-          "trackPageview": {
-            "on": "visible",
-            "request": "pageview"
-          },
-          "amazon out cuadro": {
-            "selector": ".amz_cuadro__btn",
-            "on": "click",
-            "vars": {
-              "method": "click-method",
-              "event_name": "click",
-              "event_category": "click-category",
-              "event_label": "click-label",
-              "value": "click-value"
-            }
-          },
-          "amazon out row": {
-            "selector": ".amz-row__btn>.btn",
-            "on": "click",
-            "vars": {
-              "method": "click2-method",
-              "event_name": "click2",
-              "event_category": "click2-category",
-              "event_label": "click2-label",
-              "value": "click2-value"
-            }
-          }
-        }
-
-      }
-    </script>
+  <script type="application/json">
+    {% include analitycs.json %}
+  </script>
   </amp-analytics>
 
   <script async custom-element="amp-user-notification" src="https://cdn.ampproject.org/v0/amp-user-notification-0.1.js"></script>
@@ -77,19 +40,6 @@
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   <meta name="twitter:image" content="{% if page.image.16x9 %}{{ page.image.16x9 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
 
-  {% comment %}
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "NewsArticle",
-      "headline": "Open-source framework for publishing content",
-      "datePublished": "2015-10-07T12:02:41Z",
-      "image": [
-        "logo.jpg"
-      ]
-    }
-  </script>
-  {% endcomment %}
   <script type="application/ld+json">
     {% include metadata.json %}
   </script>

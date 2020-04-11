@@ -1,0 +1,38 @@
+{
+  "vars" : {
+    "gtag_id": "{{ site.analytics_id }}",
+    "config" : {
+      "{{ site.analytics_id }}": { "groups": "default" },
+      "site_speed_sample_rate": 100
+    }
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    },
+    "amazon out cuadro": {
+      "on": "click",
+      "request": "event",
+      "selector": ". ga-amz-click-cuadro",
+      "vars": {
+        "eventCategory": "Amazon",
+        "eventAction": "click",
+        "url": "{url}",
+        "title": "{title}"
+      }
+    },
+    "amazon out row": {
+      "on": "click",
+      "request": "event",
+      "selector": ".ga-amz-click-row",
+      "vars": {
+        "eventCategory": "Amazon",
+        "eventAction": "click",
+        "url": "{url}",
+        "title": "{title}"
+      }
+    }
+  }
+
+}
