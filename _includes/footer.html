@@ -20,6 +20,12 @@
 </amp-analytics>
 {% endcomment %}
 
+<amp-analytics type="gtag" data-credentials="include">
+  <script type="application/json">
+    {% include analytics.json %}
+  </script>
+</amp-analytics>
+
 <amp-user-notification
     id="notification-cookies" class="notification" layout="nodisplay">
     <div class="row">
