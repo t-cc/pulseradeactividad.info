@@ -1,30 +1,4 @@
-{% comment %}
-<amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-P5QVP49&gtm.url=SOURCE_URL" data-credentials="include">
-
-</amp-analytics>
-
-<amp-analytics type="googleanalytics" id="amp-analytics">
-    <script type="application/json">
-        {
-            "vars": {
-                "account": "{{ site.analytics_id }}"
-            },
-            "triggers": {
-                "trackPageview": {
-                    "on": "visible",
-                    "request": "pageview"
-                }
-            }
-        }
-    </script>
-</amp-analytics>
-{% endcomment %}
-
-<amp-analytics type="gtag" data-credentials="include">
-  <script type="application/json">
-    {% include analytics.json %}
-  </script>
-</amp-analytics>
+{% include analytics-data.html %}
 
 <amp-user-notification
     id="notification-cookies" class="notification" layout="nodisplay">
