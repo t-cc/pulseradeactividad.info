@@ -4,6 +4,7 @@ date: 2020/01/10
 updated: 2020/03/14
 title: Huawei Band 4. Review y características.
 published: true
+en_portada: true
 
 description: >
   La Huawei Band 4 es la pulsera económica de Huawei parece 

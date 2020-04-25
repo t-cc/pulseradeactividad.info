@@ -4,6 +4,7 @@ date: 2020/02/10
 updated: 2020/03/14
 title: Huawei Band 4 【Pro】✅. Gama media con GPS.
 published: true
+en_portada: true
 
 description: >
   La Huawei Band 4 Pro es la versión ⚡ `profesional` de su pulsera barata. Cuenta
@@ -25,7 +26,7 @@ image:
 ---
 
 Podríamos decir que la **Huawei Band 4 Pro** es la versión *buena* de la  
-[Band 4 básica](/huwawei-band-4-review.html) de la misma marca. Cuenta con
+[Band 4 básica](/huawei-band-4-review.html) de la misma marca. Cuenta con
 todas las funcionalidades de la básica, un software similar y la misma App,
 pero se diferencia en:
 
@@ -131,7 +132,7 @@ momento aparatosa.
 
 
 Esta **Huawei Band 4 Pro** no cuenta con un [sistema de carga tan original como 
-el de la versión básica](/huwawei-band-4-review.html), así que para cargarla
+el de la versión básica](/huawei-band-4-review.html), así que para cargarla
 será necesario un clip especial. Es una pena. Me gustaba el sistema de la Huawei Band 4 normal.
 
 

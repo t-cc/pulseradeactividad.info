@@ -4,6 +4,7 @@ date: 2020/04/05
 updated: 2020/04/05
 title: Fitbit Charge 4 🥇. La renovación ¿definitiva? 
 published: true
+en_portada: false
 
 description: >
   La cuarta evolución de la pulsera de actividad por excelencia ✨. Ahora por fin

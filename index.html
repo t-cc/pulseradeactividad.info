@@ -16,43 +16,45 @@ sitemap:
 
   <div class="frame">
     {% assign paginas = site.paginas | sort: 'date' | reverse %}
-    {% for post in paginas %}
-      <article class="post cf" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <div class="article-item">
-          <header class="post-header">
-            <h2 class="post-title" itemprop="name">
-              <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
-                {{ post.title }}
-              </a>
-            </h2>
-          </header>
-          <section class="post-excerpt" itemprop="description">
-            {% comment %}<p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>{% endcomment %}
-            <p>{{ post.description }}</p>
-          </section>
-          {% comment %}
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
-            </div>
-          {% endcomment %}
-          {% if post.image %}
-            <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
-              <amp-img alt="{{ post.image.alt | default: post.title }}" layout="responsive"
-                       width="{{ post.image.width }}" height="{{ post.image.height }}" src="{{ post.image.file }}">
-                {% if post.image.fallback %}
-                <amp-img fallback alt="{{ post.img.alt | default: post.title }}" layout="responsive"
-                         width="{{ post.image.width }}" height="{{ post.image.height }}" src="{{ post.image.fallback }}">
+    {% for pagina in paginas %}
+      {% if pagina.en_portada %}
+        <article class="post cf" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name">
+                <a href="{{ site.baseurl }}{{ pagina.url }}" itemprop="url">
+                  {{ pagina.title }}
+                </a>
+              </h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              {% comment %}<p>{{ pagina.excerpt | strip_html | truncatewords: 50 }}</p>{% endcomment %}
+              <p>{{ pagina.description }}</p>
+            </section>
+            {% comment %}
+              <div class="post-meta">
+                <time datetime="{{ pagina.date | date_to_xmlschema }}">{{ pagina.date | date_to_long_string }}</time>
+              </div>
+            {% endcomment %}
+            {% if pagina.image %}
+              <a href="{{ site.baseurl }}{{ pagina.url }}" itemprop="url">
+                <amp-img alt="{{ pagina.image.alt | default: pagina.title }}" layout="responsive"
+                         width="{{ pagina.image.width }}" height="{{ pagina.image.height }}" src="{{ pagina.image.file }}">
+                  {% if pagina.image.fallback %}
+                  <amp-img fallback alt="{{ pagina.img.alt | default: pagina.title }}" layout="responsive"
+                           width="{{ pagina.image.width }}" height="{{ pagina.image.height }}" src="{{ pagina.image.fallback }}">
+                  </amp-img>
+                  {% endif %}
                 </amp-img>
-                {% endif %}
-              </amp-img>
-            </a>
-          {% endif %}
-        </div>
-        <br>
-        <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url" class="btn btn--naranja right">
-          Leer más &raquo;
-        </a>
-      </article>
+              </a>
+            {% endif %}
+          </div>
+          <br>
+          <a href="{{ site.baseurl }}{{ pagina.url }}" itemprop="url" class="btn btn--naranja right">
+            Leer más &raquo;
+          </a>
+        </article>
+      {% endif %}
     {% endfor %}
   </div>
   <br><br>

@@ -4,6 +4,7 @@ date: 2019/05/10
 updated: 2020/02/20
 title: ¿Como funciona un pulsómetro óptico de muñeca?
 published: true
+en_portada: true
 
 description: >
   Aprende como funciona un pulsómetro óptico para poder elegir el mejor.

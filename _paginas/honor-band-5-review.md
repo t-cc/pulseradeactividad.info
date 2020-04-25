@@ -4,6 +4,7 @@ date: 2020/02/10
 updated: 2020/03/14
 title: Honor Band 5. Opinión y características.
 published: true
+en_portada: true
 
 description: >
   La Honor Band 5 es una versión de la Huawei Band 4 con más funciones,
@@ -97,7 +98,7 @@ pasos).
       src="/assets/honor-band-5/honor-band-5-sport.webp">
       <amp-img fallback alt="Honor Band 5 Sport." 
           width="700" height="297" layout="responsive"
-          src="//assets/honor-band-5/honor-band-5-sport.jpg">
+          src="/assets/honor-band-5/honor-band-5-sport.jpg">
       </amp-img>
   </amp-img>
   <figcaption>

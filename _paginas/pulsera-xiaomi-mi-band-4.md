@@ -4,6 +4,7 @@ date: 2019/12/15
 updated: 2020/02/10
 title: Pulsera Xiaomi Mi Band 4. Opinión y características.
 published: true
+en_portada: true
 
 description: >
   La Xiaomi Mi Band 4 llega colmada de opciones. ¿Podrá plantar cara a Fitbit,
