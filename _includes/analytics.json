@@ -38,6 +38,20 @@
         "url": "{url}",
         "title": "{title}"
       }
+    },
+    "amazonOutStory": {
+      "on": "click",
+      "request": "event",
+      "selector": ".amz__btn-history",
+      "vars": {
+        "event_name": "amazon historia",
+        "event_category": "Amazon",
+        "event_action": "click row",
+        "event_label": "label row",
+        "value": "1",
+        "url": "{url}",
+        "title": "{title}"
+      }
     }
   }
 

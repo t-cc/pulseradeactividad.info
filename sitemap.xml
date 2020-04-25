@@ -6,30 +6,56 @@ sitemap:
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for paginas in site.paginas %}
-    {% unless paginas.published == false %}
+    {% for pagina in site.paginas %}
+    {% unless pagina.published == false %}
     <url>
-        <loc>{{ site.url }}{{ paginas.url }}</loc>
-        {% if paginas.sitemap.lastmod %}
-        <lastmod>{{ paginas.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-        {% elsif paginas.updated %}
-        <lastmod>{{ paginas.updated | date_to_xmlschema }}</lastmod>
+        <loc>{{ site.url }}{{ pagina.url }}</loc>
+        {% if pagina.sitemap.lastmod %}
+        <lastmod>{{ pagina.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+        {% elsif pagina.updated %}
+        <lastmod>{{ pagina.updated | date_to_xmlschema }}</lastmod>
         {% else %}
-        <lastmod>{{ paginas.date | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ pagina.date | date_to_xmlschema }}</lastmod>
         {% endif %}
-        {% if paginas.sitemap.changefreq %}
-        <changefreq>{{ paginas.sitemap.changefreq }}</changefreq>
+        {% if pagina.sitemap.changefreq %}
+        <changefreq>{{ pagina.sitemap.changefreq }}</changefreq>
         {% else %}
         <changefreq>monthly</changefreq>
         {% endif %}
-        {% if paginas.sitemap.priority %}
-        <priority>{{ paginas.sitemap.priority }}</priority>
+        {% if pagina.sitemap.priority %}
+        <priority>{{ pagina.sitemap.priority }}</priority>
         {% else %}
         <priority>0.5</priority>
         {% endif %}
     </url>
     {% endunless %}
     {% endfor %}
+
+    {% for historia in site.historias %}
+    {% unless historia.published == false %}
+    <url>
+        <loc>{{ site.url }}{{ historia.url }}</loc>
+        {% if historia.sitemap.lastmod %}
+        <lastmod>{{ historia.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+        {% elsif historia.updated %}
+        <lastmod>{{ historia.updated | date_to_xmlschema }}</lastmod>
+        {% else %}
+        <lastmod>{{ historia.date | date_to_xmlschema }}</lastmod>
+        {% endif %}
+        {% if historia.sitemap.changefreq %}
+        <changefreq>{{ historia.sitemap.changefreq }}</changefreq>
+        {% else %}
+        <changefreq>monthly</changefreq>
+        {% endif %}
+        {% if historia.sitemap.priority %}
+        <priority>{{ historia.sitemap.priority }}</priority>
+        {% else %}
+        <priority>0.5</priority>
+        {% endif %}
+    </url>
+    {% endunless %}
+    {% endfor %}
+
     {% for page in site.pages %}
     {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" %}
     <url>

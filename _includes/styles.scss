@@ -2,32 +2,43 @@
 // @import 'syntax-highlighting';
 @import "normalize";
 @import "utils";
-
-$grey-color:    #828282;
-
-$color-texto:       rgba(0, 0, 0, 0.8);
-$color-gris-claro:  #f2f2f0;
-$color-naranja:     #FF5C01;
-$color-verde:       #7EBC01;
+@import "settings";
 
 
-// Colores paleta inkscape...
-$color-azul:        #2C59B3;
-$color-azul-claro:  #689EEE;
-$color-verde:       #81BD07;
-$color-amarillo:    #DDF707;
-$color-naranja:     #FF5F07;
+// Only needed for syntax highlighting
+%vertical-rhythm {
+  margin-bottom: $rs;
+}
 
-$color-negro-pie:   #191919;
+* {
+  box-sizing: border-box;
+}
 
+/* UTILIDADES */
+.cf {
+  @include clearfix;
+}
+.row {
+  width: 100%;
+  max-width: $blog-width;
+  margin: 0 auto;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
+}
 
-
-$rs: rem(16px);
-
-$font-serif: $georgia; // Georgia,Cambria,"Times New Roman",Times,'Lora', serif;
-$font-sans: $helvetica; // "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
-
-$blog-width: rem(700px);
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
 
 
 @mixin respond-to($breakpoint) {
@@ -75,31 +86,6 @@ figure {
   }
 }
 
-/* UTILIDADES */
-.cf {
-  @include clearfix;
-}
-.row {
-  width: 100%;
-  max-width: $blog-width;
-  margin: 0 auto;
-}
-.text-center {
-  text-align: center;
-}
-.text-right {
-  text-align: right;
-}
-.text-left {
-  text-align: left;
-}
-
-.right {
-  float: right;
-}
-.left {
-  float: left;
-}
 
 /* END UTILIDADES */
 
@@ -148,15 +134,6 @@ figure {
   }
 }
 
-
-// Only needed for syntax highlighting
-%vertical-rhythm {
-  margin-bottom: $rs;
-}
-
-* {
-  box-sizing: border-box;
-}
 
 main {
   display: block;

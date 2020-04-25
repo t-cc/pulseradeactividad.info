@@ -98,7 +98,7 @@ Esta es una buena opción para un uso deportivo intenso, ya que cuenta con
 </div>
 
 Aunque cuente con GPS tiene la desventaja de que **carece de barómetro**, con lo que 
-no te dará la **ganancia de altura**, pero gracias a la inclusión de los algoritmos Firstbeat,
+no te dará la **ganancia de altura**, pero gracias a la inclusión de los algoritmos **Firstbeat**,
 te informará de: 
 
 * <u>VO2Max</u>: Mide tu estado de forma, tu capacidad de esfuerzo.

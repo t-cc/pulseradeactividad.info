@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html ⚡ lang="es">
+{% include head-historia.html %}
+<body>
+
+{{ content }}
+
+
+
+<amp-analytics type="gtag" data-credentials="include">
+  <script type="application/json">
+    {% include analytics.json %}
+  </script>
+</amp-analytics>
+</body>
+</html>

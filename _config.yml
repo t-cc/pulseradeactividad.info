@@ -92,6 +92,10 @@ collections:
     output: true
     permalink: /:path.html
 
+  historias:
+    output: true
+    permalink: /historias/:path.html
+
 exclude:
   - 'README*.md'
   - 'Gemfile*'
