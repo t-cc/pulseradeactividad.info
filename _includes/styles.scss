@@ -119,8 +119,17 @@ figure {
   }
 
   &--verde {
-    // background: $color-verde;
+    background: $color-verde;
+    color: white;
+    border: 1px solid darken($color-verde, 10%);
+
+    &:hover {
+      background: lighten($color-verde, 10%);
+      border: 1px solid $color-verde;
+      color: white;
+    }
   }
+
   &--naranja {
     background: $color-naranja;
     color: white;
@@ -1178,3 +1187,24 @@ pre {
     }
   }
 // }
+
+.history-link {
+  // grid-gap: 2 * $rs;
+  margin:(2 * $rs) 0;
+  text-align: center;
+
+  &__link {
+    @extend .btn;
+    @extend .btn--verde;
+  }
+
+  &__title {
+    color: $color-naranja;
+    font-style: $font-serif;
+    margin-bottom: $rs;
+
+    em {
+      color: $color-verde;
+    }
+  }
+}

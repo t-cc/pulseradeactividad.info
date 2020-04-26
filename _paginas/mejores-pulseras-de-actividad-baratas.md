@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020/03/14
-updated: 2020/03/14
+updated: 2020/04/26
 title: 🥇 Mejores pulseras de actividad baratas ✓ 2020
 published: true
 en_portada: true
@@ -25,9 +25,9 @@ image:
 
 ---
 Bien, antes de nada: vamos a ignorar todas **esas marcas pésimas** de pulseras de actividad baratas 
-como Willful, Yamay, Yuanguo, Mmtek, Lintelek y todo ese *tinglado*. ¿Por qué? Pues por un **pésimo soporte**,
-por <b>aplicaciones *fantasma*</b> que no se actualizan y que incluso a veces 
-son difíciles de  encontrar (no están en las tiendas de Android o Apple, por ejemplo).
+como Willful, Yamay, Yuanguo, Mmtek, Lintelek y todo ese *tinglado*. ¿Por qué? Pues por un **nulo soporte** y
+por <b>aplicaciones *fantasma*</b> que no se actualizan e incluso a veces 
+son difíciles de encontrar para instalar (no están en las tiendas de Android o Apple, por ejemplo).
 
 Tampoco vamos a tener en cuenta la **Realme Band**, que a pesar de ser una opción
 interesante entre las mejores pulseras de actividad batatas es difícil de encontrar en España.
@@ -50,18 +50,30 @@ interesante entre las mejores pulseras de actividad batatas es difícil de encon
   </figure>
 {% endif %}
 
+<div markdown="0" class="history-link">
+  <div class="history-link__title">
+    Recuerda: puedes ver la <em>history</em> de este post aquí:
+  </div>
+  <a class="history-link__link" 
+    href="/historias/mejores-pulseras-de-actividad-baratas.html">
+    Historia: Las mejores pulseras de actividad baratas.
+  </a>
+</div>
+
+
 Si establecemos un **presupuesto por debajo de los 50€**, dejando de lado las
 mejores pulseras de actividad, como Fitbit, Garmin, Samsumng, etc, nos quedamos
-con realmente pocos contrincantes reales para alzarse con el podim de 
+con realmente pocos contrincantes reales para alzarse con el podium de las
  **mejores pulseras de actividad baratas**. 
 
 Además, lo realmente preocupante es que, salvo la [Huawei Band 4 Pro](/huawei-band-4-pro-review.html) y alguna variante, 
 parece que estemos ante **el mismo producto con diferentes envoltorios**. 
 Esto se debe a la implacable **guerra de precios y marketing** en el segmento de 
-las pulseras de actividad baratas los fabricantes optan por **copiarse unos
+las pulseras de actividad baratas. Los fabricantes optan por **copiarse unos
 a otros** y clonar los dispositivos lanzados por la competencia. Esto también se 
 traduce en el lanzamiento de **productos con un funcionamiento y precisión cuando
-menos dudoso**, pero forzados por la **enorme presión de la competencia**.
+menos dudoso**, pero forzados a *sacar algo* por la **enorme presión de la competencia**.
+
 
 ## <u>Mejor para fitness y running</u>: Huawei Band 4 Pro
 
@@ -97,16 +109,16 @@ Esta es una buena opción para un uso deportivo intenso, ya que cuenta con
   </ul>
 </div>
 
-Aunque cuente con GPS tiene la desventaja de que **carece de barómetro**, con lo que 
-no te dará la **ganancia de altura**, pero gracias a la inclusión de los algoritmos **Firstbeat**,
-te informará de: 
+Aunque cuente con GPS tiene la desventaja de que **carece de barómetro** (con lo que 
+no te dará la **ganancia de altura**), pero gracias a la inclusión de los 
+algoritmos **Firstbeat**, te informará de: 
 
-* <u>VO2Max</u>: Mide tu estado de forma, tu capacidad de esfuerzo.
-* <u>Efecto del entrenamiento</u>: Efecto del entrenamiento en tu cuerpo, te ayuda a optimizar.
-* <u>Tiempo de recuperación</u>: El descanso entre sesiones es fundamental.
+* <u>VO2Max</u>: Tu estado de forma, tu capacidad de esfuerzo.
+* <u>Efecto del entrenamiento</u>: Efecto de cada entrenamiento en tu cuerpo. Te ayudará a optimizar.
+* <u>Tiempo de recuperación</u>: El descanso entre sesiones es fundamental para que tu cuerpo asimile correctamente el entrenamiento.
 * <u>Entrenamientos personalizados para running</u>.
 * <u>Calorías consumidas</u>. Con mayor precisión que una pulsera normal.
-* <u>Predicción de tiempo de carrera</u>. Basado en tu VO2Max y entrenamiento.
+* <u>Predicción de tiempo de carrera</u>. Basado en tu VO2Max y tus entrenamientos.
 
 {% include amz/horizontal/huawei-band-4-pro.html %}
 
@@ -130,11 +142,11 @@ mejores pulseras de actividad.
 La [Huawei Band 4](/huawei-band-4-review.html) está respaldada por un gigante
 tecnológico tanto en hardware como en software. Muchos pensareis que sólo fabrican
 teléfonos, pero Huawei fabrica el hardware que soporta la infraestructura de comunicaciones
-de muchos países, de ahí la guerra comercial con EEUU y los problemas con Android<sup>TM</sup>.
+de muchos países. De ahí la guerra comercial con EEUU y los problemas con Android<sup>TM</sup>.
 
 Todo esto hace que sea una **apuesta segura** entre las pulseras de actividad baratas,
 con un **precio ajustado**, una buena monitorización del sueño y del ritmo cardíaco,
-así como una excelente app. 
+así como una excelente *app*. 
 
 <figure markdown="0">
   <amp-img alt="Monitorización de ritmo cardíaco con Huawei TruSeenTM 3.5." 
@@ -156,6 +168,7 @@ así como una excelente app.
     <li>Resistente al agua (sumergible).</li>
     <li>Detecta el sueño REM.</li>
     <li>Buena aplicación.</li>
+    <li>Buenos acabados.</li>
   </ul>
   <ul class="cuadro-comparar__ko">
     <li>No da estimaciones de VO2 Max.</li>
@@ -167,8 +180,8 @@ así como una excelente app.
 
 Estamos ante un disposivo con un diseño y acabados muy buenos, y un buen funcionamiento
 en general, pero tiene **un par de carencias**:
-* La baja calidad y resolución de la pantalla.
-* Sólo tiene acelerómetro de 3 ejes. Carece de giróscopo adicional, siendo el conjunto
+* La pantalla es TFT y tiene una **resolución baja**.
+* Sólo tiene acelerómetro de 3 ejes. **Carece de giróscopo** adicional, siendo el conjunto
 entre acelerómetro (3 ejes) y giróscopo (3 ejes) lo que muchos llaman acelerómetro 
 de 6 ejes.
 
@@ -184,8 +197,9 @@ un buen dispositivo para iniciarse.
 ## <u>Mejor relación calidad-precio</u>: ¿Honor Band 5 o Mi Band 4?.
 
 Si todos los demás dispositivos ya eran parecidos, estos dos son calcados...
-Incluso tienen la misma resolución de pantalla, y unos precios practicamente iguales.
-Realmente estamos ante las **mejores pulseras de actividad baratas**.
+Incluso tienen la misma resolución de pantalla, características muy similares
+y unos precios que siempre evolucionan parejos. Realmente estamos ante 
+las **mejores pulseras de actividad baratas**, que luchan continuamente por mantenerse.
 
 <figure markdown="0">
   <amp-img alt="Honor Band 5 en diferentes colores." 
@@ -201,17 +215,36 @@ Realmente estamos ante las **mejores pulseras de actividad baratas**.
   </figcaption>
 </figure>
 
+<div class="cuadro-comparar" markdown="0">
+  <ul class="cuadro-comparar__ok">
+    <li>Precio ajustado.</li>
+    <li>Resistente al agua (sumergible).</li>
+    <li>Pantalla AMOLED en color.</li>
+    <li>Detecta el sueño REM.</li>
+    <li>Buena aplicación.</li>
+    <li>Monitoriza la natación.</li>
+    <li>Incluye sensor de oxígeno en sangre.</li>
+  </ul>
+  <ul class="cuadro-comparar__ko">
+    <li>No reconoce automáticamente los ejercicios.</li>
+    <li>Tiene NFC, pero no podrás usarlo fuera de China.</li>
+    <li>La batería dura menos de lo prometido.</li>
+    <li>Cuenta algún paso de más.</li>
+  </ul>
+</div>
+
+
 {% include amz/horizontal/honor-band-5.html %}
 
 Sin embargo la propuesta de **Honor**, aporta la **medición de oxígeno en sangre** y mejor
 **mejor monitorización del sueño** (detecta el sueño REM). En contrapartida, la 
 interfaz **no es tan fluida** y tiene un poco **menos de batería** que la 
-[Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html), pero creo que compensa,
-y hacen de ella la **mejor pulsera de actividad barata**.
+[Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html), pero sinceramente, creo que compensa,
+y todo esto hace de ella la **mejor pulsera de actividad barata**.
 
 Recordad además que muchos usuarios se quejan de la [Mi Band 4](/pulsera-xiaomi-mi-band-4.html)
 por dos motivos principales; la **mala monitorización del sueño** y los **problemas**
-en la monitorización de la **natación**.
+en la monitorización de la **natación**. 
 
 
 {% include amz/horizontal/xiaomi-mi-band-4.html %}
@@ -219,7 +252,7 @@ en la monitorización de la **natación**.
 Así que, si no vas a nadar y la monitorización del sueño te da igual, puedes 
 escoger la [Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html), pero si no (o no
 lo tienes claro) **la mejor opción puede ser la [Honor Band 5](/honor-band-5-review.html)**,
-con un funcionamiento general más correcto y que cuenta con las
+con un funcionamiento general más correcto apoyado en las
 tecnologías Huawei TrueSleep<sup>TM</sup> y la Huawei TruSeen<sup>TM</sup>
 y la excelente app de Huawei.
 
