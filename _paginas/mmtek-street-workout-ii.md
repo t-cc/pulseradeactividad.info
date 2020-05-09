@@ -73,7 +73,7 @@ cosas a un precio irrisorio. Cuenta con incluso más características que una
 </div>
 
 
-> Parece un intento por incluir un gran número de funcionalidades
+> Es un intento por incluir un gran número de funcionalidades
 para lograr vender un producto pésimo, con malos acabados y materiales. Parece
 algo típico de los productos MMTek.
 
