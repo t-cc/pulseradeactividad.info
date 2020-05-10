@@ -114,8 +114,14 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-gems:
+# https://github.com/jekyll/jekyll-feed
+feed:
+  path: atom.xml
+  excerpt_only: true
+
+plugins:
   - jekyll-paginate
+  - jekyll-feed
 
 sass:
   style: compressed
