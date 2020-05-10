@@ -2,6 +2,7 @@
 layout: post
 date: 2019/05/10
 updated: 2020/02/20
+autor: Pulsera de Actividad
 title: ¿Como funciona un pulsómetro óptico de muñeca?
 published: true
 en_portada: true

@@ -2,6 +2,7 @@
 layout: post
 date: 2019/12/15
 updated: 2020/02/10
+autor: Pulsera de Actividad
 title: Pulsera Xiaomi Mi Band 4. Opinión y características.
 published: true
 en_portada: true

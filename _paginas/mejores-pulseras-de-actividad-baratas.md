@@ -2,6 +2,7 @@
 layout: post
 date: 2020/03/14
 updated: 2020/04/26
+autor: Pulsera de Actividad
 title: 🥇 Mejores pulseras de actividad baratas ✓ 2020
 published: true
 en_portada: true

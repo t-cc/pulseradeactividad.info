@@ -2,6 +2,7 @@
 layout: post
 date: 2020/03/05
 date: 2020/03/05
+autor: Pulsera de Actividad
 title: ✅ Ideas originales para el día del padre.
 published: true
 en_portada: false

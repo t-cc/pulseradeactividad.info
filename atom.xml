@@ -1,0 +1,28 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator>
+    <link href="{{ '/atom.xml' | prepend: site.baseurl | prepend: site.url }}" rel="self"/>
+    <link href="{{ site.url }}{{ site.baseurl }}" rel="alternate" type="text/html"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>{{ "/atom.xml" | prepend: site.baseurl | prepend: site.url }}</id>
+    <title type="html">{{ site.title | xml_escape }}</title>
+    <subtitle>{{ site.description | xml_escape }}</subtitle>
+    {% for pagina in site.paginas limit:100 %}
+    <entry>
+        <author>
+            <name>{% if pagina.author %}{{ pagina.autor }}{% else %}{{ site.name }}{% endif %}</name>
+        </author>
+        <title type="html">{{ pagina.title | xml_escape }}</title>
+        <link href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" rel="alternate" type="text/html" title="{{ pagina.title }}"/>
+        <published>{{ pagina.date | date_to_xmlschema }}</published>
+        <updated>{% if pagina.updated %}{{ pagina.updated | date_to_xmlschema }}{% else %}{{ pagina.date | date_to_xmlschema }}{% endif %}</updated>
+        <id>{{ pagina.url | prepend: site.baseurl | prepend: site.url }}</id>
+         <summary type="html">{{ pagina.excerpt | strip_html | xml_escape }}</summary>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ pagina.image.file | prepend: site.baseurl | prepend: site.url }}"/>
+        <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="{{ pagina.image.file | prepend: site.baseurl | prepend: site.url }}"/>
+    </entry>
+    {% endfor %}
+</feed>
