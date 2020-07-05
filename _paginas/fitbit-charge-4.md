@@ -13,15 +13,15 @@ description: >
 
 # Imagen que aparece en resumen de posts.
 image: 
-  file: /assets/fitbit-charge-4/fitbit-charge-3-colores.webp
-  fallback: /assets/fitbit-charge-4/fitbit-charge-3-colores.jpg
-  alt: Nueva pulsera Fitbit Charge 3 en diferentes colores.
+  file: /assets/fitbit-charge-4/fitbit-charge-4-colores.webp
+  fallback: /assets/fitbit-charge-4/fitbit-charge-4-colores.jpg
+  alt: Nueva pulsera Fitbit Charge 4 en diferentes colores.
   width: 700
   height: 287
   # Imagen para metadata (Google discover, redes sociales, etc; 16:9 1200x675 | 4:3 1200x900, 1100x825 | 1:1 1000x100, 900x900)
-  16x9: /assets/fitbit-charge-4/fitbit-charge-3-colores-16x9.jpg
-  4x3: /assets/fitbit-charge-4/fitbit-charge-3-colores-4x3.jpg
-  1x1: /assets/fitbit-charge-4/fitbit-charge-3-colores-1x1.jpg
+  16x9: /assets/fitbit-charge-4/fitbit-charge-4-colores-16x9.jpg
+  4x3: /assets/fitbit-charge-4/fitbit-charge-4-colores-4x3.jpg
+  1x1: /assets/fitbit-charge-4/fitbit-charge-4-colores-1x1.jpg
 
 ---
 
