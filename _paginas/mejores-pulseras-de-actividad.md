@@ -26,7 +26,7 @@ image:
 ---
 
 Todas las **pulseras de actividad** que vais a ver a continuación son **de primer
-nivel** tanto en hardware, diseño y software. Todas van a daros **lecturas fiables** tanto 
+nivel** tanto en hardware y diseño como en software. Todas van a daros **lecturas fiables** 
 de pulso, calorías, sueño, etc. 
 
 Sin embargo esto se notará en el precio, y si 
@@ -49,17 +49,15 @@ Pero lo peor es que la primera generación de Fitbit Charge ya era capaz de moni
 una siesta con precisión. Esto lo hacía en el 2014. ¿Cuanto habrá mejorado con la 
 4ª generación en 2020? 
 
-Podría seguir así hasta el final de este post, pero no es plan...
+Podría seguir enumerando funciones hasta el final de este post, pero no es plan...
 En definitiva, estamos ante productos de una **gran calidad y excelentes acabados**.
 Si queréis una **buena pulsera de actividad** seguid leyendo y no os dejéis llevar
-por las estrategias de marketing de Xiaomi o Huawei.
-
-
+por las estrategias de marketing de Xiaomi Honor/Huawei y compañía.
 
 
 ## <u>Mejor en general</u>: Fitbit Charge 4
 
-La última generación de LA PULSERA DE ACTIVIDAD... Para mi **la versión 3 ya era 
+La última generación de LA PULSERA DE ACTIVIDAD con mayúsculas. Para mi **la versión 3 ya era 
 de lo mejor** y estaba en dura pugna con la Garmin Vivosmart 4, pero ahora le 
 han añadido GPS y pagos con NFC. Se han pasado. 
 
@@ -94,21 +92,113 @@ han añadido GPS y pagos con NFC. Se han pasado.
   <ul class="cuadro-comparar__ko">
     <li>No es barata.</li>
     <li>La pantalla es monocroma.</li>
-    <li>No se me ocurre nada más...¿A vosotros?</li>
+    <li>No puedes guardar música en la pulsera.</li>
   </ul>
 </div>
 
 Esta **smartband** es similar en funcionalidades a un smartwatch con pulsómetro. 
-Esto la hace **adecuada tanto para running como para el gimnasio**. 
+Esto la hace **adecuada tanto para running como para el gimnasio**. Como digo
+es similar a un pulsómetro típico de Garmin, Suunto o Polar, pero mucho más
+discreta y elegante, sobre todo para una chica.
 
 Para mi sería perfecta si hubiesen incluído la posibilidad de llevar la música 
 directamente en la pulsera (como en los modelos Versa o Ionic). 
-Puede parecer cara, pero es similar en funcionalidad a un pulsómetro típico de 
-Garmin, Suunto o Polar, pero mucho más discreta y elegante.
+
+Una cosa que llama la atención e estas **pulseras de actividad** es que la 
+pantalla sea monocroma. Son dispositivos caros. Seguramente os preguntareis
+¿por unos 140€, no podrían poner una pantalla en color? Existen 3 respuestas a esta
+pregunta, y veréis que estan orientadas a ofrecer la **mejor experiencia al usuario**:
+
+1. Influye directamente en la **duración de la batería**. Los sensores que incluyen
+leen datos continuamente, con mucha más precisión y frecuencia que una **smartband barata**,
+pero a cambio consumen mucha más batería. Con una pantalla monocroma se consigue
+amuentar mucho la autonomía.
+
+2. **Mejor visualización en condiciones adversas**. Puede que estés corriendo bajo el
+sol o en el agua y quieras consultar tu pulso o tiempo de entrenamiento. Con una
+pantalla de este tipo podrás consultar datos en casi cualquier situación y en movimiento, 
+pero una pantalla en color, por muy bonita que sea, no podrá ofrecer tanto contraste.
+
+3. **Fáciles de leer si usas gafas**. Los más jóvenes no caeréis en esto, 
+pero este tipo de pantallas también son adecuadas para personas que no ven del todo bien. 
+Normalmente muestran la información de una forma muy *accesible* y dado su gran 
+contraste podrás leerlas aunque no te pongas las gafas.
+
+
+Bien, después de esta *parrafada*, una aclaración sobre el **VO2Max** en esta pulsera.
+Por problemas con las licencias de *firstbeat* los dispositivos FitBit<sup>TM</sup>
+usan el nombre *"puntuación de actividad física de cardio"* para referise al **VO2Max** sin nombrarlo.
+Realmente los valores numéricos son los mismos, pero con otro nombre.
+
+En definitiva, estamos ante una muy buena opción sobre todo **si corres ocasionalmente**.
+
+
+
+## <u>Mejor relación calidad-precio</u>: Fitbit Charge 3
+
+La llegada de la versión 4 ha supuesto una  **importante bajada de precio**
+para esta **gran pulsera de actividad**. No incluye GPS, pero incluso si corres
+ocasionalmente es una buena opción, ya que gracias a la **precisión de su podómetro**
+y su **altímetro** te mostrará un ritmo de carrera muy aproximado al real.
+
+
+
+<div class="cuadro-comparar" markdown="0">
+  <ul class="cuadro-comparar__ok">
+    <li>Resistente al agua (sumergible) y monitoriza la natación correctamente.</li>
+    <li>Detecta el sueño REM.</li>
+    <li>Buena aplicación.</li>
+    <li>Incluye sensor de oxígeno en sangre.</li>
+    <li>Detecta automáticamente los ejercicios.</li>
+    <li>Puedes pagar con NFC (Edición Especial).</li>
+    <li>Buen monitor de ritmo cardíaco.</li>
+    <li>Estimaciones precisas de VO2 Max.</li>
+    <li>Acabado premium.</li>
+  </ul>
+  <ul class="cuadro-comparar__ko">
+    <li>Ahora más económica.</li>
+    <li>La pantalla es monocroma.</li>
+    <li>No tiene GPS.</li>
+    <li>No puedes guardar música en la pulsera.</li>
+  </ul>
+</div>
+
+
+Esta **pulsera de actividad** es una muy buena opción en general. Con materiales
+y acabados **premium**, una gran precisión y una excelente app. Es perfecta para
+la mayoría de la gente, que no practica deporte a un nivel *pro*, pero busca
+una buena monitorización de la salud en general.
+
+Su app es muy completa e intuitiva. No incluye tanto detalle en los entrenamientos
+como las de Garmin o Polar, pero para la gran mayoría de la gente esto no es necesario.
+Lo que si es importante es poder consultar la información de una manera fácil y
+rápida. 
+
+Gracias a su app, es una gran opción si por ejemplo te planteas hacer dieta en serio.
+Cuenta con una gran base de datos de alimentos, que incluyen desde raciones a casi
+todo lo que puedes comprar en el super (marcas blancas incluídas). Con esto y su
+gran precisión a la hora de calcular las calorías consumidas a lo largo del día,
+con solo dar de alta tus comidas obtendrás una estimación precisa de la diferencia
+entre calorías consumidas e ingeridas, básico para realizar una dieta saludable
+acompañada de ejercicio.
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
 Bien, antes de nada: vamos a ignorar todas **esas marcas pésimas** de pulseras de actividad baratas 
 como Willful, Yamay, Yuanguo, Mmtek, Lintelek y todo ese *tinglado*. ¿Por qué? Pues por un **nulo soporte** y
 por <b>aplicaciones *fantasma*</b> que no se actualizan e incluso a veces 
