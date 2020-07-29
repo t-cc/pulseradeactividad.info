@@ -79,7 +79,8 @@ por las estrategias de marketing de Xiaomi Honor/Huawei y compañía.
 
 La última generación de LA PULSERA DE ACTIVIDAD con mayúsculas. En mi opinión, **la versión 3 ya era 
 de lo mejor** y estaba en dura pugna con la Garmin Vivosmart 4, pero ahora le 
-han añadido GPS, más batería y pagos con NFC. Se han pasado. 
+han añadido GPS, más batería y pagos con NFC. Es sin duda la **mejor pulsera de actividad**
+que puedes comprar.
 
 <figure markdown="0">
   <amp-img alt="Fitbit Charge 4 Ed. Especial con correa de textil reciclado. " 
