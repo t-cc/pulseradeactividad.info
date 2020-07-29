@@ -3,7 +3,7 @@ layout: post
 date: 2020/07/27
 updated: 2020/07/27
 autor: Pulsera de Actividad
-title: 🥇 Mejores pulseras de actividad (más de 50€) ✓ 2020
+title: 🥇 Mejores pulseras de actividad ✓ 2020
 published: true
 en_portada: true
 
