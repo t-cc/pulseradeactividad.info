@@ -8,8 +8,8 @@ published: true
 en_portada: true
 
 description: >
-  Si te estás preguntando que pulsera de actividad comprar en 2020 🙌 aquí está tu respuesta ✅.
-  Deja a un lado las marcas chinas y descubre lo que pueden ofrecerte Fitbit o Gramin.
+  Si te estás preguntando cuál es la mejor pulsera de actividad en 2020 🙌 aquí está tu respuesta ✅.
+  Descubre que se debe tener en cuenta para comprar un pulsera de actividad.
 
 # Imagen que aparece en resumen de posts.
 image: 
@@ -78,7 +78,7 @@ por las estrategias de marketing de Xiaomi Honor/Huawei y compañía.
 ## <u>Mejor en general</u>: Fitbit Charge 4
 
 La última generación de LA PULSERA DE ACTIVIDAD con mayúsculas. En mi opinión, **la versión 3 ya era 
-de mejor pulsera de actividad** y estaba en dura pugna con la Garmin Vivosmart 4, pero ahora le 
+la mejor pulsera de actividad** y estaba en dura pugna con la Garmin Vivosmart 4, pero ahora le 
 han añadido GPS, más batería y pagos con NFC. Es sin duda la **mejor pulsera de actividad**
 que puedes comprar.
 
