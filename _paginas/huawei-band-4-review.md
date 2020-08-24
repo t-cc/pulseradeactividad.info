@@ -174,7 +174,7 @@ la [Honor Band 5](/honor-band-5-review.html) o la propia [Huawei Band 4 Pro](/hu
 
 Se trata de una **pulsera de actividad básica a precio muy económico**. Que la fabrique
 Huawei es una garantía de calidad, y aunque no tenga todas las características de otras
-pulseras baratas como la [MMTEK Street Workout II](/mmtek-streek-workout-ii.html)
+pulseras baratas como la [MMTEK Street Workout II](/mmtek-street-workout-ii.html)
 yo la recomiendo por encima de esta y otras de marcas similares sin ninguna duda. 
 Por construcción, materiales y la aplicación.
 
