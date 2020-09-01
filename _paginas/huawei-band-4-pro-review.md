@@ -4,6 +4,7 @@ date: 2020/02/10
 updated: 2020/03/16
 autor: Pulsera de Actividad
 title: Huawei Band 4 【Pro】✅. Gama media con GPS.
+h1: Huawei Band 4 Pro review.
 published: true
 en_portada: true
 

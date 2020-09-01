@@ -4,6 +4,7 @@ date: 2020/01/10
 updated: 2020/03/17
 autor: Pulsera de Actividad
 title: Huawei Band 4. Review y características.
+h1: Huawei Band 4.
 published: true
 en_portada: true
 

@@ -4,6 +4,7 @@ date: 2020/07/27
 updated: 2020/08/11
 autor: Pulsera de Actividad
 title: 🥇 Mejores pulseras de actividad ✓ 2020
+h1: ¿Cual es la mejor pulsera de actividad?
 published: true
 en_portada: true
 
@@ -33,7 +34,8 @@ de pulso, calorías, sueño, etc.
 Sin embargo esto se notará en el precio, y si 
 necesitas algo **más económico** y no os importa la **precisión de las lecturas**
 ni la **calidad de la App** seguramente encontrareis la smartband más adecuada
-en nuestra review de [las mejores pulseras de actividad baratas](/mejores-pulseras-de-actividad-baratas.html).
+en nuestra review de [las mejores pulseras de actividad baratas](/mejores-pulseras-de-actividad-baratas.html),
+también en [formato historia](/historias/mejores-pulseras-de-actividad-baratas.html).
 
 
 {% if page.image %}
@@ -78,7 +80,7 @@ por las estrategias de marketing de Xiaomi Honor/Huawei y compañía.
 ## <u>Mejor en general</u>: Fitbit Charge 4
 
 La última generación de LA PULSERA DE ACTIVIDAD con mayúsculas. En mi opinión, **la versión 3 ya era 
-la mejor pulsera de actividad** y estaba en dura pugna con la Garmin Vivosmart 4, pero ahora le 
+de lo mejor** y estaba en dura pugna con la Garmin Vivosmart 4, pero ahora le 
 han añadido GPS, más batería y pagos con NFC. Es sin duda la **mejor pulsera de actividad**
 que puedes comprar.
 
@@ -229,7 +231,8 @@ acompañada de un poco ejercicio.
 
 De todas formas, como los precios varían casi a diario, si en el momento de leer 
 esto el Charge 3 supera los 100€ os recomiendo como alternativa el 
-[**Fitbit Inspire HR**](#fitbit-inspire-hr) de similares características y que suele estar sobre los 80€.
+[**Fitbit Inspire HR**](#fitbit-inspire-hr) una buena pulsera de actividad,
+de similares características y que suele estar sobre los 80€.
 
 {% include amz/horizontal/fitbit-inspire-hr.html %}
 
@@ -281,7 +284,7 @@ el GPS del móvil para monitorizar nuestras carreras o salidas en bici.
 
 La app de esta pulsera (Garmin Connect) es una de las más profesionales y completas.
 Incluye métricas muy avanzadas y es quizá demasiado para un usuario básico, ya que
-aunque estemos ante una **pulsera de actividad** que no incluye GPS ni posibilidad
+aunque estemos ante una **smartband** que no incluye GPS ni posibilidad
 de conectarse al del móvil, tiene ese **ADN Garmin de deportista casi profesional**.
 
 A pesar de ser de una primera marca, esta **smartband** tiene **un par de defectillos** (a parte de lo del GPS).
@@ -357,7 +360,7 @@ muy *"pro"*.
 Sin embargo, como puntos negativos, carece de la posibilidad de cambiar la pulsera
 y la variedad de ejercicios a monitorizar es un poco escasa. 
 
-En definitiva, es una **pulsera de actividad** interesante para quien salga a correr
+En definitiva, es una **smartband** interesante para quien salga a correr
 a menudo y esté interesado en tener una estimación de VO2Max o alguna métrica 
 específica disponible en la app de *Garmin Connect*. Sin embargo, por un poco más
 me parece más interesante la *Fitbit Charge 4* o incluso algún pulsómetro 
