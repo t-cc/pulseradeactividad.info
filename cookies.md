@@ -4,6 +4,10 @@ title: Política de Cookies
 sitemap:
   priority: 0.1
   changefreq: 'never'
+  
+description: >
+  Política de cookies de Pulsera de Actividad. Tu privacidad es lo primero.
+  
 ---
 
 Cookie es un fichero que se descarga en su ordenador al acceder a determinadas páginas web. 
