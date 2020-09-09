@@ -154,7 +154,7 @@ si le pones la pulsera a una piedra o una rama también leerán su pulso (esto e
 así que yo no me fiaría mucho de sus lecturas.
 
 
-{% include amz/horizontal/fitbit-charge-3.html %}
+{% include amz/horizontal/fitbit-charge-4-textil.html %}
 
 
 
@@ -211,7 +211,7 @@ sensor de SpO2 u oxímetro y 7 días de batería con monitorización contínua d
 Su precio ronda los 100€.
 
 
-{% include amz/horizontal/fitbit-charge-3.html %}
+{% include amz/horizontal/fitbit-charge-4-textil.html %}
 
 
 Y si lo que buscas es algo con más **aspecto de smartwatch**, con pantalla en color,

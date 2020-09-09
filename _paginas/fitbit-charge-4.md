@@ -86,7 +86,7 @@ añadiendo un esperadísimo GPS y manteniendo un **diseño robusto** con **mater
 de primera calidad**.
 
 
-{% include amz/horizontal/fitbit-charge-3-ed.html %}
+{% include amz/horizontal/fitbit-charge-4-textil.html %}
 
 
 Y de rebote, con este lanzamiento, probablemente veremos **bajar el precio de la 
@@ -339,7 +339,7 @@ Si no necesitas el GPS, puedes optar por alguna de estas
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">
 
   
-  {% include amz/cuadro/fitbit-charge-3.html %}
+  {% include amz/cuadro/fitbit-charge-4-textil.html %}
   
   {% include amz/cuadro/garmin-vivosmart-4.html %}
 

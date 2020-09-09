@@ -30,7 +30,7 @@ image:
 
 Estamos ante una de esas **pulseras de actividad baratas** que prometen grandes
 cosas a un precio irrisorio. Cuenta con incluso más características que una 
-[Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html) o una **Honor Band 5**.
+Xiaomi MI Band 5 o una **Honor Band 5**.
 ¿Será oro todo lo que reluce?
 
 
@@ -127,7 +127,7 @@ creo que puede resultar contraproducente si no dan lecturas realistas.
 
 En definitiva, **en ningún caso recomendaría su compra**. En este rango de precios
 (de 25 a 40€) tenéis opciones mucho mejores como la [Huawei Band 4](/huawei-band-4-review.html),
-la [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html) o incluso la 
+la Xiaomi MI Band 5 o incluso la 
 [Honor 5 Band](/honor-band-5-review.html).
 
 Si queréis algo mejor siempre tendréis la **Fitbit Inspire HR**, 
@@ -139,7 +139,7 @@ la más asequible de las *"buenas"*, por unos 80€.
 
   {% include amz/cuadro/huawei-band-4.html %}
   
-  {% include amz/cuadro/xiaomi-mi-band-4.html %}
+  {% include amz/cuadro/xiaomi-mi-band-5.html %}
 
   {% include amz/cuadro/honor-band-5.html %}
   

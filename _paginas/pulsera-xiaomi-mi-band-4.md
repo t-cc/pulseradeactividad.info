@@ -223,7 +223,7 @@ a mi entender, para **monitorizar la actividad física**:
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">
 
   
-  {% include amz/cuadro/fitbit-charge-3.html %}
+  {% include amz/cuadro/fitbit-charge-4-textil.html %}
   
   {% include amz/cuadro/garmin-vivosmart-4.html %}
 

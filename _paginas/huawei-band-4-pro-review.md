@@ -129,7 +129,7 @@ el aspecto general es bueno y el diseño bonito. No se ve ni se nota en ningún
 momento aparatosa.
 
 
-{% include amz/horizontal/fitbit-charge-3-ed.html %}
+{% include amz/horizontal/fitbit-charge-4-textil.html %}
 
 
 
@@ -198,7 +198,7 @@ VO2Max y con una aplicación bonita e intuitiva.
 
 Si no fuese a utilizar el GPS y buscase un modelo más barato os recomendaría
 decidir entre la [Huawei Band 4 (normal)](/huawei-band-4-review.html) y la
-[Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html).
+Xiaomi Mi Band 5.
 
 <br>
 
@@ -206,7 +206,7 @@ decidir entre la [Huawei Band 4 (normal)](/huawei-band-4-review.html) y la
 
   {% include amz/cuadro/huawei-band-4.html %}
 
-  {% include amz/cuadro/xiaomi-mi-band-4.html %}
+  {% include amz/cuadro/xiaomi-mi-band-5.html %}
   
   {% include amz/cuadro/fitbit-inspire-hr.html %}
 

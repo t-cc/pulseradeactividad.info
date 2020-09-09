@@ -118,12 +118,12 @@ a priori parece que sí.
 
 ## Características.
 
-Se trata de la competencia directa de la [Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html),
+Se trata de la competencia directa de la Xiaomi Mi Band 5,
 tanto en características como precio. De hecho los precios de ambas parecen
 mágicamente "sincronizados", supongo que hasta que alguno de los dos saque el siguiente modelo.
 
 
-Como ventajas de la **Honor Band 5** respecto a la [Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html)
+Como ventajas de la **Honor Band 5** respecto a la Xiaomi Mi Band 5
 podemos citar:
 
 - Mas discreta, menos aparatosa.
@@ -132,12 +132,12 @@ podemos citar:
 - Incorpora **sensor de oxígeno en sangre**, SpO2.
 
 
-Sin embargo la [Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html) supera a esta
+Sin embargo la [Xiaomi Mi Band 5](/pulsera-xiaomi-mi-band-5.html) supera a esta
 en un funcionamiento más fluido y **mayor duración de la
-batería** (aproximadamente un 20-30% más).
+batería** (aproximadamente un 20-30% más) y mayor tamaño de pantalla.
 
 
-{% include amz/horizontal/xiaomi-mi-band-4.html %}
+{% include amz/horizontal/xiaomi-mi-band-5.html %}
 
 
 ## Apariencia.
@@ -202,7 +202,7 @@ idéntica.
 En cualquier caso se trata de una **muy buena opción**, pero con unos acabados que 
 quizá desmerecen un poco al resto. En este rango de precios, y con características
 muy parecidas puedes escoger entre esta **Honor Band 5**, la [Huawei Band 4](/huawei-band-4-review.html) 
-y la [Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html).
+y la Xiaomi Mi Band 5.
 
 Recuerda que, por un poco más, puedes optar por la [Huawei Band 4 Pro](/huawei-band-4-pro-review.html) 
 o por la excelente *Fitbit Inspire HR*. Ambas incluyen **algoritmos** para calcular
@@ -212,7 +212,7 @@ el **VO2Max** y la primera cuenta con GPS (aunque carece de altímetro).
 <br>
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">
   
-  {% include amz/cuadro/xiaomi-mi-band-4.html %}
+  {% include amz/cuadro/xiaomi-mi-band-5.html %}
 
   {% include amz/cuadro/huawei-band-4.html %}
   

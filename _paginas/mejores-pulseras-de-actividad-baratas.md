@@ -133,7 +133,7 @@ mejores pulseras de actividad.
 
 <br>
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">  
-  {% include amz/cuadro/fitbit-charge-3.html %}  
+  {% include amz/cuadro/fitbit-charge-4-textil.html %}  
   {% include amz/cuadro/garmin-vivosmart-4.html %}  
   {% include amz/cuadro/fitbit-inspire-hr.html %}
 </div>
@@ -253,7 +253,7 @@ añadido otras funcionalidades anunciadas, como sensor de oxígeno en sangre, NF
 o control por voz con Alexa. Sin embargo sigue siendo una **buena pulsera de actividad calidad precio**.
 
 
-{% include amz/horizontal/xiaomi-mi-band-4.html %}
+{% include amz/horizontal/xiaomi-mi-band-5.html %}
 
 Así que, si no vas a nadar y la monitorización del sueño te da igual, puedes 
 escoger la Xiaomi Mi Band 5, pero si no (o no

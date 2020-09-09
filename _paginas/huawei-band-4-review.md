@@ -167,7 +167,7 @@ En contrapartida parece que no cuenta demasiado bien los pasos. En concreto
 **cuenta pasos de más** (la mayoría de usuarios dicen que unos 1000). 
 Esto puede ser debido a que cuenta sólo con un acelerómetro de 3 ejes, 
 sin giroscopio adicional (de otros tantos ejes) que sí incluyen otras pulseras
-de actividad baratas como la [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html),
+de actividad baratas como la Xiaomi MI Band 5,
 la [Honor Band 5](/honor-band-5-review.html) o la propia [Huawei Band 4 Pro](/huawei-band-4-pro-review.html).
 
 
@@ -179,7 +179,7 @@ pulseras baratas como la [MMTEK Street Workout II](/mmtek-street-workout-ii.html
 yo la recomiendo por encima de esta y otras de marcas similares sin ninguna duda. 
 Por construcción, materiales y la aplicación.
 
-Sin embargo, **por pocos euros más** puedes tener una [Xiaomi MI Band 4](/pulsera-xiaomi-mi-band-4.html)
+Sin embargo, **por pocos euros más** puedes tener una Xiaomi MI Band 5
 o una [Honor Band 5](/honor-band-5-review.html). Ambas tienen pantalla AMOLED y pueden monitorizar 
 la natación (bueno, mas o menos), además de giroscopio para contar
 mejor los pasos y mejor duración de la batería.
@@ -192,7 +192,7 @@ respaldo de un gigante como Huawei.
 <br>
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">
   
-  {% include amz/cuadro/xiaomi-mi-band-4.html %}
+  {% include amz/cuadro/xiaomi-mi-band-5.html %}
 
   {% include amz/cuadro/honor-band-5.html %}
   
