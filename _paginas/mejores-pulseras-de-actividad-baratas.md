@@ -241,7 +241,7 @@ las **mejores pulseras de actividad baratas**, que luchan continuamente por mant
 Sin embargo la propuesta de **Honor**, aporta la **medición de oxígeno en sangre** y mejor
 **mejor monitorización del sueño** (detecta el sueño REM). En contrapartida, la 
 interfaz **no es tan fluida** y tiene un poco **menos de batería** que la 
-**Xiaomi Mi Band 5**], pero sinceramente, creo que compensa,
+**Xiaomi Mi Band 5**, pero sinceramente, creo que compensa,
 y todo esto hace de ella la **mejor pulsera de actividad barata**
 y la **mejor pulsera de actividad calidad precio**.
 
