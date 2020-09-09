@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020/03/14
-updated: 2020/04/26
+updated: 2020/09/09
 autor: Pulsera de Actividad
 title: 🥇 Mejores pulseras de actividad baratas ✓ 2020
 h1: Descubre las mejores pulseras de actividad calidad precio por debajo de 50€
@@ -196,7 +196,7 @@ son de primer nivel, haciendo de esta **pulsera de actividad barata**
 un buen dispositivo para iniciarse. 
 
 
-## <u>Mejor relación calidad-precio</u>: ¿Honor Band 5 o Mi Band 4?.
+## <u>Mejor relación calidad-precio</u>: ¿Honor Band 5 o Mi Band 5?
 
 Si todos los demás dispositivos ya eran parecidos, estos dos son calcados...
 Incluso tienen la misma resolución de pantalla, características muy similares
@@ -241,20 +241,22 @@ las **mejores pulseras de actividad baratas**, que luchan continuamente por mant
 Sin embargo la propuesta de **Honor**, aporta la **medición de oxígeno en sangre** y mejor
 **mejor monitorización del sueño** (detecta el sueño REM). En contrapartida, la 
 interfaz **no es tan fluida** y tiene un poco **menos de batería** que la 
-[Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html), pero sinceramente, creo que compensa,
+**Xiaomi Mi Band 5**], pero sinceramente, creo que compensa,
 y todo esto hace de ella la **mejor pulsera de actividad barata**
 y la **mejor pulsera de actividad calidad precio**.
 
-Recordad además que muchos usuarios se quejan de la [Mi Band 4](/pulsera-xiaomi-mi-band-4.html)
+Recordad además que muchos usuarios se quejaban de la [Mi Band 4](/pulsera-xiaomi-mi-band-4.html)
 por dos motivos principales; la **mala monitorización del sueño** y los **problemas**
-en la monitorización de la **natación**.  Sin embargo es una **buena
-pulsera de actividad calidad precio**.
+en la monitorización de la **natación**. Todo esto lo han mejorado en la **Mi Band 5**.
+Han añadido una pantalla más grande y mejorado el sensor de pulso, pero no han 
+añadido otras funcionalidades anunciadas, como sensor de oxígeno en sangre, NFC
+o control por voz con Alexa. Sin embargo sigue siendo una **buena pulsera de actividad calidad precio**.
 
 
 {% include amz/horizontal/xiaomi-mi-band-4.html %}
 
 Así que, si no vas a nadar y la monitorización del sueño te da igual, puedes 
-escoger la [Xiaomi Mi Band 4](/pulsera-xiaomi-mi-band-4.html), pero si no (o no
+escoger la Xiaomi Mi Band 5, pero si no (o no
 lo tienes claro) **la mejor opción puede ser la [Honor Band 5](/honor-band-5-review.html)**,
 con un funcionamiento general más correcto apoyado en las
 tecnologías Huawei TrueSleep<sup>TM</sup> y la Huawei TruSeen<sup>TM</sup>
@@ -263,7 +265,7 @@ y la excelente app de Huawei.
 
 <br>
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">  
-  {% include amz/cuadro/fitbit-charge-3.html %}  
+  {% include amz/cuadro/fitbit-charge-4-textil.html %}  
   {% include amz/cuadro/garmin-vivosmart-4.html %}  
   {% include amz/cuadro/fitbit-inspire-hr.html %}
 </div>
