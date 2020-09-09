@@ -132,7 +132,7 @@ podemos citar:
 - Incorpora **sensor de oxígeno en sangre**, SpO2.
 
 
-Sin embargo la [Xiaomi Mi Band 5](/pulsera-xiaomi-mi-band-5.html) supera a esta
+Sin embargo la Xiaomi Mi Band 5 supera a esta
 en un funcionamiento más fluido y **mayor duración de la
 batería** (aproximadamente un 20-30% más) y mayor tamaño de pantalla.
 
