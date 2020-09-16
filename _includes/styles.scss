@@ -115,7 +115,7 @@ figure {
   }
 
   &:active {
-    box-shadow: inset 1px 1px 1px #DFDFDF;   
+    box-shadow: inset 1px 1px 1px #DFDFDF;
   }
 
   &--verde {
@@ -501,7 +501,7 @@ article {
     color: rgba(255, 255, 255, 0.8);
   }
 
-  .inner {    
+  .inner {
     margin: 0 auto;
     padding: $rs 0;
     width: 100%;
@@ -1039,7 +1039,7 @@ pre {
   &__title {
 
   }
-  
+
   &__btn {
     background: $color-verde;
     border: none;
@@ -1206,5 +1206,29 @@ pre {
     em {
       color: $color-verde;
     }
+  }
+}
+
+
+
+.toc {
+  background: lighten($color-azul, 20%);
+  padding: (1.5*$rs);
+  margin-top: $rs;
+  font-family: $font-sans;
+  color: white;
+
+  &__header {
+    margin: 0;
+  }
+  &__list {
+
+    & a {
+      color: white;
+    }
+  }
+
+  &--snippet {
+
   }
 }

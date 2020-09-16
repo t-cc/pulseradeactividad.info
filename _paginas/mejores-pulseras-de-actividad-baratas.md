@@ -63,6 +63,19 @@ interesante entre las mejores pulseras de actividad batatas es difícil de encon
 </div>
 
 
+Y para los impacientes...
+
+<div markdown="0" class="toc toc--snippet">
+  <h2 class="toc__header">Mejores pulseras de actividad batatas:</h2>
+  <ol class="toc__list">
+    <li><a href="#mejor-relación-calidad-precio-honor-band-5-o-mi-band-5">Honor Band 5: Mejor relación calidad-precio.</a></li>
+    <li><a href="#mejor-relación-calidad-precio-honor-band-5-o-mi-band-5">Xiaomi Mi Band 5: Una buena smartband.</a></li>
+    <li><a href="#mejor-monitorización-del-sueño-huawei-band-4">Huawei Band 4: Mejor monitorización del sueño.</a></li>
+    <li><a href="#mejor-para-fitness-y-running-huawei-band-4-pro">Huawei Band 4 Pro: Mejor para fitness.</a></li>
+  </ol>
+</div>
+
+
 Si establecemos un **presupuesto por debajo de los 50€**, dejando de lado las
 mejores pulseras de actividad, como Fitbit, Garmin, Samsumng, etc, nos quedamos
 con realmente pocos contrincantes reales para alzarse con el podium de las
@@ -95,6 +108,8 @@ Esta es una buena opción para un uso deportivo intenso, ya que cuenta con
     Huawei Band 4 Pro con GPS.
   </figcaption>
 </figure>
+
+{% include amz/horizontal/huawei-band-4-pro.html %}
 
 <div class="cuadro-comparar" markdown="0">
   <ul class="cuadro-comparar__ok">
@@ -145,6 +160,8 @@ La [Huawei Band 4](/huawei-band-4-review.html) está respaldada por un gigante
 tecnológico tanto en hardware como en software. Muchos pensareis que sólo fabrican
 teléfonos, pero Huawei fabrica el hardware que soporta la infraestructura de comunicaciones
 de muchos países. De ahí la guerra comercial con EEUU y los problemas con Android<sup>TM</sup>.
+
+{% include amz/horizontal/huawei-band-4.html %}
 
 Todo esto hace que sea una **apuesta segura** entre las pulseras de actividad baratas,
 con un **precio ajustado**, una buena monitorización del sueño y del ritmo cardíaco,
@@ -203,6 +220,10 @@ Incluso tienen la misma resolución de pantalla, características muy similares
 y unos precios que siempre evolucionan parejos. Realmente estamos ante 
 las **mejores pulseras de actividad baratas**, que luchan continuamente por mantenerse.
 
+{% include amz/horizontal/honor-band-5.html %}
+
+{% include amz/horizontal/xiaomi-mi-band-5.html %}
+
 <figure markdown="0">
   <amp-img alt="Honor Band 5 en diferentes colores." 
       width="700" height="266" layout="responsive"
@@ -235,15 +256,15 @@ las **mejores pulseras de actividad baratas**, que luchan continuamente por mant
   </ul>
 </div>
 
-
-{% include amz/horizontal/honor-band-5.html %}
-
 Sin embargo la propuesta de **Honor**, aporta la **medición de oxígeno en sangre** y mejor
 **mejor monitorización del sueño** (detecta el sueño REM). En contrapartida, la 
 interfaz **no es tan fluida** y tiene un poco **menos de batería** que la 
 **Xiaomi Mi Band 5**, pero sinceramente, creo que compensa,
 y todo esto hace de ella la **mejor pulsera de actividad barata**
 y la **mejor pulsera de actividad calidad precio**.
+
+
+{% include amz/horizontal/honor-band-5.html %}
 
 Recordad además que muchos usuarios se quejaban de la [Mi Band 4](/pulsera-xiaomi-mi-band-4.html)
 por dos motivos principales; la **mala monitorización del sueño** y los **problemas**
