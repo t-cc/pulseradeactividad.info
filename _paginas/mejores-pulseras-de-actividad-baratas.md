@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020/03/14
-updated: 2020/09/09
+updated: 2020/09/16
 autor: Pulsera de Actividad
 title: 🥇 Mejores pulseras de actividad baratas ✓ 2020
 h1: Descubre las mejores pulseras de actividad calidad precio por debajo de 50€
