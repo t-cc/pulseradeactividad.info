@@ -979,6 +979,12 @@ pre {
 }
 */
 
+.blog-header {
+  margin-bottom: $rs * 2.5;
+  .blog-title {
+    margin-top: 0;
+  }
+}
 
 .notification {
   position: fixed;

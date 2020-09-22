@@ -4,8 +4,11 @@ date: 2020/03/05
 date: 2020/03/05
 autor: Pulsera de Actividad
 title: ✅ Ideas originales para el día del padre.
-published: true
+published: false
 en_portada: false
+
+sitemap:
+    exclude: 'yes'
 
 description: >
   ✨ Descubre las mejores pulseras de actividad para regalar el día del padre.

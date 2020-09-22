@@ -7,12 +7,10 @@ sitemap:
 
 <main class="content" role="main">
 
-  {% comment %}
     <header class="blog-header">
-      <h1 class="blog-title">{{ site.title }}</h1>
-      <h2 class="blog-description">{{ site.description }}</h2>
+      <h1 class="blog-title">Encuentra la pulsera de actividad que mejor se adapta ti.</h1>
+      {% comment %}<h2 class="blog-description">{{ site.description }}</h2>{% endcomment %}
     </header>
-  {% endcomment %}
 
   <div class="frame">
     {% assign paginas = site.paginas | sort: 'date' | reverse %}

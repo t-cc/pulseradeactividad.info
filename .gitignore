@@ -3,6 +3,7 @@
 _site
 vendor
 *.sublime*
+Gemfile.lock
 
 !.gitignore
 !.editorconfig
