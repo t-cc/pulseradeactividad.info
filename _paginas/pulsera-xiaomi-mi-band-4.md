@@ -215,9 +215,16 @@ a caminar todos los días**, para **personas mayores**, para **tener notificacio
 y poco más. Quizá sea más un accesorio de moda
 que una pulsera de actividad como tal. Recordad que **tampoco es recomendable para nadar**.
 
+Puedes ver otras opciones en la lista de las 
+[mejores pulseras de actividad baratas](/historias/mejores-pulseras-de-actividad-baratas.html)
+para tenerlo más claro.
 
-Si queréis otro tipo de pulsera, a continuación os dejo una lista de las **mejores pulseras**,
+
+Si quieres otro tipo de pulsera, echa un ojo a las 
+[mejores pulseras](/mejores-pulseras-de-actividad.html),
 a mi entender, para **monitorizar la actividad física**:
+
+
 
 <br>
 <div class="amz_wrapper amz_wrapper--2cols" markdown="0">

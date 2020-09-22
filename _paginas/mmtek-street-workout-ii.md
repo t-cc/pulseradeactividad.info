@@ -128,7 +128,9 @@ creo que puede resultar contraproducente si no dan lecturas realistas.
 En definitiva, **en ningún caso recomendaría su compra**. En este rango de precios
 (de 25 a 40€) tenéis opciones mucho mejores como la [Huawei Band 4](/huawei-band-4-review.html),
 la Xiaomi MI Band 5 o incluso la 
-[Honor 5 Band](/honor-band-5-review.html).
+[Honor 5 Band](/honor-band-5-review.html). Revisa la lista de las
+[mejores pulseras de actividad baratas](/mejores-pulseras-de-actividad-baratas.html)
+para obtener más información.
 
 Si queréis algo mejor siempre tendréis la **Fitbit Inspire HR**, 
 la más asequible de las *"buenas"*, por unos 80€.  

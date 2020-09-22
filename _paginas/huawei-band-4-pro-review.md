@@ -196,9 +196,10 @@ En definitiva, obviando lo del GPS, estamos ante una pulsera con una buena
 monitorización del sueño y del ritmo cardíaco, que ofrece estimaciones de 
 VO2Max y con una aplicación bonita e intuitiva. 
 
-Si no fuese a utilizar el GPS y buscase un modelo más barato os recomendaría
+Si no fueseis a utilizar el GPS y buscaseis un modelo más barato os recomendaría
 decidir entre la [Huawei Band 4 (normal)](/huawei-band-4-review.html) y la
-Xiaomi Mi Band 5.
+Xiaomi Mi Band 5, pero antes echad un ojo a la lista de 
+[mejores pulseras de actividad baratas](/mejores-pulseras-de-actividad-baratas.html)
 
 <br>
 

@@ -202,7 +202,8 @@ idéntica.
 En cualquier caso se trata de una **muy buena opción**, pero con unos acabados que 
 quizá desmerecen un poco al resto. En este rango de precios, y con características
 muy parecidas puedes escoger entre esta **Honor Band 5**, la [Huawei Band 4](/huawei-band-4-review.html) 
-y la Xiaomi Mi Band 5.
+y la Xiaomi Mi Band 5. Puedes ver más información en la lista de 
+[mejores pulseras de actividad baratas](/historias/mejores-pulseras-de-actividad-baratas.html).
 
 Recuerda que, por un poco más, puedes optar por la [Huawei Band 4 Pro](/huawei-band-4-pro-review.html) 
 o por la excelente *Fitbit Inspire HR*. Ambas incluyen **algoritmos** para calcular

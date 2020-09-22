@@ -182,7 +182,10 @@ Por construcción, materiales y la aplicación.
 Sin embargo, **por pocos euros más** puedes tener una Xiaomi MI Band 5
 o una [Honor Band 5](/honor-band-5-review.html). Ambas tienen pantalla AMOLED y pueden monitorizar 
 la natación (bueno, mas o menos), además de giroscopio para contar
-mejor los pasos y mejor duración de la batería.
+mejor los pasos y una mejor duración de la batería.
+Puedes echar un ojo a la lista de las 
+[mejores pulseras de actividad baratas](/historias/mejores-pulseras-de-actividad-baratas.html)
+para tenerlo más claro.
 
 En definitiva, se trata de una opción económica y básica, quizá para iniciación.
 Cuenta con un software bonito y sencillo, una buena app, un gran diseño y el
