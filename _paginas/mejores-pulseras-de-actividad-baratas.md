@@ -293,8 +293,9 @@ y la excelente app de Huawei.
 <br>
 <br>
 
-<script type="application/ld+json" markdow="0"> 
-{
+<div markdow="0">
+  <script type="application/ld+json"> 
+  {
     "@context": "https://schema.org",
     "@type": "Review",
     "name": "{{page.title}}",
@@ -328,9 +329,9 @@ y la excelente app de Huawei.
             "reviewCount": "1"
         }
     }
-} 
-</script>
-<script type="application/ld+json" markdow="0">
+  } 
+  </script>
+  <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
@@ -364,4 +365,5 @@ y la excelente app de Huawei.
         }
       }]
     }
-</script>
+  </script>
+</div>
