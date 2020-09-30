@@ -293,77 +293,76 @@ y la excelente app de Huawei.
 <br>
 <br>
 
-<div markdow="0">
-  <script type="application/ld+json"> 
+
+<script type="application/ld+json" markdown="0"> 
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": "{{page.title}}",
+  "datePublished": "{{page.date | date_to_xmlschema }}",
+  "dateModified": "{{page.updated | date_to_xmlschema }}",
+  "reviewBody": "",
+  "reviewRating": {
+      "@type": "Rating",
+      "worstRating": "1",
+      "bestRating": "10",
+      "ratingValue": 10
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "{{ site.name }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.logo_amp | prepend: site.baseurl | prepend: site.url }}",
+      "width": "{{ site.logo_amp__width }}",
+      "height": "{{ site.logo_amp__height }}"
+    }
+  },
+  "itemReviewed": {
+      "@type": "Product",
+      "name": "{{page.title}}",
+      "aggregateRating": {
+          "@type": "AggregateRating",
+          "worstRating": "1",
+          "bestRating": "10",
+          "ratingValue": 10,
+          "reviewCount": "1"
+      }
+  }
+} 
+</script>
+<script type="application/ld+json" markdown="0">
   {
     "@context": "https://schema.org",
-    "@type": "Review",
-    "name": "{{page.title}}",
-    "datePublished": "{{page.date | date_to_xmlschema }}",
-    "dateModified": "{{page.updated | date_to_xmlschema }}",
-    "reviewBody": "",
-    "reviewRating": {
-        "@type": "Rating",
-        "worstRating": "1",
-        "bestRating": "10",
-        "ratingValue": 10
-    },
-    "author": {
-      "@type": "Organization",
-      "name": "{{ site.name }}",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "{{ site.logo_amp | prepend: site.baseurl | prepend: site.url }}",
-        "width": "{{ site.logo_amp__width }}",
-        "height": "{{ site.logo_amp__height }}"
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "¿Cual es la mejor smartband barata para fitness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La Huwawei Band 4 Pro es la mejor smartband para fitness, ya que gracias a la incorporación de los algoritmos <em>Fristbeat</em> puede calcular estadísticas como: <ul><li>V02Max</li><li>Efecto del entrenamiento</li><li>Tiempo de recuperación</li></ul>."
       }
-    },
-    "itemReviewed": {
-        "@type": "Product",
-        "name": "{{page.title}}",
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "worstRating": "1",
-            "bestRating": "10",
-            "ratingValue": 10,
-            "reviewCount": "1"
-        }
-    }
-  } 
-  </script>
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "¿Cual es la mejor smartband barata para fitness?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "La Huwawei Band 4 Pro es la mejor smartband para fitness, ya que gracias a la incorporación de los algoritmos <em>Fristbeat</em> puede calcular estadísticas como: <ul><li>V02Max</li><li>Efecto del entrenamiento</li><li>Tiempo de recuperación</li></ul>."
-        }
-      }, {
-        "@type": "Question",
-        "name": "¿Cual es la mejor smartband barata para monitorizar el sueño?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "La Huawei Band 4 (Normal) es la mejor para la monitorización del sueño al incluír tecnologías como <em>Huawei TrueSeen</em> y <em>Huawei TruSleep</em> (tambien disponibles en la Honor Band 5)."
-        }
-      }, {
-        "@type": "Question",
-        "name": "¿Cual es la mejor smartband barata calidad/precio?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Sin duda la Honor Band 5, pero en dura pugna con la Xiaomi Mi Band 5."
-        }
-      }, {
-        "@type": "Question",
-        "name": "¿Cual es la mejor smartband en general?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "La mejor pulsera de actividad por funcionalidades y precisión, sin tener en cuenta el precio, es la Fitbit Charge 4."
-        }
-      }]
-    }
-  </script>
-</div>
+    }, {
+      "@type": "Question",
+      "name": "¿Cual es la mejor smartband barata para monitorizar el sueño?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La Huawei Band 4 (Normal) es la mejor para la monitorización del sueño al incluír tecnologías como <em>Huawei TrueSeen</em> y <em>Huawei TruSleep</em> (tambien disponibles en la Honor Band 5)."
+      }
+    }, {
+      "@type": "Question",
+      "name": "¿Cual es la mejor smartband barata calidad/precio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sin duda la Honor Band 5, pero en dura pugna con la Xiaomi Mi Band 5."
+      }
+    }, {
+      "@type": "Question",
+      "name": "¿Cual es la mejor smartband en general?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La mejor pulsera de actividad por funcionalidades y precisión, sin tener en cuenta el precio, es la Fitbit Charge 4."
+      }
+    }]
+  }
+</script>
