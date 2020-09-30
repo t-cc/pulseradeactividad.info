@@ -317,17 +317,6 @@ y la excelente app de Huawei.
       "width": "{{ site.logo_amp__width }}",
       "height": "{{ site.logo_amp__height }}"
     }
-  },
-  "itemReviewed": {
-      "@type": "Product",
-      "name": "{{page.title}}",
-      "aggregateRating": {
-          "@type": "AggregateRating",
-          "worstRating": "1",
-          "bestRating": "10",
-          "ratingValue": 10,
-          "reviewCount": "1"
-      }
   }
 } 
 </script>
