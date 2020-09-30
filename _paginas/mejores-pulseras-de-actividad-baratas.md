@@ -292,3 +292,40 @@ y la excelente app de Huawei.
 </div>
 <br>
 <br>
+
+<script type="application/ld+json" markdow="0"> 
+{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "Review",
+    "name": "{{page.title}}",
+    "datePublished": "{{page.date | date_to_xmlschema }}",
+    "dateModified": "{{page.updated | date_to_xmlschema }}",
+    "reviewBody": "",
+    "reviewRating": {
+        "@type": "Rating",
+        "worstRating": "1",
+        "bestRating": "10",
+        "ratingValue": 10
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "{{ site.name }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.logo_amp | prepend: site.baseurl | prepend: site.url }}",
+        "width": "{{ site.logo_amp__width }}",
+        "height": "{{ site.logo_amp__height }}"
+      }
+    },
+    "itemReviewed": {
+        "@type": "Product",
+        "name": "{{page.title}}",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "worstRating": "1",
+            "bestRating": "10",
+            "ratingValue": 10,
+            "reviewCount": "1"
+        }
+    }
+} </script>
