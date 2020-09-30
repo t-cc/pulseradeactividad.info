@@ -19,6 +19,7 @@ image:
   alt: Mejores pulseras de actividad baratas.
   width: 700
   height: 394
+  # Ojo imaxen 1600x840! 1600x900
   # Imagen para metadata (Google discover, redes sociales, etc; 16:9 1200x675 | 4:3 1200x900, 1100x825 | 1:1 1000x1000, 900x900)
   16x9: /assets/mejores-pulseras-de-actividad-baratas/mejores-pulseras-de-actividad-baratas-16x9.jpg
   4x3: /assets/mejores-pulseras-de-actividad-baratas/mejores-pulseras-de-actividad-baratas-4x3.jpg
