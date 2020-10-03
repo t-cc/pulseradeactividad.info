@@ -23,8 +23,27 @@
   },
   "thumbnailurl": "{% if page.image.16x9 %}{{ page.image.16x9 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo_16x9 | prepend: site.baseurl | prepend: site.url }}{% endif %}",
   "image": [
+    {% if page.image.16x9_size and page.image.4x3_size and page.image.1x1_size %}{
+      "@type": "ImageObject",
+      "url": "{{ page.image.16x9 | prepend: site.baseurl | prepend: site.url }}",
+      "width": "{{ page.image.16x9_size }}",
+      "height": "{{ (page.image.16x9_size | divided_by: 16 | times : 9 ) }}"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "{{ page.image.4x3 | prepend: site.baseurl | prepend: site.url }}",
+      "width": "{{ page.image.4x3_size }}",
+      "height": "{{ (page.image.4x3_size | divided_by: 4 | times : 3 ) }}"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "{{ page.image.1x1 | prepend: site.baseurl | prepend: site.url }}",
+      "width": "{{ page.image.1x1_size }}",
+      "height": "{{ page.image.1x1_size }}"
+    }{% else %}
     "{% if page.image.16x9 %}{{ page.image.16x9 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo_16x9 | prepend: site.baseurl | prepend: site.url }}{% endif %}",
     "{% if page.image.4x3 %}{{ page.image.4x3 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo_4x3 | prepend: site.baseurl | prepend: site.url }}{% endif %}",
     "{% if page.image.1x1 %}{{ page.image.1x1 | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo_1x1 | prepend: site.baseurl | prepend: site.url }}{% endif %}"
+    {% endif %}
   ]
 }

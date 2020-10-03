@@ -21,8 +21,11 @@ image:
   height: 394
   # Ojo imaxen 1600x840! 1600x900 1600x1200 1600x1600
   # Imagen para metadata (Google discover, redes sociales, etc; 16:9 1200x675 | 4:3 1200x900, 1100x825 | 1:1 1000x1000, 900x900)
+  16x9_size: 1600
   16x9: /assets/mejores-pulseras-de-actividad-baratas/16x9/mejores-pulseras-de-actividad-baratas.jpg
+  4x3_size: 1600
   4x3: /assets/mejores-pulseras-de-actividad-baratas/4x3/mejores-pulseras-de-actividad-baratas.jpg
+  1x1_size: 1600
   1x1: /assets/mejores-pulseras-de-actividad-baratas/1x1mejores-pulseras-de-actividad-baratas.jpg
 
 
