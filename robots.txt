@@ -1,8 +1,5 @@
 
 User-agent: *
-Disallow: /cookies.html
-
-User-agent: *
 Allow: /
 
 Sitemap: https://pulseradeactividad.info/sitemap.xml
