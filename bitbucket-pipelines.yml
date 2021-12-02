@@ -1,6 +1,6 @@
 # Syncs bitbucket repo to github
 
-image: atlassian/default-image:3
+image: aplpine
 
 pipelines:
   branches:
