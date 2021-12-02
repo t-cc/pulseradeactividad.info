@@ -1,6 +1,6 @@
 # Syncs bitbucket repo to github
 
-image: aplpine
+image: alpine
 
 pipelines:
   branches:
